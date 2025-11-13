@@ -1,1 +1,57 @@
+import fitz  # PyMuPDF
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
+# 1️⃣ Read PDF and extract text
+def load_pdf_text(pdf_path):
+    doc = fitz.open(pdf_path)
+    text = ""
+    for page in doc:
+        text += page.get_text("text") + "\n"
+    doc.close()
+    return text
+
+# 2️⃣ Split text into chunks (LangChain splitter)
+def split_text(text):
+    splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=100)
+    chunks = splitter.split_text(text)
+    return chunks
+
+# 3️⃣ Build embeddings (TF-IDF)
+def build_embeddings(chunks):
+    vectorizer = TfidfVectorizer().fit(chunks)
+    embeddings = vectorizer.transform(chunks)
+    return vectorizer, embeddings
+
+# 4️⃣ Retrieve top matches for a query
+def retrieve(query, vectorizer, embeddings, chunks, top_k=3):
+    q_vec = vectorizer.transform([query])
+    sims = cosine_similarity(q_vec, embeddings).flatten()
+    top_indices = sims.argsort()[-top_k:][::-1]
+    return [chunks[i] for i in top_indices]
+
+# 5️⃣ Generate answer (simple summary)
+def generate_answer(query, contexts):
+    answer = f"Answer for '{query}':\n"
+    for i, ctx in enumerate(contexts, 1):
+        answer += f"\nContext {i}:\n{ctx[:400]}...\n"
+    return answer
+
+# 🔧 Run the RAG pipeline
+if __name__ == "__main__":
+    pdf_path = "sample.pdf"  # Replace with your PDF file
+    text = load_pdf_text(pdf_path)
+    chunks = split_text(text)
+    vectorizer, embeddings = build_embeddings(chunks)
+
+    print("✅ PDF loaded and indexed.")
+    print("Ask me something about the PDF (type 'exit' to quit):\n")
+
+    while True:
+        query = input("You: ")
+        if query.lower() in ["exit", "quit"]:
+            break
+        contexts = retrieve(query, vectorizer, embeddings, chunks)
+        answer = generate_answer(query, contexts)
+        print("\n" + answer + "\n" + "-"*80 + "\n")
