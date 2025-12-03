@@ -1,4 +1,3 @@
-This response contains the two requested markdown files, one for English questions and one for Kannada questions, extracted and organized from the uploaded documents.
 
 --- ENGLISH VERSION MARKDOWN ---
 # Unit-1
