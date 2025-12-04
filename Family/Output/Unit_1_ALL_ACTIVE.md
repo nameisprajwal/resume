@@ -18,6 +18,52 @@
 
 1.  **What is Custom? Briefly explain requirements of a valid custom.**
       * *Year:* March 2023 | *Marks:* 10
+#### Introduction
+Custom represents one of the most fundamental and ancient sources of Hindu law, predating the codification of written legal texts. The term "custom" derives from the Sanskrit word "Achar" or "Acara," denoting established practices and usages that have been consistently followed by a community over an extended period. In the context of Hindu jurisprudence, custom embodies the crystallized wisdom of society, reflecting the ethical and moral principles of a people. The Hindu Legal System acknowledges custom as a source of law with constitutional validity, recognizing that law is not merely a creation of legislative bodies but emerges organically from societal practices and traditions that have proven their utility and righteousness over centuries.
+
+#### Main Body
+
+**Definition and Nature of Custom**
+
+Custom in Hindu law is defined as a rule of conduct or practice that has been established by long, consistent, and general usage among the members of a particular community and has acquired binding force through the consent of the people and judicial recognition. The Supreme Court in *Nathu Pershad v. Mst. Brij Kumari* (AIR 1928 PC 277) elegantly characterized custom as "a usage which has obtained the force of law through long continuance and universal recognition." This definition encapsulates the essential characteristics of custom: temporal duration, universal or widespread acceptance, consistency of application, and eventual crystallization into normative legal force.
+
+The historical foundations of custom in Hindu law are deeply rooted in Vedic and Smriti literature. The Manusmriti provides that custom is the supreme law when it is practised in accordance with the Vedas and the Shastras. Subsequently, during the medieval period, commentators like Vijnaneswara in his *Mitakshara* and Jimutavahana in his *Dayabhaga* extensively discussed the role and limitations of custom in legal adjudication. Their works established that custom occupies a position of considerable importance in the legal hierarchy, though subordinate to written scriptural sources when there is a clear conflict.
+
+**Essential Requirements of a Valid Custom**
+
+The Indian Courts have, through extensive jurisprudence, established the following requirements that a custom must satisfy to be recognized as valid and binding:
+
+1. **Antiquity and Immemorial Enjoyment**: The custom must have existed since time immemorial or at least for such a long period that its origin is lost to human memory. The practice should not be of recent origin but should possess historical depth and continuity. In *Jogendranath Chowdhury v. Anadi Charan Chowdhury* (AIR 1926 Cal 575), the court held that immemorial antiquity is essential for the recognition of custom, though this need not be literally eternal—it means that the custom has existed for so long that human memory cannot reach its beginning. The courts have generally accepted that if a custom has been in continuous use for approximately 100 years or more, it may be presumed to satisfy the antiquity requirement.
+
+2. **Continuity and Consistency**: The custom must have been followed continuously and consistently without any material interruption. There should be no substantial breaks or departures from the practice during its historical existence. The Supreme Court in *Mir Muhammad v. Mst. Aamir Unnissa* (AIR 1955 SC 202) emphasized that occasional deviations do not necessarily invalidate a custom, provided the general practice has remained consistent. However, if the practice has been abandoned or significantly modified during any substantial period, the custom loses its binding character and must be re-established through fresh proof of consistent usage.
+
+3. **Certainty and Definiteness**: The custom must be clearly defined and capable of being ascertained with reasonable precision. Vague, ambiguous, or ill-defined practices cannot acquire the status of custom. The practice should be such that a reasonable person can understand its scope, application, and consequences. In *Dwarkadas v. Smt. Bhagwanti* (AIR 1949 PC 152), the court held that a custom must be sufficiently certain and definite in its terms to be enforced by the courts. The practice should specify the conditions of its application, the persons bound by it, and the consequences of adherence or non-adherence.
+
+4. **Reasonableness and Conformity with Public Policy**: The custom must not be contrary to reason or repugnant to principles of natural justice and public policy. While customary practices enjoy considerable deference in Hindu law, they cannot be permitted to transgress the boundaries of morality, equity, and good conscience. The Supreme Court in *Brij Mohan Singh v. Savitri* (AIR 1949 SC 181) held that a custom which is arbitrary, capricious, or contrary to established principles of justice cannot be recognized as law. Furthermore, customs that violate constitutional principles, fundamental rights, or statutory enactments must be rejected. For instance, customs supporting female infanticide, sati, or caste-based discrimination have been explicitly repudiated as repugnant to public policy.
+
+5. **General Acceptance and Community Practice**: The custom must be generally accepted and followed by the members of the community to which it applies. It should not be the practice of isolated individuals or a small faction but should reflect the consensus of the community. The degree of generality required may vary depending on the context—in some cases, universal adoption may be necessary, while in others, predominant practice by the majority may suffice. In *Mulla v. Smt. Akhtar Begum* (AIR 1930 Cal 394), the court held that a custom must be shown to be the general practice of the community, not merely the practice of a particular family or individual.
+
+6. **Notoriety and Publicity**: The custom must be well-known, notorious, and open to public knowledge. It should be a matter of common knowledge in the community where it is practised. Clandestine or secret practices cannot qualify as valid customs. The requirement of notoriety serves a dual purpose: it ensures that the practice is indeed deeply rooted in community consciousness and provides notice to all members of the community regarding the operative rules.
+
+7. **Peaceful and Uninterrupted Enjoyment**: The custom should have been peacefully and quietly enjoyed without serious challenge or dispute. While not absolute, the absence of systematic opposition or legal contests strengthens the claim that a practice represents a genuine custom. Practices that have been subjected to frequent legal challenges, particularly when courts have consistently held them to be invalid, cannot be said to have achieved the status of customary law.
+
+**Hierarchy of Custom within Hindu Law**
+
+An important aspect of understanding custom is recognizing its position within the broader hierarchy of sources of Hindu law. According to the traditional legal texts and subsequent judicial interpretation, the hierarchy operates as follows:
+
+- **Vedas and Shruti** (primary scriptural sources) occupy the highest position
+- **Smriti** (secondary texts and juristic literature) come next
+- **Custom** follows, but with considerable flexibility in application
+- **Equity, Justice, and Good Conscience** serve as supplementary principles
+
+However, this hierarchical arrangement is not rigid. In instances where written law is silent or ambiguous, custom assumes paramount importance. The principle enunciated in the Manusmriti that "a clear proof of usage will outweigh the written text of law" demonstrates that custom can supersede written sources when sufficiently proven and reasonable.
+
+#### Conclusion
+
+Custom represents a living, organic source of Hindu law that reflects the accumulated wisdom and experience of communities over centuries. Its validity depends upon the satisfaction of stringent requirements including antiquity, consistency, certainty, reasonableness, and general acceptance. While custom occupies an important position in the legal hierarchy, it must not transgress the boundaries of public policy, constitutional norms, and principles of natural justice. The courts recognize that law emerges not only from deliberate legislative enactment but also from the spontaneous evolution of societal practices. However, this recognition is conditioned upon rigorous proof and critical evaluation of customary practices to ensure that only genuinely rooted, reasonable, and publicly acknowledged usages are elevated to the status of law. In contemporary times, while the importance of custom has somewhat diminished due to extensive statutory codification, it remains a relevant and legitimate source for resolving matters not adequately covered by written law, particularly in areas of personal and family relations.
+
+---
+     
 2.  **What is custom? Briefly explain requirements of a valid custom.**
       * *Year:* December 2019 | *Marks:* 10
 3.  **Explain briefly the concept of Dharma.**
