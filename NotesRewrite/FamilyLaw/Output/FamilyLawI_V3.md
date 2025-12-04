@@ -1,7 +1,6 @@
+# UNIT I: FOUNDATIONS, SOURCES, AND SCHOOLS OF HINDU LAW
 
-# UNIT–I: The Concept of Dharma - Sources of Hindu Law – Ancient and Modern - Importance of Dharma Shastras on Legislation – Mitakshara and Dayabaga Schools of Hindu Law - Application of Hindu Law
-
-## 1. THE CONCEPT OF DHARMA
+## 1. JURISPRUDENTIAL FOUNDATION: THE CONCEPT OF DHARMA
 
 The concept of dharma in Hindu law forms the foundation of the Hindu legal and moral order. Dharma, derived from the Sanskrit root *dhr*, means "to uphold" or "to sustain," and its scope extends far beyond mere legal regulation; it is a multifaceted principle encompassing law, justice, morality, virtue, duty, and the right way of living. In Hindu jurisprudence, dharma prescribes the duties and moral obligations that an individual must fulfill according to their stage of life, social position, and circumstances. It is dynamic and context-dependent, providing guidance for conduct that maintains both cosmic order (*ṛta*) and social harmony.
 
@@ -11,11 +10,11 @@ Dharma according to Hindu law is described as encompassing all rules of good and
 
 Ultimately, the concept of dharma is integrally linked to the idea of truth and justice. In Vedic literature, dharma is equated with *satya* (truth); whatever upholds truth and justice is considered dharma. Thus, Hindu law—rooted in dharma—seeks to maintain balance between moral, legal, and social order, emphasizing responsibilities over entitlements, and aiming for both worldly welfare and spiritual liberation.
 
-## 2. APPLICATION OF HINDU LAW
+## 2. SCOPE AND APPLICABILITY OF HINDU LAW
 
 The term ‘Hindus’ denotes all those persons who profess Hindu religion either by birth from Hindu parents or by conversion to Hindu faith. In *Yagnapurushdasji v. Muldas* [AIR 1966 SC 1119], the Supreme Court accepted the working formula evolved by Tilak regarding Hindu religion that ‘acceptance of Vedas’ with reverence, recognition of the fact that the number of Gods to be worshiped at large, that indeed is the distinguishing feature of Hindu religion.
 
-### 2.1. A Hindu
+### 2.1. Legal Definition and Categories of 'Hindu'
 
 Hindu is defined broadly for the purpose of Hindu law as anyone who is not a Muslim, Christian, Parsi, or Jew and who is governed by Hindu law. This legal definition typically encompasses followers of Hinduism and those who, by birth or conversion, identify with religions that derive from Hindu traditions, such as Buddhism, Jainism, and Sikhism. Paras Diwan emphasizes that Hindu law is applicable to all these communities unless they prove that they are governed by some other law. The test is not religious belief alone, but whether one is governed by Hindu law by tradition, practice, or statutory inclusion.
 
@@ -27,7 +26,7 @@ A person can be called a Hindu, who:
 
 The Supreme Court of India in the landmark case of *Shastri v. Muldas* expressly defined the term ‘Hindu’. This case is related to the Swaminarayan temple in Ahmedabad. There was a group of people called the Satsangi who were managing the temple and they restricted non-Satsangi Harijans to enter the temple. They argued that Satsangi is a different religion and they are not bound by Hindu Law. The Supreme Court of India held that the Satsangi, Arya Samajis, and Radhaswami, all belong to the Hindu religion because they originated under Hindu philosophy.
 
-### 2.2. Who are 'Hindus'
+### 2.2. Historical Evolution and Statutory Classification of Hindus
 
 * All persons who are Hindu by religion in any of its forms or developments.
 * Those who belong to religions originating in India, such as Buddhists, Jains, and Sikhs.
@@ -44,27 +43,27 @@ In this category two types of persons fall:
 
 Any person who follows Hindu religion in any of its forms or development, either by practising it or by professing it, is a Hindu. However, it is difficult to describe what is Hinduism.
 
-### 2.3. Swaminarayana Sampradaya
+### 2.3. Judicial Interpretation of Sects: The Swaminarayan Sampradaya Case
 
 This sampradaya prevails in Maharashtra and Gujarat, founded by Shajanand (called later Swami Narayan) a Brahmin by birth and the pupil of Ramanuj. The followers of this Sampradaya were called Satsangi. In *Yagnapurushdasji v. Muldas*, a question arose whether the followers of this Sampradaya came within the purview of Hindu or not. Their main argument was that the Swaminarayan Sampradaya, being a non-Hindu sect and the temple being also a non-Hindu temple, the Harijans had no right to enter it. They argued this Sampradaya is different from Hindu Religion, so the provisions of Hindu Law are not applied to this temple. The Supreme Court decided that this Sampradaya was not different from Hindu Religion and the provisions are applied to this temple also.
 
-### 2.4. Hindu by Birth
+### 2.4. Acquisition of Hindu Status by Birth
 
 A child whose both the parents were Hindus, Sikhs, Jains, or Buddhists at the time of his birth, is regarded as Hindu. If one of the parents is Hindu and the other is Jain, Sikh, or Buddhist, then also the child will be Hindu. It makes no difference that such child does or does not profess, practise or have faith in the religion of its parents. If after the birth, both or one of the parents become convert to another religion, the child will continue to be a Hindu, unless, in the exercise of parental right the child is also converted into the religion in which the parent or parents have converted (In case of legitimate child this right is on father, and in illegitimate case is on the mother).
 
 A child is brought up as a member of the tribe, community, group, or family to which the Hindu parent belonged at the time of his birth. If both the parents of a child are not Hindu and the child is brought up as a Hindu, the child will not be Hindu unless he becomes converted Hindu.
 
-### 2.5. Who are not Muslims, Christians, Parsis or Jews
+### 2.5. The Residuary Category: Application to Non-Conformists and Atheists
 
 Any person who is not a Muslim, Christian, Parsi, or Jew and who is not governed by any other law, is governed by Hindu law, unless it is proved that Hindu law is not applicable to such a person (*Raj Kumar v/s Barbara*). Those persons who are atheists or who believe in all faiths, or in conglomeration of faiths, may fall under this class.
 
-### 2.6. Converts and Reconverts are also Hindus
+### 2.6. Legal Status of Converts and Reconverts
 
 The Supreme Court, in the case of *Peerumal v. Poonuswami* AIR 1971, has held that a person can be a Hindu if after expressing the intention of becoming a Hindu, follows the customs of the caste, tribe, or community, and the community accepts him.
 
 In *Mohandas vs Dewaswan Board* AIR 1975, Kerala High Court has held that a mere declaration and actions are enough for becoming a Hindu.
 
-## 3. HINDU CONCEPT OF LAW
+## 3. NATURE AND CHARACTERISTICS OF HINDU JURISPRUDENCE
 
 The Hindu concept of law is deeply rooted in the principle of dharma, which encompasses law, morality, duty, and virtue. Unlike Western legal traditions that separate religion and law, Hindu law closely intertwines spiritual, moral, and legal norms. Dharma is seen as the supreme authority; it governs the social, individual, and spiritual obligations of people and serves as a guide for righteous living and justice.
 
@@ -76,7 +75,7 @@ Hindu law is a law which emanates from Smritis, expounded in Sanskrit commentari
 
 The Hindu concept of law does not conform to the Austinian view. According to analytical jurists, most of the rules of Hindu law would be well accepted that a rule of law, to be called as such, need not emanate from a determinate or particular authority, and it need not be rules of law as the commands of Austin's sovereign, because they were obeyed by the people for whom they were made.
 
-### 3.1. Hindu Law in Modern Times
+### 3.1. Transformation of Hindu Law: From Shastric to Codified Systems
 
 Hindu law as administered by the Courts of India is applied to Hindus. But, in fact, it is not the original Hindu law which is applicable to Hindus in India. It is an amended and modified law which has changed and altered a considerable portion. Original Hindu law does not apply to all the matters. It is subjected to alterations and modifications. Original Hindu law has been interfered with by the changing demands and needs of the society. For instance, the nature of Hindu marriage is materially altered by:
 
@@ -85,12 +84,17 @@ Hindu law as administered by the Courts of India is applied to Hindus. But, in f
 * For matters of succession there is the Hindu Succession Act, 1956.
 * Minors are dealt with by the Hindu Minority and Guardianship Act, 1956 etc.
 
-## 4. SOURCES OF HINDU LAW
+## 4. CLASSIFICATION OF SOURCES OF HINDU LAW
 
 The phrase “source of law” has several connotations:
 * It may be the authority which issues rules of conduct which are recognized by Courts as binding. In this context, “source of law” means “the maker of law”.
 * It may mean the social conditions which inspires the making of law for the governance of the conditions. In this context it means “cause of law”.
 * It may also mean in its literal sense the material from which the rules and laws are known. In this sense the expression means the “evidence of law” and it is in this sense that the expression “source of law” is accepted in Jurisprudence.
+
+
+
+[Image of Sources of Hindu Law classification chart]
+
 
 Hindu law is not derived from a single statute or code but from multiple sources that include:
 
@@ -104,9 +108,9 @@ Hindu law is not derived from a single statute or code but from multiple sources
 
 Hindu law is a living system, constantly evolving with societal changes, and these sources together form a comprehensive framework governing personal laws of Hindus. The source of Hindu law is divided into ancient sources and modern sources. Before the codification of Hindu Law, the ancient literature was the only source of the law.
 
-### 4.1. Ancient Sources
+### 4.1. Traditional or Ancient Sources
 
-#### 4.1.1. Shruti
+#### 4.1.1. Shruti (Vedic Texts)
 * It literally means that which has been heard. The word is derived from the root “shru” which means ‘to hear’.
 * In theory, it is the primary and paramount source of Hindu law and is believed to be the language of the divine revelation through the sages.
 * The synonym of Shruti is Veda. It is derived from the root “vid” meaning ‘to know’.
@@ -123,7 +127,7 @@ Each Veda has three parts viz:
 * **Brahmin** (tells us our duties and means of performing them) and
 * **Upanishad** (containing the essence of these duties). The Shrutis include the Vedas along with their components.
 
-#### 4.1.2. Smritis
+#### 4.1.2. Smritis (Dharmashastras and Sutras)
 * The word Smriti is derived from the root “smri” meaning ‘to remember’. Traditionally, Smritis contain those portions of the Shrutis which the sages forgot in their original form and the idea whereby they wrote in their own language with the help of their memory.
 * Thus, the basis of the Smritis is Shrutis but they are human works.
 
@@ -140,14 +144,14 @@ The rules laid down in Smritis can be divided into three categories viz.:
 * **Vyavahar** (signifying procedural and substantive rules which the King or the State applied for settling disputes in the adjudication of justice).
 * **Prayaschit** (signifying the penal provision for commission of a wrong).
 
-#### 4.1.3. Digests and Commentaries
+#### 4.1.3. Nibandhas (Digests) and Commentaries
 * After Shrutis came the era of commentators and digests. Commentaries (*Tika* or *Bhashya*) and Digests (*Nibandhs*) covered a period of more than thousand years from 7th century to 1800 A.D.
 * In the first part of the period most of the commentaries were written on the Smritis but in the later period the works were in the nature of digests containing a synthesis of the various Smritis and explaining and reconciling the various contradictions.
 * The evolution of the different schools of Hindu law has been possible on account of the different commentaries that were written by various authorities. The original source of Hindu law was the same for all Hindus. But schools of Hindu law arose as the people chose to adhere to one or the other school for different reasons.
 * The Dayabhaga and Mitakshara are the two major schools of Hindu law.
 * The Dayabhaga school of law is based on the commentaries of Jimutvahana (author of Dayabhaga which is the digest of all Codes) and the Mitakshara is based on the commentaries written by Vijnaneswar on the Code of Yajnavalkya.
 
-#### 4.1.4. Custom
+#### 4.1.4. Sadachara (Custom and Usage)
 * Custom is regarded as the third source of Hindu law. From the earliest period custom (‘achara’) is regarded as the highest ‘dharma’.
 * As defined by the Judicial Committee custom signifies a rule which in a particular family or in a particular class or district has from long usage obtained the force of law.
 
@@ -157,24 +161,24 @@ The rules laid down in Smritis can be divided into three categories viz.:
 
 In *Deivanai Achi v. Chidambaram* (1954) Mad. 667, it was held that in order to become legally sanctioned by law and binding on the people a custom must be continuous in practice, it should not be vague and ambiguous and should not oppose the well established public policy. A customary rule must be in the complete observation of society.
 
-### 4.2. Modern Sources
+### 4.2. Modern or Formal Sources
 
-#### 4.2.1. Justice, equity and good conscience
+#### 4.2.1. Principles of Justice, Equity, and Good Conscience
 Occasionally it might happen that a dispute comes before a Court which cannot be settled by the application of any existing rule in any of the sources available. Such a situation may be rare but it is possible because not every kind of fact situation which arises can have a corresponding law governing it.
 
 The Courts cannot refuse to settle the dispute in the absence of law and they are under an obligation to decide such a case also. For determining such cases, the Courts rely upon the basic values, norms and standards of fair play and propriety.
 
 In terminology, this is known as principles of justice, equity, and good conscience. They may also be termed as Natural law. This principle in our country has enjoyed the status of a source of law since the 18th century when the British administration made it clear that in the absence of a rule, the above principle shall be applied.
 
-#### 4.2.2. Legislations
+#### 4.2.2. Legislative Enactments
 Legislations are Acts of Parliament which have been playing a profound role in the formation of Hindu law. After India achieved independence, some important aspects of Hindu Law have been codified. Few examples of important Statutes are The Hindu Marriage Act, 1955, The Hindu Adoptions and Maintenance Act, 1956, The Hindu Succession Act, 1956, The Hindu Minority and Guardianship Act, 1956, etc.
 
 After codification, any point dealt with by the codified law is final. The enactment overrides all prior law, whether based on custom or otherwise unless an express saving is provided for in the enactment itself. In matters not specifically covered by the codified law, the old textual law contains to have application.
 
-#### 4.2.3. Precedents
+#### 4.2.3. Judicial Precedents (Stare Decisis)
 After the establishment of British rule, the hierarchy of Courts was established. The doctrine of precedent based on the principle of treating like cases alike was established. Today, the decisions of Privy Council are binding on all the lower Courts in India except where they have been modified or altered by the Supreme Court whose decisions are binding on all the Courts except for itself.
 
-## 5. SCHOOLS OF LAW
+## 5. THE SCHOOLS OF HINDU LAW
 
 The schools of Hindu law are important traditional interpretations that have shaped Hindu personal law before codification. There are two main schools of Hindu law:
 
@@ -199,7 +203,7 @@ Mitakshara is an orthodox School whereas the Dayabhaga is Reformist School. The 
 * **Mitakshara:** Rights in the joint family property is acquired by birth, and as a rule, females have no right of succession to the family property. The right to property passes by survivorship to the other male members of the family.
 * **Dayabhaga:** Rights in the joint family property are acquired by inheritance or by will, and the share of a deceased male member goes to his widow in default of a closed heir.
 
-### 5.1. Mitakshara School
+### 5.1. The Mitakshara School: Principles and Jurisdiction
 
 Mitakshara school is one of the two main schools of Hindu law and is named after the famous commentary on Yajnavalkya Smriti by Vijnaneshwara called the Mitakshara. This school prevails throughout most of India except in Bengal and Assam. It is recognized for its comprehensive approach to Hindu law, covering areas like succession, coparcenary, partition, debt, and Stridhan (women's property).
 
@@ -215,22 +219,22 @@ Mitakshara school is further divided regionally into sub-schools such as Mithila
 
 These law schools go under the ambit of Mitakshara graduate school. They appreciate a similar basic guideline however vary in specific conditions.
 
-#### 5.1.1. Benaras school of hindu law
+#### 5.1.1. The Benaras Sub-School
 This law school goes under the authority of the Mitakshara graduate school and covers Northern India including Orissa. *Viramitrodaya Nirnyasindhu vivada* is a portion of its significant discourses.
 
-#### 5.1.2. Mithila school of hindu law
+#### 5.1.2. The Mithila Sub-School
 This law school practices its clout in the regional pieces of Tirhoot and north Bihar. The standards of the graduate school win in the north. The significant analyses of this school are *Vivadaratnakar, Vivadachintamani, Smritsara*.
 
-#### 5.1.3. Maharashtra or Bombay school of hindu law
+#### 5.1.3. The Maharashtra (Bombay) Sub-School
 The Maharashtra law school has the power to practice its locale over the regional parts including Gujarat, Karana and the parts where there is the Marathi language are capably spoken. The fundamental specialists of these schools are *Vyavhara Mayukha, Virmitrodaya*, and so forth.
 
-#### 5.1.4. Madras school of hindu law
+#### 5.1.4. The Dravida (Madras) Sub-School
 This law school will in general spread the entire southern piece of India. It additionally practices its specialists under Mitakshara graduate school. The primary specialists of this school are *Smriti Chandrika, Vaijayanti*, and so on.
 
-#### 5.1.5. Punjab school of hindu law
+#### 5.1.5. The Punjab Sub-School
 This law school was prevalently settled in east Punjab. It had built up its own traditions and conventions. The fundamental critiques of this school are *Viramitrodaya* and it built up customs.
 
-### 5.2. Dayabhaga School
+### 5.2. The Dayabhaga School: The Bengal System of Inheritance
 
 Dayabhaga school overwhelmingly won in Assam and West Bengal. This is additionally one of the most significant schools of Hindu laws. It is viewed as a summary of the main Smritis. Its essential center was to manage parcel, legacy and joint family. As indicated, it was fused in the middle of 1090-1130 A.D.
 
@@ -244,7 +248,7 @@ The main features of this School are as follows:
 * The widow has a right to succeed to husband’s share and enforce partition if there are no male descendants.
 * On the death of the husband the widow becomes a co-parcener with other brothers of the husband. She can enforce partition of her share.
 
-### 5.3. Comparison between Mitakshara and Dayabhaga
+### 5.3. Comparative Analysis: Mitakshara vs. Dayabhaga
 
 | Feature | Mitakshara | Dayabhaga |
 | :--- | :--- | :--- |
@@ -254,7 +258,7 @@ The main features of this School are as follows:
 | **Transferability** | iv) One cannot transfer his share to the third party. | iv) One can transfer his share. |
 | **Partition** | v) The joint-property can be partitioned. In that case, it will be partitioned as it was in case of the father. | v) As the shares are defined, one can easily partition with his share. |
 
-## 6. LEGISLATION AND HINDU LAW
+## 6. LEGISLATIVE REFORMS AND KEY ENACTMENTS
 
 Legislation is a modern source of Hindu Law. It has been an important factor in the development of Hindu Law. Most of them are in the direction of reforming Hindu Law. In different parts of the country there were different rules and practices. It was difficult to find fixed principles of law on several Areas.
 
