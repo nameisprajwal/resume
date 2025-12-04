@@ -1,25 +1,5 @@
 
-
-STUDY MATERIAL
-
-*for*
-
-FAMILY LAW I
-
-Prepared as per the syllabus of the KSLU 
-
-Prepared by
-
- Adv.BHAVANA.S.BHAT
-
-Reviewed by
-
-## **SAMYAK JNANA SCHOOL OF LAW**
-
-This study material is intended to be used as supplementary material,
-
 **UNIT–I:**  
- 
 
 **The Concept of Dharma \- Sources of Hindu Law – Ancient and Modern \- Importance of Dharma Shastras on Legislation – Mitakshara and Dayabaga Schools of Hindu Law \- Application of Hindu Law.**
 
