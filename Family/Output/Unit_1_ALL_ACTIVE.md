@@ -406,42 +406,43 @@ The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential
 
 ### 6 Marks Questions
 
-1.  **Explain briefly the concept of Dharma.**
-      * *Year:* December 2019 | *Marks:* 6
-2.  **Explain the concept of Dharma.**
-      * *Year:* September 2023 | *Marks:* 6
-3.  **Distinguish between Mitakshara and Dayabhaga Schools of Hindu Law.**
-      * *Year:* June 2019 | *Marks:* 6
-4.  **Write a note on "Hindu by Birth".**
-      * *Year:* March 2023 | *Marks:* 6
-5.  **Write a note on "Hindu by Birth".**
-      * *Year:* December 2019 | *Marks:* 6
-6.  **Write a note on "Hindu by Birth".**
-      * *Year:* June/July 2025 | *Marks:* 6
-7.  **Mithakshara School.**
-      * *Year:* March 2023 | *Marks:* 6
-8.  **Mithakshara School.**
-      * *Year:* June/July 2025 | *Marks:* 6
-9.  **Ancient sources of Hindu Law.**
-      * *Year:* June 2019 | *Marks:* 6
-10. **Write a short note on 'Hindu'.**
-      * *Year:* March/April 2021 | *Marks:* 6
-11. **Write a short note on 'Hindu'.**
-      * *Year:* September 2023 | *Marks:* 6
-12. **Write a short note on Convertion.**
-      * *Year:* March/April 2021 | *Marks:* 6
-13. **State briefly the concept of "Dharma".**
-      * *Year:* April/May 2022 | *Marks:* 6
-14. **Relevancy of equity, justice and good conscience in resolving disputes.**
-      * *Year:* April/May 2022 | *Marks:* 6
-15. **Write a short note on custom.**
-      * *Year:* August/September 2024 | *Marks:* 6
-16. **Explain the Mitakshara school.**
-      * *Year:* August/September 2024 | *Marks:* 6
-17. **Write a note on 'Mitakshara'.**
-      * *Year:* January/February 2025 | *Marks:* 6
-18. **Write a note on 'Hindu by conversion'.**
-      * *Year:* January/February 2025 | *Marks:* 6
+### 1. Explain the concept of Dharma.
+* *Year:* December 2019 | *Marks:* 6
+* *Year:* April/May 2022 | *Marks:* 6
+* *Year:* September 2023 | *Marks:* 6
+
+### 2. Distinguish between Mitakshara and Dayabhaga Schools of Hindu Law.
+* *Year:* June 2019 | *Marks:* 6
+
+### 3. Write a note on "Hindu by Birth".
+* *Year:* December 2019 | *Marks:* 6
+* *Year:* March 2023 | *Marks:* 6
+* *Year:* June/July 2025 | *Marks:* 6
+
+### 4. Write a note on Mitakshara School.
+* *Year:* March 2023 | *Marks:* 6
+* *Year:* August/September 2024 | *Marks:* 6
+* *Year:* January/February 2025 | *Marks:* 6
+* *Year:* June/July 2025 | *Marks:* 6
+
+### 5. Ancient sources of Hindu Law.
+* *Year:* June 2019 | *Marks:* 6
+
+### 6. Write a short note on 'Hindu'.
+* *Year:* March/April 2021 | *Marks:* 6
+* *Year:* September 2023 | *Marks:* 6
+
+### 7. Write a note on 'Hindu by conversion'.
+* *Year:* March/April 2021 | *Marks:* 6
+* *Year:* January/February 2025 | *Marks:* 6
+
+### 8. Relevancy of equity, justice and good conscience in resolving disputes.
+* *Year:* April/May 2022 | *Marks:* 6
+
+### 9. Write a short note on custom.
+* *Year:* August/September 2024 | *Marks:* 6
+
+***
 
 -----
 
