@@ -1,7 +1,3 @@
-Here is the Hindu Law Examination Question Bank, organized by Unit and strictly separated into 10 Marks and 6 Marks sections with question numbering added.
-
-**Note:** Questions that appeared in the original list under a specific header but had a different mark value (e.g., a 6-mark question listed under 10 marks) have been moved to their correct section based on the "Marks" value provided.
-
 -----
 
 # Hindu Law Examination Question Bank - Unit Wise & Marks Wise
