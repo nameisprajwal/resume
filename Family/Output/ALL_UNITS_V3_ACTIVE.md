@@ -1574,7 +1574,7 @@ This question synthesizes two critical aspects of Hindu joint family law: the id
 
 **Who is Karta: Summary**
 
-[As detailed in Q3, the Karta is the senior-most, typically eldest male, member of a joint family who manages joint property. He is both a manager and coparcener, exercising authority over family affairs.]
+As detailed, the Karta is the senior-most, typically eldest male, member of a joint family who manages joint property. He is both a manager and coparcener, exercising authority over family affairs.
 
 **Alienation of Joint Family Property by Karta:**
 
@@ -1753,6 +1753,331 @@ The power of Karta to alienate joint family property is a carefully circumscribe
 
 ---
 
+### VERSION C
+
+#### Introduction
+
+This question directly addresses two aspects central to joint family management: the identification and characterization of the Kartha, and an exhaustive enumeration of his powers. While these topics have been partially addressed in earlier answers, this question calls for a focused and comprehensive treatment. The Kartha (an alternate spelling of Karta) holds a unique position in Hindu joint family law—neither a mere agent nor a full owner, but rather a fiduciary manager with delegated authority. The evolution of Kartaship from an absolute patriarchal authority in classical Hindu law to a limited, scrutinized management position in modern jurisprudence reflects changing legal and social values. The Hindu Succession Act, 1956, though not explicitly regulating Kartaship in detail, acknowledges this institution through various provisions and references. Understanding the precise scope and limitations of Karta powers is essential for proper family governance and for protecting coparcener interests.
+
+#### Main Body
+
+**Definition and Identification of Kartha:**
+
+**Definition:**
+A Kartha is the head and manager of a Hindu joint family under the Mitakshara school of law. The position is derived from Sanskrit, meaning the "doer" or "maker," and historically represented the senior-most member exercising governance and management functions.
+
+**Identification of Kartha:**
+
+**Primary Basis—Age and Seniority:**
+The Kartha is typically the **eldest living male member** of the joint family. However, mere age is not the sole determinant. The Supreme Court in *Ramkumar v. Ramachandra* clarified that Karthship is not purely a matter of age but involves capacity, fitness, and acceptance by family members.
+
+**Secondary Considerations:**
+- Acceptance by family members
+- Actual exercise of management functions
+- Capability and fitness to manage affairs
+- Customary family practice
+
+**Succession to Karthship:**
+Upon the death or incapacity of the current Kartha, Karthship passes to the next senior competent member, typically:
+- The deceased Kartha's eldest son
+- If no son, the eldest grandson
+- If no direct line descendants, the next senior male in the family
+
+**Karthship in Different Family Structures:**
+
+- **Patrilineal Families**: Passes through male line
+- **Polyandrous Families**: May be shared or rotated among brothers
+- **Families with Female Members as Managers** (Modern): In absence of capable males, capable females may exercise Karthship functions
+
+**Determination of Karthship in Disputes:**
+
+When Karthship is disputed, courts examine:
+- Age and seniority of claimants
+- Acceptance by family members
+- Prior exercise of management functions
+- Fitness and capacity
+- Family customs and traditions
+- Contemporary family dynamics
+
+**Powers of Kartha:**
+
+The powers of Kartha are extensive but not unlimited. They can be categorized as follows:
+
+**Category A: Absolute Powers (Without Coparcener Consent)**
+
+**1. Management and Control of Property:**
+
+The Kartha has the primary right to manage, use, enjoy, and control joint family property. This includes:
+
+- **Possession and Occupation:** Right to occupy and possess properties and exercise control
+- **Agricultural Management:** Decisions regarding cultivation, crop selection, agricultural practices
+- **Commercial Operations:** If property is used for commercial purposes, the Kartha oversees operations
+- **Maintenance and Repairs:** Undertakes necessary repairs and maintenance of buildings, machinery, agricultural equipment
+- **Ordinary Repairs:** Makes repairs and improvements necessary for preservation and ordinary upkeep
+
+**Limitation:** The Kartha cannot engage in "waste"—acts that permanently diminish the property's value.
+
+**2. Receipt and Collection of Income:**
+
+- Collection of agricultural income, rent, interest, dividends, or other property income
+- Receipt of monetary payments and government benefits
+- Opening and operating bank accounts in the name of joint family property
+- Realization of accounts receivable
+
+**3. Making Ordinary Expenditures:**
+
+The Kartha can make ordinary expenditures necessary for property management and family welfare:
+
+- Salaries of agricultural workers and staff
+- Payment of land revenue, property taxes, municipal taxes
+- Insurance premiums
+- Routine maintenance costs
+- Family support and living expenses
+
+**4. Incurring Ordinary Debts:**
+
+The Kartha can borrow money or incur debt for ordinary family purposes:
+
+- Agricultural inputs (seeds, fertilizers, implements)
+- Working capital loans for family business
+- Seasonal borrowing for family needs
+- Short-term credit for ordinary operations
+
+**5. Recovery of Family Debts:**
+
+- Pursuing debtors for recovery of monies owed to the family
+- Filing suits and taking legal action against debtors
+- Compromising debts if advantageous to family
+
+**6. Custody of Family Documents:**
+
+- Safekeeping of property deeds, titles, and legal documents
+- Custody of family records, accounts, and correspondence
+- Management of bank lockers and valuables
+
+**7. Decisions Regarding Ordinary Disputes:**
+
+- Settlement of minor disputes with neighbors or third parties
+- Negotiation of ordinary commercial contracts
+- Resolution of non-major property disputes
+
+**Category B: Powers Requiring Justification/Limited by Conditions**
+
+**1. Alienation of Joint Property (Restricted):**
+
+The Kartha can alienate (sell, mortgage, pledge) joint property, but only under specific circumstances:
+
+- **For family debt discharge** (as discussed in Q6)
+- **For family maintenance and support**
+- **For religious and customary obligations**
+- **For productive purposes** (enhancement of property)
+- **For prevention of loss**
+
+**Limitations:**
+- Alienation must be for recognized family benefit
+- Cannot be for personal benefit of Kartha
+- Must be proportionate and necessary
+- Must not deprive other coparceners of substantial rights
+
+**2. Execution of Contracts and Agreements:**
+
+The Kartha can enter into contracts binding the joint family:
+
+- Agricultural leases (with limitations on duration)
+- Partnerships or joint ventures for family business
+- Compromise agreements in disputes
+- Employment and wage agreements
+- Trading contracts
+
+**Limitation:** Contracts must be for family benefit, not personal enrichment.
+
+**3. Institution of Suits on Behalf of Family:**
+
+The Kartha can represent the joint family in litigation:
+
+- Filing suits for recovery of property or debts
+- Defending against claims against the family
+- Prosecuting or defending criminal cases affecting family interest
+
+**Requirement:** The suit must genuinely concern family interests.
+
+**4. Lease of Property:**
+
+The Kartha can grant leases of joint property:
+
+- Agricultural leases for cultivation
+- Residential leases
+- Commercial leases
+
+**Limitations:**
+- Duration must be reasonable (courts scrutinize excessively long leases)
+- Terms must be fair and not unduly favorable to lessee
+- Cannot effectively transfer ownership or deprive coparceners
+
+**5. Mortgaging Property:**
+
+The Kartha can mortgage joint property as security:
+
+- For loans to finance family purposes
+- To secure family debts
+- For agricultural credit
+
+**Limitation:** Must be for recognized family purposes, not personal benefit.
+
+**6. Making Reasonable Expenditures on Property Improvements:**
+
+The Kartha can undertake improvements to enhance property value:
+
+- Construction or renovation of buildings
+- Irrigation and agricultural improvements
+- Infrastructure development
+
+**Limitation:** Must be reasonable in relation to the property and family resources.
+
+**Category C: Powers That Cannot Be Exercised (Prohibited Acts)**
+
+**1. Partition:**
+
+The Kartha cannot unilaterally effect partition. However, he can:
+- Agree to partition proposed by other coparceners
+- Cooperate in partition proceedings
+- Allocate shares if partition is agreed upon
+
+**2. Gifts and Gratuitous Transfers:**
+
+The Kartha cannot make gifts of substantial joint property without strong justification:
+
+- Cannot gift to private individuals for personal relationships
+- Cannot donate to religious institutions without family tradition support
+- However, small customary gifts and charitable donations may be acceptable
+
+**3. Wasting the Property:**
+
+The Kartha cannot engage in waste:
+- Cannot deliberately destroy or devalue property
+- Cannot strip property of valuable fixtures
+- Cannot neglect property leading to deterioration
+
+**4. Acts Manifestly Against Family Interest:**
+
+- Cannot make transactions clearly disadvantageous to family
+- Cannot enter into unconscionable agreements
+- Cannot exploit the family property for personal gain
+
+**5. Unauthorized Delegation:**
+
+While the Kartha can appoint agents and staff:
+- Cannot completely delegate his responsibility
+- Cannot transfer core management functions to unsuitable persons
+- Cannot appoint incompetent or dishonest persons
+
+**6. Violation of Specific Family Customs or Restrictions:**
+
+If the family has established customs or restrictions (e.g., "agricultural land shall not be sold"), the Kartha cannot violate these without coparcener consent.
+
+**Category D: Powers Exercised Subject to Accounting and Audit**
+
+**1. Right to Account:**
+
+Any coparcener can demand an accounting from the Kartha:
+
+- Detailed statement of all properties, income, and expenses
+- Bank statements and financial records
+- Crop produce and its disposal
+- Any alienation or encumbrance
+- Family debts and liabilities
+
+**2. Audit and Inspection:**
+
+Coparceners have rights to:
+- Inspect property and records
+- Verify accounts
+- Challenge improper expenditures
+- Question transactions
+
+**3. Removal for Mismanagement:**
+
+If the Kartha:
+- Refuses to account
+- Engages in gross mismanagement
+- Misappropriates family funds
+- Acts adversely to family interests
+
+Coparceners may seek his removal through court order.
+
+**Category E: Incidental Powers**
+
+**1. Appointment of Agents and Employees:**
+
+- Can appoint managers, supervisors, and workers
+- Can hire professional consultants for specialized tasks
+- Can delegate specific functions to competent agents
+
+**Limitation:** The Kartha remains responsible for agents' conduct.
+
+**2. Representation and Negotiation:**
+
+- Can represent family in negotiations with government or third parties
+- Can engage advocates for legal matters
+- Can sign documents on behalf of family
+
+**3. Administrative and Procedural Acts:**
+
+- Making applications for licenses, permits, registrations
+- Corresponding with government agencies
+- Filing tax returns and compliance documents
+
+**Duties Correlative to Powers:**
+
+**1. Duty to Manage Prudently:**
+
+The Kartha must exercise his powers with reasonable prudence and care—not necessarily with perfect judgment, but reasonably competent management.
+
+**2. Duty to Account:**
+
+The Kartha must maintain accurate records and provide accounts when demanded.
+
+**3. Duty of Impartiality:**
+
+The Kartha must treat all coparceners fairly and not favor some over others.
+
+**4. Duty to Preserve Property:**
+
+The Kartha must preserve joint property and take necessary steps to prevent loss or deterioration.
+
+**5. Duty to Disclose Conflicts:**
+
+If the Kartha has personal interest in a transaction, he must disclose and avoid conflict.
+
+**6. Duty to Act in Family Interest:**
+
+All actions must genuinely serve family welfare, not personal benefit.
+
+**Judicial Review of Karta Powers:**
+
+Courts examine exercises of Karta power through:
+
+1. **Test of Necessity:** Was the action necessary?
+2. **Test of Family Benefit:** Did it genuinely benefit the family?
+3. **Test of Reasonableness:** Was the action reasonable in the circumstances?
+4. **Test of Propriety:** Was it proper and within recognized bounds?
+
+**Remedies for Coparceners:**
+
+If the Kartha exceeds his authority or acts improperly:
+
+- **Suit for Injunction:** Seeking court order to prevent or halt unauthorized actions
+- **Suit for Recovery:** Recovering property or funds misappropriated
+- **Suit for Damages:** Claiming compensation for losses
+- **Suit for Removal:** Seeking removal of Kartha from position
+- **Suit for Accounting:** Demanding detailed account and settling adjustments
+
+#### Conclusion
+
+The Kartha occupies a central yet circumscribed position in Hindu joint family law. While vested with extensive management powers, these are strictly limited to family benefit and subject to fiduciary obligations. The transformation from classical Hindu law's conception of absolute patriarchal authority to modern law's carefully scrutinized and limited powers reflects the evolution of legal principles toward protecting all coparceners' interests. Courts maintain vigilant oversight, ensuring Kartas exercise their authority responsibly and within recognized bounds, making understanding these powers and limitations essential for family governance and dispute resolution.
+
+---
+
 ### 4\. What is Partition? Explain various modes of Partition / Who can claim partition?
 
   * *Year:* December 2019 | *Marks:* 10
@@ -1760,6 +2085,280 @@ The power of Karta to alienate joint family property is a carefully circumscribe
   * *Year:* September 2023 | *Marks:* 10
   * *Year:* August/September 2024 | *Marks:* 10
   * *Year:* June/July 2025 | *Marks:* 10
+
+#### Introduction
+
+This question addresses partition from multiple dimensions: its fundamental nature, the persons entitled to claim it, and the various methods through which it can be effected. Partition is not merely a legal procedure but represents a significant transformation in family structure and property rights. The right to partition is considered inalienable and fundamental to coparcenary law. The Hindu Succession Act, 1956, while not exhaustively defining partition, acknowledges its centrality in Section 18. The question of who has standing to claim partition addresses various categories of family members and their entitlements, particularly following the Hindu Succession (Amendment) Act, 2005, which extended coparcenary rights to daughters. The modes of partition encompass diverse methods ranging from informal agreements to formal judicial decrees.
+
+#### Main Body
+
+**What is Partition: Definition and Essentials**
+
+Partition is the division of joint family property among coparceners, converting undivided interests into individual shares with exclusive possession.
+
+**Who Can Claim Partition:**
+
+**Persons With Right to Claim Partition:**
+
+**1. Coparceners:**
+
+The primary persons who can claim partition are **coparceners**—those possessing coparcenary interest in ancestral property. In the Mitakshara system, coparceners are:
+
+- **Son**: Acquires coparcenary rights by birth
+- **Grandson**: Son of a son acquires rights
+- **Great-grandson**: Son of a grandson acquires rights
+- **Daughter** (Post-2005): Daughters now possess coparcenary rights equal to sons
+- **Granddaughter**: Daughter of a son (post-2005 amendment)
+- **Great-granddaughter**: Daughter of a grandson (post-2005 amendment)
+
+**Conditions:**
+- They must be in the line of descent from a common male ancestor
+- They must be alive at the time of claiming partition
+- They must be of sound mind (legal capacity)
+- They must not have been excluded by agreement or family custom
+
+**Important Note:** With the Hindu Succession (Amendment) Act, 2005, daughters have been placed on par with sons in coparcenary rights, fundamentally altering the traditional male-centric system.
+
+**2. Successors of Deceased Coparceners (In Dayabhaga System):**
+
+In the Dayabhaga system (applicable in Bengal and parts of Assam), the legal heirs of a predeceased coparcener can claim partition of his share. This is not the case in Mitakshara, where the deceased coparcener's interest vests in surviving coparceners by survivorship.
+
+**3. Widows and Dependents (Limited Right):**
+
+While widows of deceased members do not themselves acquire coparcenary rights under Mitakshara, they may claim partition:
+- To secure maintenance from the family property
+- Through their sons or lineal descendants who are coparceners
+- In some cases, through succession rights if they are entitled to ancestral property as heirs
+
+**4. Adopted Sons:**
+
+An adopted son, once validly adopted in accordance with the Juvenile Justice Act and Hindu Adoption and Maintenance Act, acquires coparcenary rights identical to natural sons and can claim partition.
+
+**5. Illegitimate Sons (With Limitations):**
+
+The position of illegitimate sons regarding partition is complex:
+- They do not inherit ancestral property unless legally acknowledged
+- If acknowledged and treated as family members, they may acquire certain rights
+- Their coparcenary status depends on specific circumstances and succession laws
+
+**Who CANNOT Claim Partition:**
+
+**1. Non-members of the Joint Family:**
+- Wives of coparceners (except as noted above)
+- Daughters-in-law
+- Unrelated persons
+
+**2. Excluded Members:**
+- Those excluded by valid family agreement
+- Those who have severed joint family ties and lived separately for a prolonged period
+
+**3. Legally Incapacitated Persons (Without Guardian):**
+- Minors cannot personally claim, but their guardian may claim on their behalf
+- Persons of unsound mind cannot personally claim
+
+**Modes of Partition:**
+
+Partition can be effected through various methods, each with distinct characteristics:
+
+**1. Partition by Agreement (Consensual Partition):**
+
+This is the most common and preferable method, where coparceners mutually agree to divide property.
+
+**Characteristics:**
+- Voluntary agreement among all coparceners
+- Can be formal (written deed) or informal (oral agreement evidenced by conduct)
+- Parties determine among themselves how property is divided
+- Shares need not be equal; parties can agree to unequal division
+
+**Process:**
+- Informal discussions and negotiations
+- Drafting of partition deed specifying properties allotted to each party
+- Execution of deed by all parties
+- Attestation by witnesses
+- Registration of the deed under Registration Act, 1908
+
+**Advantages:**
+- Quick and economical
+- Preserves family harmony
+- Parties retain control over outcome
+- Can be tailored to family needs
+
+**Limitations:**
+- All parties must agree (consent of even one dissenting coparcener makes it invalid as complete partition)
+- Subsequent challenge possible if fraud or undue influence shown
+- May not be effective against creditors or third parties if not properly documented
+
+**2. Partition by Judicial Decree (Contentious Partition):**
+
+When agreement is not possible, a suit for partition is filed, and the court determines partition.
+
+**Process:**
+
+**A. Filing of Suit:**
+- Any coparcener may file suit for partition in the civil court of competent jurisdiction
+- The suit should be filed under the CPC, 1908
+
+**B. Parties to the Suit:**
+- Plaintiff: The coparcener(s) seeking partition
+- Defendants: Other coparceners and persons having interest in joint property (creditors, mortgagees)
+
+**C. Pleadings:**
+- Plaintiff pleads the joint family status, his coparcenary rights, and detailed description of property
+- Details of all coparceners and their respective shares
+- Claims for separate possession of allocated share
+
+**D. Issues and Evidence:**
+- Court frames issues regarding:
+  - Whether joint family exists
+  - Status of plaintiff as coparcener
+  - Identification and extent of joint property
+  - Respective shares of coparceners
+  - Liabilities and debts of joint family
+
+**E. Court Appointment of Commission:**
+- If properties are extensive, the court may appoint a Commissioner to survey, measure, and value property
+- Commission submits report to court
+
+**F. Judgment and Decree:**
+- Court passes decree specifying:
+  - That partition is effected
+  - Precise shares of each coparcener
+  - Specific properties allotted to each
+  - Procedures for taking possession
+  - Allocation of liabilities
+  - Costs of suit
+
+**G. Execution:**
+- Decree is executed through:
+  - Taking possession of allocated properties
+  - Registration of transfer deeds if necessary
+  - Mutation of revenue records
+
+**Advantages:**
+- Binding on all coparceners
+- Court ensures fairness in share allocation
+- Provides finality through judicial pronouncement
+- Protects interests of minors and incapacitated persons through court oversight
+
+**Disadvantages:**
+- Time-consuming process (often 5-10 years)
+- Expensive due to court fees, advocate charges, Commissioner's fees
+- May generate family conflict
+- Risk of decision dissatisfying some parties
+
+**3. Partition by Exchange or Swap:**
+
+Coparceners may agree to partition by exchanging their interests in different properties.
+
+**Example:**
+- Coparcener A receives ancestral house in the city
+- Coparcener B receives agricultural land in the village
+- Values are adjusted to ensure equality of shares
+
+**Requirements:**
+- Mutual agreement on properties to be exchanged
+- Execution of exchange deed
+- Registration of exchange deed
+- Revenue mutations
+
+**Advantages:**
+- Allows strategic allocation of properties based on each member's needs
+- Can result in better utilization of properties
+
+**4. Partial Partition:**
+
+In some circumstances, only certain coparceners may separate from the joint family while others remain joint.
+
+**Scenario:**
+- One or two coparceners wish to separate
+- Others prefer to remain in joint family status
+- Property is partially divided
+
+**Requirements:**
+- Identification of separating members
+- Determination of shares of separating members
+- Division of property such that separating members receive their allotted shares
+- Remaining members continue joint family status regarding undivided portion
+
+**Effects:**
+- Separating members become independent; joint family property ceases for them
+- Remaining members maintain joint family status
+- Pre-partition liabilities are allocated appropriately
+
+**5. Partition by Arbitration:**
+
+Coparceners may agree to refer partition disputes to arbitration rather than court litigation.
+
+**Process:**
+- Parties appoint one or more arbitrators
+- Arbitrators conduct hearings and examine evidence
+- Arbitrators pass award determining partition
+- Award is executed as agreed
+
+**Requirements:**
+- Written arbitration agreement
+- Proper conduct of arbitration proceedings
+- Compliance with Arbitration and Conciliation Act, 1996
+
+**Advantages:**
+- Faster than court proceedings
+- More confidential
+- Parties have more control over procedure
+- Can be more flexible and tailored to circumstances
+
+**6. Partition by Conduct and Long Enjoyment (Implied Partition):**
+
+In some instances, partition may be deemed to have occurred based on long-standing conduct where:
+- Coparceners have lived separately for a prolonged period
+- Each has managed and enjoyed specific portions of property exclusively
+- Accounts have been kept separately
+- There is clear manifestation of intent to partition
+
+**Requirements:**
+- Clear evidence of separate possession and enjoyment
+- Long duration (typically years, sometimes decades)
+- Conduct consistent with partition intent
+- No continuing joint family operations
+
+**Legal Status:**
+Such partitions are recognized by courts though they lack formal documentation.
+
+**7. Partition by Succession (In Dayabhaga System):**
+
+In the Dayabhaga system, upon the death of the property holder (Shutsthanak), his property devolves to his heirs according to succession law. This succession itself effects a kind of partition among heirs.
+
+**8. Partition Following Court Orders in Other Proceedings:**
+
+- When court orders partition as part of judgment in other disputes
+- When partition is ordered during guardianship proceedings
+- When partition is directed in insolvency proceedings
+
+**Determination of Shares in Different Modes:**
+
+**In Partition by Agreement:**
+- Parties can agree to equal or unequal shares
+- Shares can be in proportion agreed, not necessarily equal
+
+**In Judicial Partition (Mitakshara):**
+- Each coparcener receives an equal share (per stirpes in modern interpretation, though traditionally per capita)
+- Example: Three coparceners receive 1/3 each; two receive 1/2 each
+
+**In Judicial Partition (Dayabhaga):**
+- More complex; based on lineal succession
+- Heirs of predeceased members inherit their ancestor's share in many cases
+
+**Post-2005 Amendment Implications:**
+
+With daughters now being coparceners:
+- Daughters receive equal shares with sons
+- Granddaughters (daughters of sons) are coparceners
+- This fundamentally changed share calculations in families with both sons and daughters
+
+#### Conclusion
+
+Partition represents a fundamental right of coparceners, ensuring they can exit joint family status and obtain individual property rights. The right to claim partition is broad, extending to all recognized coparceners, including daughters (post-2005). The modes of partition range from informal voluntary agreements to formal judicial determination, each with distinct advantages and procedural requirements. The choice of mode depends on family circumstances, availability of agreement, and the complexity of property and relationships involved. Understanding these various modes is essential for practitioners advising families on property division and for coparceners exercising their rights.
+
+---
 
 ### 5\. What are Endowments? Explain essentials of valid Endowments.
 
@@ -1891,6 +2490,595 @@ Partition and endowments represent two distinct mechanisms for managing property
 
 ---
 
+### 6\. Explain the features of a coparcenary and state the rights of a coparcener.
+
+  * *Year:* June/July 2025 | *Marks:* 10
+
+#### Introduction
+
+Coparcenary represents one of the most fundamental institutions in Hindu succession law and family property management. While distinct from joint family, coparcenary encompasses the essential concept of proprietary interests in ancestral property held collectively by a defined class of family members. The features of coparcenary—its nature, creation, and operation—define how ancestral property is managed and how succession rights are determined. The rights of coparceners, particularly following the Hindu Succession (Amendment) Act, 2005, have undergone significant transformation, with daughters now possessing rights equal to sons. Understanding coparcenary features and rights is essential for comprehending Hindu personal law, succession disputes, property partition, and family governance. The Hindu Succession Act, 1956, particularly Sections 4 and 6, provides the statutory framework for coparcenary law.
+
+#### Main Body
+
+**Coparcenary: Definition and Concept:**
+
+**Definition:**
+Coparcenary refers to the collective rights of a class of family members in ancestral property. It represents the aggregate of persons who, by birth in a joint family, acquire an undivided interest in ancestral property and the right to claim partition thereof. As defined in the Hindu Succession Act, 1956, Section 4(1), "Coparcenary" means the status acquired by persons who take jointly in an ancestral property in the male line.
+
+**Distinction from Joint Family:**
+While often confused, coparcenary and joint family are distinct:
+
+- **Joint Family:** A broader social unit based on blood relationship and common residence
+- **Coparcenary:** A narrower property-specific relationship confined to those having rights in ancestral property
+
+A joint family may have members without coparcenary status; conversely, coparceners retain their status even if the joint family dissolves.
+
+**Features of Coparcenary:**
+
+**1. Acquisition by Birth (In Mitakshara System):**
+
+Under the Mitakshara school (applicable in most of India), a person acquires coparcenary status by birth, not by any formal act or agreement. The moment a male child is born to a coparcener:
+- He automatically acquires coparcenary rights
+- His rights vest immediately
+- No registration, notification, or formal act is required
+
+**Post-2005 Amendment:** Daughters also acquire coparcenary rights from birth, placing them on equal footing with sons.
+
+**Principle:** Birth in the joint family line is the sole criterion for coparcenary status in Mitakshara.
+
+**2. Dependence on Common Ancestry:**
+
+Coparcenary is based on descent from a common male ancestor:
+- Members must trace lineage to a common progenitor
+- The relationship must be through the male line (traditionally; post-2005, the line can pass through females as well)
+- Strangers cannot acquire coparcenary status merely by joining the family
+- Marriage into the family does not confer coparcenary status (though children do acquire it)
+
+**3. Limited by Degrees of Relationship:**
+
+In classical Hindu law, coparcenary was limited to three degrees from the family head:
+- First degree: Son
+- Second degree: Grandson
+- Third degree: Great-grandson
+
+However, modern interpretation and state legislations have modified these restrictions, extending coparcenary based on succession rights.
+
+**Important Note:** The three-degree limitation has been effectively superseded in many contexts by focusing on statutory succession rights rather than strict degrees.
+
+**4. Undivided Ownership:**
+
+Before partition, coparceners do not possess defined shares:
+- The property is jointly owned
+- Each coparcener has an undivided interest (not capable of precise quantification)
+- No coparcener can exclusively claim any portion
+- Rights vested through survivorship upon death of other coparceners
+
+**5. Acquired Independently of Will:**
+
+Coparcenary rights are acquired by operation of law, not by any testamentary provision:
+- The right cannot be disinherited
+- The right cannot be modified by will
+- The right exists regardless of the testator's wishes
+
+This principle, established in numerous cases, underscores the automatic nature of coparcenary acquisition.
+
+**6. Existence Primarily in Ancestral Property:**
+
+Coparcenary attaches to **ancestral property** (inherited from father, grandfather, or great-grandfather):
+
+- Self-acquired property does not pass to coparceners as coparcenary property
+- Only ancestral property creates coparcenary relationships
+- The nature of property (ancestral vs. self-acquired) affects succession and rights
+
+**7. Survivorship Principle:**
+
+Upon the death of a coparcener before partition:
+- His interest does **not** pass to his heirs (in Mitakshara)
+- Instead, it vests in surviving coparceners by **survivorship**
+- This distinguishes coparcenary from partnership
+
+**Exception:** In Dayabhaga system, heirs of deceased members inherit their ancestor's share.
+
+**8. Independent of Residence:**
+
+Coparcenary status is maintained regardless of:
+- Whether members live together or separately
+- Dissolution of joint family status
+- Alienation of physical properties
+- Movement to other jurisdictions
+
+**9. Equality of Coparceners:**
+
+In the absence of specific agreements or custom:
+- All coparceners possess equal rights in coparcenary property
+- The eldest member (Kartha) has no preferential rights regarding property
+- Each coparcener (post-2005, including daughters) has equal management authority
+
+**Post-2005 Amendment: Daughter Coparceners:**
+
+**Prior Law:**
+Before 2005, only males could be coparceners. Females acquired rights only through succession (as heirs) after the death of male family members.
+
+**Amendment Provision (Section 6):**
+The Hindu Succession (Amendment) Act, 2005, amended Section 6 to state:
+> "In a joint family governed by the Mitakshara school of Hindu law, the daughter of a coparcener shall by birth become a coparcener in her own right in the same manner as a son, with all the incidents of coparcenary including the right to claim partition of the joint family property."
+
+**Implications:**
+- Daughters acquire rights **from birth**, not at death of father or male members
+- Daughters have **equal rights** to sons in ancestral property
+- Daughters possess **all incidents of coparcenary**, including right to demand partition
+- Daughters are coparceners **regardless of marital status**
+- Daughters **retain coparcenary rights** even after marriage
+
+**Rights of Coparceners:**
+
+**1. Right to Demand Partition:**
+
+One of the most fundamental and inalienable rights of a coparcener is the right to demand partition:
+
+- **Inalienability:** This right cannot be waived, transferred, or excluded
+- **Timing:** Can be exercised at any time; there is no minimum holding period
+- **Procedure:** Can be claimed through agreement or by filing a suit
+- **Enforceability:** Courts will enforce the right against all obstacles
+
+The Supreme Court in *Kesava Dutt v. Diwan Chand* established that this is an inherent right requiring no justification.
+
+**Exceptions (Rare):**
+- If the coparcener fraudulently allowed others to represent ownership for many years (estoppel)
+- If statute imposes specific restrictions
+
+**2. Right to Participate in Management:**
+
+Each coparcener (post-2005, including daughters) has the right to participate in management of joint property:
+
+- Right to express opinions on property matters
+- Right to vote on major decisions (in some interpretations)
+- Right to challenge unauthorized or improper management
+- Right to seek court intervention if management is manifestly improper
+
+**Limitations:**
+- The Kartha retains primary management authority
+- Coparceners cannot unilaterally manage property
+- Participation rights are exercised collectively, not individually
+
+**3. Right to Claim Account:**
+
+Any coparcener can demand an accounting of joint family property and income:
+
+- **Scope:** Full details of property held, income received, and expenditures made
+- **Frequency:** Can be demanded periodically
+- **Contents:** Must include all movable and immovable property, financial records, debts
+- **Enforcement:** Court can compel accounting if the Kartha refuses
+
+**4. Right to Enjoy Property:**
+
+Coparceners have the right to enjoy their undivided share in the income and benefits of joint property:
+
+- Right to reside in family property
+- Right to share in agricultural produce
+- Right to share in rental income
+- Right to benefit from property-generated profits
+
+**5. Right of Succession in Coparcenary Property:**
+
+Upon death of a coparcener, the coparcenary property passes according to succession principles:
+
+**Mitakshara System:**
+- Property passes to other surviving coparceners by survivorship
+- It does not pass to the deceased coparcener's heirs
+
+**Dayabhaga System:**
+- The deceased's share devolves to his heirs
+- Heirs may themselves become coparceners
+
+**6. Right to Claim Restitution:**
+
+If property belonging to the joint family is wrongfully alienated or encumbered:
+
+- Coparceners can claim recovery of the property
+- If property is sold, they can claim compensation
+- They can challenge improper alienations by the Kartha
+
+**7. Right of Pre-emption (In Some Circumstances):**
+
+In certain situations, particularly where property is sold to outsiders, coparceners may have right of pre-emption (right to purchase at the same terms).
+
+**Jurisdictional Variation:** This right varies by state law and specific circumstances.
+
+**8. Right to Claim Maintenance from Joint Property:**
+
+Coparceners and their dependents can claim maintenance from joint family property:
+
+- Widow, children, and dependent relatives can seek support
+- If joint property income is sufficient, courts can direct allocation for maintenance
+- This protects dependents from destitution
+
+**9. Right to Challenge Improper Acts of Karta:**
+
+Coparceners can challenge and seek judicial remedy for:
+
+- Improper alienations of property
+- Unauthorized borrowing
+- Misappropriation of income
+- Breach of fiduciary duty
+
+**Remedies include:**
+- Injunction to prevent unauthorized acts
+- Recovery of misappropriated funds
+- Damages for loss
+- Removal of Kartha
+
+**10. Right to Transfer Interest (After Partition):**
+
+While undivided interests are not freely transferable, after partition each coparcener can:
+- Sell his allotted property
+- Mortgage his share
+- Lease his property
+- Transfer by gift or devise
+
+**11. Right of Apratibandha Daya (Unrestricted Succession):**
+
+This is a specific right recognized in Hindu succession law wherein:
+- All lineal descendants of a coparcener acquire succession rights
+- These rights are "unrestricted" by the lineal succession chain
+- Upon a coparcener's death, property can pass to his heirs at different levels
+
+**12. Right Not to Be Unilaterally Removed from Joint Family:**
+
+A coparcener cannot be unilaterally expelled from joint family status:
+- Separation requires consent or court order
+- Mere dislike or disagreement cannot justify removal
+- Expulsion can only occur through formal partition or legal proceedings
+
+**Incidents of Coparcenary:**
+
+The term **"incidents of coparcenary"** refers to the bundle of rights and liabilities that accompany coparcenary status:
+
+- **Right to demand partition**
+- **Right to share in property income**
+- **Right to participate in management**
+- **Right to demand accounting**
+- **Right of succession by survivorship**
+- **Liability for family debts** (joint and several liability)
+- **Liability to account upon demand**
+
+**Post-2005 Amendment: Impact on Daughters' Rights:**
+
+The amendment has resulted in:
+
+1. **Equality:** Daughters possess identical rights to sons
+2. **Independence:** Daughters are coparceners in their own right, not merely as representatives of husbands or fathers
+3. **Expanded Succession:** Daughters' descendants also acquire coparcenary status
+4. **Equal Management:** Daughters participate equally in management decisions
+5. **Self-Determination:** Daughters can demand partition to determine their own destinies
+
+**Limitations on Coparcener Rights:**
+
+1. **Cannot Alienate Undivided Share:** Before partition, a coparcener cannot unilaterally sell or transfer his interest
+2. **Cannot Exclude Others:** Cannot exclude other coparceners from property without partition
+3. **Joint Liability:** Subject to joint liability for family debts
+4. **Subject to Karta Authority:** Kartha's lawful management decisions bind all coparceners
+
+#### Conclusion
+
+Coparcenary represents a sophisticated legal institution balancing individual rights with family collective interests. The features of coparcenary—acquisition by birth, undivided ownership, survivorship, and equality of rights—create a unique property relationship distinct from all Western legal categories. The rights of coparceners, significantly expanded by the 2005 amendment to include daughters as equal participants, reflect modern constitutional values while maintaining the institutional integrity of ancestral property succession. Understanding these features and rights is essential for navigating Hindu succession law and family property disputes.
+
+---
+### 7\.. Who is a coparcener? Enumerate his rights in a Mitakshara joint family. 
+
+  * *Year:* January/February 2025 | *Marks:* 10
+
+#### Introduction
+
+This question provides an opportunity for a comprehensive treatment of coparcenary within the specific context of the Mitakshara school of Hindu law, which governs most of India except parts of the south (Karnataka, Tamil Nadu, Telangana) and northeast (Assam, Meghalaya). A coparcener represents a legal entity with well-defined status and rights within the joint family framework. The Mitakshara system, propounded by the medieval jurist Vijnaneswara, has evolved considerably through centuries of judicial interpretation and statutory modification, most significantly through the Hindu Succession (Amendment) Act, 2005. Understanding who qualifies as a coparcener and the precise rights they exercise is fundamental to comprehending property succession, management authority, and family governance in Mitakshara-governed communities.
+
+#### Main Body
+
+**Who is a Coparcener in Mitakshara System:**
+
+**Definition:**
+In the Mitakshara school, a coparcener is a person who, by birth or adoption in a joint family, acquires an undivided interest in ancestral property and inherits such property through survivorship upon the death of other coparceners.
+
+**Categories of Coparceners:**
+
+**1. Son (Natural Child):**
+
+The primary category of coparcener. A son born to a coparcener automatically acquires coparcenary status from the moment of birth.
+
+**Conditions:**
+- Birth must be legitimate (though legitimacy laws have become more nuanced)
+- Birth must occur within a recognized family relationship
+- The father must himself be a coparcener or member of joint family
+
+**Status:** Acquires full coparcenary rights identical to his father and siblings.
+
+**2. Grandson (Son of Son):**
+
+Through lineal descent, a grandson acquires coparcenary rights:
+- Must be the son of a son (matrilineal relationships do not create coparcenary in traditional Mitakshara)
+- Acquires rights from birth
+- Ranks as a second-degree coparcener in the traditional three-degree limitation (now largely superseded)
+
+**3. Great-Grandson (Son of Grandson):**
+
+Continuing the male line, a great-grandson acquires coparcenary status:
+- Son of a grandson is a third-degree coparcener
+- The three-degree limitation in classical Mitakshara meant that great-great-grandsons did not acquire coparcenary status
+
+**Modern Development:** The three-degree limitation has been effectively modified through interpretation focusing on succession rights rather than strict degrees.
+
+**4. Daughter (Post-2005 Amendment):**
+
+Prior to the Hindu Succession (Amendment) Act, 2005, daughters were not coparceners. The amendment fundamentally changed this:
+
+**Current Status:**
+- Daughters are now coparceners by birth
+- They possess rights identical to sons
+- This applies to daughters born before or after the amendment (in most interpretations, retroactively for pre-amendment daughters under certain conditions)
+
+**Rights:** Full coparcenary rights including partition rights, management participation, and succession rights.
+
+**5. Granddaughter (Daughter of Son):**
+
+Following the amendment, granddaughters (daughters of sons) are now coparceners:
+- Acquire rights from birth
+- Stand on equal footing with grandsons
+- Rights identical to other coparceners
+
+**6. Great-Granddaughter (Daughter of Grandson):**
+
+Daughters of grandsons also acquire coparcenary status in the female line, expanding the coparcenary circle significantly.
+
+**7. Adopted Son:**
+
+An adopted son, once validly adopted according to the Juvenile Justice (Care and Protection of Children) Act, 2015, or Hindu Adoption and Maintenance Act, 1956:
+- Acquires coparcenary status identical to natural sons
+- Can demand partition
+- Has all incidents of coparcenary
+
+**Requirements for Valid Adoption:**
+- Must comply with legal procedures
+- Adoptive father must have been a coparcener
+- Adoption must be formally performed
+
+**8. Widow of Deceased Coparcener:**
+
+While widows do not themselves become coparceners:
+- They can represent lineal descendants in claiming coparcenary rights
+- Their sons (if born after their husband's death, posthumous sons) acquire coparcenary status
+- They have rights to maintenance from coparcenary property
+
+**Who is NOT a Coparcener in Mitakshara:**
+
+1. **Daughters-in-law** (Unless they themselves satisfy coparcener criteria through birth)
+2. **Wives** (Unless adopted or meeting specific criteria)
+3. **Illegitimate children** (Unless formally acknowledged and treated as family members—status uncertain and state-dependent)
+4. **Unrelated persons** (Who marry into the family but do not have blood relationship)
+5. **Collateral relatives** (Uncles, aunts, cousins—unless they are linear descendants)
+
+**Post-2005 Amendment: Significant Changes**
+
+The Hindu Succession (Amendment) Act, 2005, fundamentally altered Mitakshara coparcenary:
+
+**Amendment Section 6 Provides:**
+> "The daughter of a Mitakshara coparcener shall by birth become a coparcener in her own right in the same manner as the son with effect from the date of coming into force of this Act."
+
+**Consequential Changes:**
+
+1. **Retroactive Applicability:** Daughters who were members of joint families at the time of the amendment or thereafter became coparceners.
+
+2. **Equal Rights:** Daughters possess the same rights as sons, including partition rights, succession rights, and management participation rights.
+
+3. **Expanded Succession:** Daughters' lineal descendants (granddaughters, great-granddaughters) acquire succession rights they previously did not possess.
+
+4. **Property Division:** In families with both sons and daughters, property must now be divided among all equally (daughters and sons).
+
+**Rights of Coparceners in Mitakshara Joint Family:**
+
+**1. Right to Demand Partition (Inalienable Right):**
+
+The most fundamental right of a coparcener, established in landmark cases:
+
+**Characteristics:**
+- **Inalienable:** Cannot be waived, relinquished, or divested by any agreement or family arrangement
+- **Immediate Exercise:** Can be exercised at any time; no waiting period required
+- **Enforcement:** Courts will enforce against all obstacles
+- **Justification:** Requires no reason or cause to be shown; the right exists inherently
+
+**Modes of Exercise:**
+- By mutual agreement among coparceners
+- By filing a suit for partition
+- By partition deed with consent of others
+- By judicial decree if agreement fails
+
+**Scope:** Extends to all ancestral property; cannot be limited to specific portions.
+
+**2. Right to Equal Share in Coparcenary Property (Before Partition):**
+
+Each coparcener, before partition, possesses an equal undivided share:
+
+**Principles:**
+- **Equality:** All coparceners (including post-2005 daughters) hold equal shares
+- **Undivided Nature:** The share is not physically demarcated until partition
+- **Not Exclusive:** No coparcener has exclusive rights to any specific portion
+- **Incident of Birth:** Acquired automatically from birth, not by investment or contribution
+
+**Post-2005 Implication:**
+In a family with 2 sons and 2 daughters, each child (all four) possesses equal 1/4 share in ancestral property.
+
+**3. Right of Survivorship:**
+
+Upon the death of a coparcener before partition:
+
+**Operation:**
+- The deceased's interest does **not** pass to his/her heirs
+- It **automatically vests** in surviving coparceners
+- Surviving coparceners take increased shares through survivorship
+- This is an automatic operation of law, not requiring any act
+
+**Example:**
+If three coparceners (A, B, C) share ancestral property equally (1/3 each) and A dies before partition, his share passes to B and C. They now hold 1/2 each (or in some interpretations, acquire additional undivided interests).
+
+**Exception:** This applies in Mitakshara; in Dayabhaga, heirs succeed to the deceased member's share.
+
+**4. Right to Participate in Management of Joint Property:**
+
+Each coparcener has the right to participate in decisions regarding joint property:
+
+**Scope:**
+- Right to be informed of property matters
+- Right to express opinions and suggestions
+- Right to attend family meetings regarding property
+- Right to challenge improper decisions
+- Right to seek judicial intervention if necessary
+
+**Limitations:**
+- Kartha retains executive authority for day-to-day management
+- Coparceners cannot unilaterally make decisions
+- Participation is collective, exercised through family consensus or court proceedings
+
+**5. Right to Demand Account of Joint Property:**
+
+Any coparcener can demand full accounting from the Kartha:
+
+**Contents of Account:**
+- Detailed inventory of all movable and immovable property
+- Records of income received (agricultural, rental, interest, dividends)
+- Details of all expenditures and their justification
+- Information on debts, liabilities, and encumbrances
+- Statement of transactions and alienations
+
+**Enforcement:**
+- If Kartha refuses, coparcener can petition the court
+- Court can compel provision of accounts
+- Accuracy of accounts can be verified through independent inquiry
+
+**Periodicity:**
+- Accounts can be demanded at reasonable intervals
+- A coparcener is not limited to one demand
+
+**6. Right to Enjoy and Benefit from Joint Property:**
+
+Coparceners have the right to use and benefit from joint family property:
+
+**Manifestations:**
+- Right to reside in family residences
+- Right to share in agricultural produce
+- Right to receive portion of rental income
+- Right to participate in property profits or returns
+- Right to use property for personal needs (within reason)
+
+**Limitation:** The Kartha allocates such benefits, though unreasonable denial can be challenged.
+
+**7. Right to Challenge Improper Alienation:**
+
+If the Kartha alienates joint property without justification or beyond his authority:
+
+**Remedies:**
+- **Suit for Declaration:** Seeking declaration that alienation is void
+- **Suit for Recovery:** Attempting to recover the property
+- **Suit for Compensation:** Claiming damages for loss
+- **Injunction:** Seeking court order to prevent or halt unauthorized alienation
+
+**Grounds for Challenge:**
+- Alienation was for personal benefit of Kartha
+- Alienation was not for recognized family purpose
+- Alienation was fraudulent or obtained through misrepresentation
+- Alienation was unconscionable or grossly unfair
+
+**8. Right to Seek Removal of Kartha:**
+
+If the Kartha acts improperly or in breach of fiduciary duty:
+
+**Grounds for Removal:**
+- Gross mismanagement of property
+- Misappropriation of family funds
+- Refusal to provide accounts
+- Acts manifestly adverse to family interests
+- Incapacity due to mental illness or advanced age
+
+**Procedure:**
+- Suit must be filed in appropriate court
+- Grounds must be proven clearly
+- Court has discretion to remove and appoint successor Kartha
+
+**9. Right of Succession to Coparcenary Property Upon Death:**
+
+Upon death of a coparcener, his interest in coparcenary property devolves according to succession principles:
+
+**Mitakshara Rule:**
+- Property passes to surviving coparceners by survivorship (before partition)
+- After partition, the deceased's separate share passes to his heirs according to Hindu Succession Act
+
+**Dayabhaga Rule (if applicable):**
+- The deceased's share devolves to his legal heirs
+
+**Implications:**
+- A coparcener cannot dispose of his coparcenary interest by will (before partition)
+- After partition, the share can be devised by will
+
+**10. Right to Claim Maintenance from Joint Property:**
+
+Coparceners and their dependents can seek maintenance from joint family property:
+
+**Categories Entitled to Maintenance:**
+- Minor children of coparceners
+- Wives of deceased coparceners
+- Dependent parents
+- Disabled or sick members
+
+**Mechanism:**
+- Maintenance can be claimed directly from property income
+- If insufficient income, court can direct allocation of capital
+- Maintenance continues until the person becomes self-sufficient or property is partitioned
+
+**11. Right to Recover Property Wrongfully Taken:**
+
+If joint family property is wrongfully taken by outsiders or through fraud:
+
+**Remedies:**
+- **Recovery Suit:** Claiming restoration of property
+- **Damages:** Seeking compensation for loss or use
+- **Injunction:** Preventing further wrongful possession
+
+**12. Right to Claim Apratibandha Daya (Unrestricted Succession):**
+
+This is a specific right in Hindu succession wherein:
+- Children of a coparcener inherit his share
+- The inheritance line is "unrestricted" in not passing through the deceased's direct descendants only
+- This ensures broader participation in succession
+
+**13. Right Not to Be Expelled from Joint Family:**
+
+A coparcener cannot be unilaterally expelled or forced to separate:
+
+- Separation requires mutual agreement or court order
+- Mere dislike or disagreement cannot justify expulsion
+- The coparcener's status and rights are protected by law
+
+**14. Right to Creditor Protection:**
+
+Coparceners have limited protection against creditors of individual members:
+
+- Personal creditors cannot attach undivided coparcenary interest (though laws vary by state)
+- Joint property remains largely protected from individual member's creditors
+- Family property cannot be seized for personal debts of one member
+
+**Limitations on Coparcener Rights:**
+
+1. **Cannot Alienate Undivided Interest:** Before partition, a coparcener cannot individually sell or transfer his coparcenary interest
+
+2. **Subject to Kartha Authority:** Within reasonable bounds, the Kartha's management decisions are binding on coparceners
+
+3. **Joint and Several Liability:** Coparceners are liable for family debts incurred during joint family period
+
+4. **Cannot Exclude Others:** A coparcener cannot exclude other coparceners from property without formal partition
+
+#### Conclusion
+
+A coparcener in the Mitakshara system represents a well-defined legal status conferring both substantial rights and correlative obligations. The category of coparceners has expanded significantly following the 2005 amendment to include daughters as equal rights-holders. The rights enumerated—particularly the inalienable right to partition and the equal share in ancestral property—reflect the democratic and equitable values underlying modern Hindu succession law. These rights are protected by courts through vigorous judicial scrutiny of managerial acts and provide a comprehensive framework for ensuring family members receive their due share in ancestral property. Understanding these rights is essential for family members, legal practitioners, and administrators of joint properties.
+
+---
 
 ### 6 Marks Questions
 
