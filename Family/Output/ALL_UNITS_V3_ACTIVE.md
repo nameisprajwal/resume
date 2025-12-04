@@ -920,9 +920,9 @@ The grounds available to Hindu wives for dissolution of marriage have undergone 
 
 ### 1\. Discuss the features of Hindu Joint Family and Coparcenary (and rights of coparcener).
 
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
   
 #### Introduction
 
@@ -1002,10 +1002,10 @@ The Hindu joint family and co-parcenary represent sophisticated institutional ar
 
 ### 2\. What is Partition? When can Partition be re-opened?
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
   
 #### Introduction
 
@@ -1075,32 +1075,32 @@ Partition represents the definitive severance of joint family relationships and 
 
 ### 3\. Who is Karta? Discuss his position, duties, and powers (including alienation).
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
 
 ### 4\. What is Partition? Explain various modes of Partition / Who can claim partition?
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 ### 5\. What are Endowments? Explain essentials of valid Endowments.
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
 
 ### 6 Marks Questions
 
 ### 6\. Write a note on Doctrine of Pious Obligation.
-
-  * *Year:* December 2019 | *Marks:* 6
-  * *Year:* March 2023 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+ 
+  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 ### 7\. Re-union.
 
