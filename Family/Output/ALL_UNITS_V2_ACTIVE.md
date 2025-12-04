@@ -16,8 +16,8 @@
 
 ### 1\. What is Custom? Briefly explain requirements of a valid custom.
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
     
 #### Introduction
 Custom represents one of the most fundamental and ancient sources of Hindu law, predating the codification of written legal texts. The term "custom" derives from the Sanskrit word "Achar" or "Acara," denoting established practices and usages that have been consistently followed by a community over an extended period. In the context of Hindu jurisprudence, custom embodies the crystallized wisdom of society, reflecting the ethical and moral principles of a people. The Hindu Legal System acknowledges custom as a source of law with constitutional validity, recognizing that law is not merely a creation of legislative bodies but emerges organically from societal practices and traditions that have proven their utility and righteousness over centuries.
