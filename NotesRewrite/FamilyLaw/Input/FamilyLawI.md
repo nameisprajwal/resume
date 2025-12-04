@@ -84,15 +84,15 @@
 
 **The concept of law in Hinduism does not originate from commands issued by a sovereign but from divine revelation and long-standing tradition. This law is binding on all—both king and subjects—and is administered in courts that seek to uphold the spirit of dharma and ensure justice. Thus, Hindu law is a holistic system where legal, social, and spiritual aspects are integrated to promote individual welfare and social harmony.**
 
-**Hindu law is [a law which emanates from Smritis expounded in Sanskrit commentaries and]() [di]()gests. These Smriti texts d[o not make any clear-cut distinction between rules of law and]() [rules of moralit]()y or religion. These rules [of religion and morality were dealt with at one and]() [the same place with the rules]() of law. In the case of Shri [Balsu, the privy Council]() [distinguished between mandatory (legal) rules and dire]()ctory (moral)rules. The Hi[gh Courts in]() [India have tried to lay down some tests (See e.g. Ram]() [Harakv.]()Jagan Nath,(1938) 53 All[. 815]()**
+**Hindu law is a law which emanates from Smritis, expounded in Sanskrit commentaries and digests. These Smriti texts do not make any clear-cut distinction between rules of law and rules of morality or religion. These rules of religion and morality were dealt with at one and the same place with the rules of law. In the case of Shri Balsu, the Privy Council distinguished between mandatory (legal) rules and directory (moral) rules. The High Courts in India have tried to lay down some tests (See e.g. Ram Harakv.) Jagan Nath, (1938) 53 All. 815.**
 
-**[approved in]() [Abhiraj]() [v. Devendra, 1962 S.C. 351). On this basis an entire b]()ody of Hindu law has been [built up. Even during the Mohammedan rule in the country, the Smriti law was]() [co]()ntinued to be fully recognis[ed.]()**
+**approved in Abhiraj v. Devendra, 1962 S.C. 351. On this basis, an entire body of Hindu law has been built up. Even during the Mohammedan rule in the country, the Smriti law was continued to be fully recognised.**
 
-**Hindu conce[pt of law does not conform to the Austinian view. According to analytical jurists]() [mo]()st of the rules of Hindu law would ell accepted that a rule of [law to be called as such need]() [not emanate from a determinate or particular au]()thority and it need not be rules of law as the commands o[f Austin's sovereign, because they were obeyed by the people for whom they]() [were]() made.**
+**Hindu concept of law does not conform to the Austinian view. According to analytical jurists, most of the rules of Hindu law would ell accepted that a rule of law, to be called as such, need not emanate from a determinate or particular authority, and it need not be rules of law as the commands of Austin's sovereign, because they were obeyed by the people for whom they were made.**
 
-#### **Hindu Law i[n Modern Times:]()**
+#### **Hindu Law in Modern Times:**
 
-[**Hindu law as administered by the Courts of India is applied to H**]()**indus, But, in fact, it is not t[he original Hindu law which is applicable to Hindus in India. It is an amended and]() modified law which has ch[anged and altered a considerable portion. Original Hindu law does not apply]() [to al]()l the matters. It is subjected to alterations and modifications. Original Hindu law has been interfered with by the changing demands and needs of the society. For instance, the nature of Hindu marriage is materially altered by –**
+**Hindu law as administered by the Courts of India is applied to Hindus. But, in fact, it is not the original Hindu law which is applicable to Hindus in India. It is an amended and modified law which has changed and altered a considerable portion. Original Hindu law does not apply to all the matters. It is subjected to alterations and modifications. Original Hindu law has been interfered with by the changing demands and needs of the society. For instance, the nature of Hindu marriage is materially altered by –**
 
 * **The passing of the Hindu Marriage Act, 1955;**
 
