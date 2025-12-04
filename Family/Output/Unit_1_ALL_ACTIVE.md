@@ -16,8 +16,11 @@
 
 ## 10 Marks Questions
 
-### 1.  **What is Custom? Briefly explain requirements of a valid custom.**
-       Year: March 2023 | Marks:10
+### 1\. What is Custom? Briefly explain requirements of a valid custom.
+
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+    
 #### Introduction
 Custom represents one of the most fundamental and ancient sources of Hindu law, predating the codification of written legal texts. The term "custom" derives from the Sanskrit word "Achar" or "Acara," denoting established practices and usages that have been consistently followed by a community over an extended period. In the context of Hindu jurisprudence, custom embodies the crystallized wisdom of society, reflecting the ethical and moral principles of a people. The Hindu Legal System acknowledges custom as a source of law with constitutional validity, recognizing that law is not merely a creation of legislative bodies but emerges organically from societal practices and traditions that have proven their utility and righteousness over centuries.
 
@@ -63,12 +66,13 @@ However, this hierarchical arrangement is not rigid. In instances where written 
 Custom represents a living, organic source of Hindu law that reflects the accumulated wisdom and experience of communities over centuries. Its validity depends upon the satisfaction of stringent requirements including antiquity, consistency, certainty, reasonableness, and general acceptance. While custom occupies an important position in the legal hierarchy, it must not transgress the boundaries of public policy, constitutional norms, and principles of natural justice. The courts recognize that law emerges not only from deliberate legislative enactment but also from the spontaneous evolution of societal practices. However, this recognition is conditioned upon rigorous proof and critical evaluation of customary practices to ensure that only genuinely rooted, reasonable, and publicly acknowledged usages are elevated to the status of law. In contemporary times, while the importance of custom has somewhat diminished due to extensive statutory codification, it remains a relevant and legitimate source for resolving matters not adequately covered by written law, particularly in areas of personal and family relations.
 
 ---
-     
-2.  **What is custom? Briefly explain requirements of a valid custom.**
-      * *Year:* December 2019 | *Marks:* 10
-  
-### 3.  **Explain briefly the concept of Dharma.**
-      * *Year:* March 2023 | *Marks:* 10
+
+### 2\. Explain the concept of Dharma.
+
+  * *Year:* December 2019 | *Marks:* 6 (Note: Also appeared as 6 marks)
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
+    
 #### Introduction
 
 Dharma stands as one of the most profound and multifaceted concepts in Hindu philosophy and jurisprudence, representing far more than a simple legal or ethical principle. The term "Dharma" (धर्म) is derived from the Sanskrit root "Dhr" meaning "to hold" or "to support," thereby signifying that which holds together, sustains, and maintains the cosmic and social order. In the context of Hindu law, Dharma encompasses a comprehensive system of duties, obligations, rights, and principles that regulate individual conduct, family relations, and societal interactions, grounded in the fundamental belief that law must serve not merely as an instrument of coercion but as a pathway to righteousness and spiritual liberation. The classical legal texts of Hindu civilization, particularly the Dharmaśāstras, recognize Dharma as the foundational principle underlying all legal norms and institutional structures.
@@ -120,12 +124,12 @@ The modern application of Dharma must be contextualized within the framework of 
 Dharma represents a comprehensive philosophical and legal concept that transcends the narrow confines of "law" in the Western sense. It encompasses ethics, duty, obligation, and righteousness, operating across cosmic, social, and individual dimensions. While grounded in ancient scriptural wisdom, the concept has demonstrated remarkable flexibility and capacity for reinterpretation across different historical periods. In the contemporary constitutional framework of India, Dharma remains relevant as a supplementary principle of interpretation, particularly in areas involving family law and personal matters, but it must be reconciled with constitutional norms, statutory provisions, and principles of equality and justice. The concept reminds us that law is not merely a coercive mechanism but an instrument through which society endeavors to achieve ethical and spiritual advancement while maintaining social order and justice.
 
 ---
-
-4.  **Explain briefly the concept of Dharma.**
-      * *Year:* June/July 2025 | *Marks:* 10
         
-### 5.  **Who are Hindus? Persons to whom Hindu Law does and does not apply?**
-      * *Year:* June 2019 | *Marks:* 10
+### 3\. Who are Hindus? To whom does Hindu Law apply?
+
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
       
 #### Introduction
 
@@ -201,13 +205,9 @@ The definition of "Hindu" for purposes of Hindu law encompasses three principal 
 
 ---
 
+### 4\. Explain the features of a co-parcenary and bring out the rights of a co-parcenary.
 
-6.  **Who are Hindus? Persons to whom Hindu Law does and does not apply?**
-      * *Year:* April/May 2022 | *Marks:* 10
-7.  **Who are Hindus? To whom Hindu law are applicable?**
-      * *Year:* August/September 2024 | *Marks:* 10
-### 8.  **Explain the features of a co-parcenary and bring out the rights of a co-parcenary.**
-      * *Year:* June 2019 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
       
 #### Introduction
 
@@ -296,9 +296,12 @@ Under the present legal regime, co-parceners possess the following rights:
 Co-parcenary represents a distinctive institution within Hindu law embodying principles of collective ownership, mutual obligation, and lineal succession. The traditional institution, confined to male members, was characterized by the right of survivorship, an automatic vesting of rights through birth, and restrictions on alienation. The Hindu Succession (Amendment) Act, 2005, has modernized this institution by extending equal co-parcenary status to daughters, thereby eliminating gender-based discrimination while preserving the essential characteristics of the co-parcenary institution. The contemporary co-parcenary reflects a synthesis of ancient Hindu legal principles with modern constitutional values of equality and non-discrimination. The rights of co-parceners today encompass the right to partition, succession, management, and alienation, exercised within the framework of family obligations and collective welfare. This evolution demonstrates the capacity of Hindu law institutions to adapt to changing social values while remaining grounded in foundational principles of family, lineage, and dharmic obligation.
 
 ---  
+### 5\. Distinguish between Mitakshara and Dayabhaga Schools of Hindu Law.
 
-### 9.  **Distinguish between Mitakshara and Dayabhaga Schools of law.**
-      * *Year:* December 2019 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 6 (Note: Also appeared as 6 marks)
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+    
 #### Introduction
 
 The Mitakshara and Dayabhaga schools represent two major competing systems of Hindu jurisprudence that have profoundly shaped the evolution of Hindu law, particularly regarding property rights, succession, and family structure. These schools emerged from different geographical and cultural contexts within the Indian subcontinent and developed distinct approaches to interpreting and applying Hindu legal principles. The Mitakshara school, originating from South India and spreading to North India, emphasizes the concept of coparcenary and the automatic vesting of property rights in heirs by birth. Conversely, the Dayabhaga school, originating from Bengal, emphasizes testamentary succession and the role of the deceased's intent in property transmission. These fundamental differences have resulted in divergent legal regimes applicable in different regions of India, though modern statutory codification has attempted to harmonize certain principles while preserving regional variations. Understanding these schools remains essential to comprehending the historical development of Hindu law and the rationale underlying certain statutory provisions that differ between different regions.
@@ -396,8 +399,6 @@ The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential
 14. **'A clear proof of custom outweigh the written text of law'. Explain.**
       * *Year:* January/February 2025 | *Marks:* 10
 15. **Explain in brief the sources of Hindu law.**
-      * *Year:* September 2023 | *Marks:* 10
-16. **Explain the fundamental differences between the schools of Hindu Law.**
       * *Year:* September 2023 | *Marks:* 10
 17. **Explain Shruti and Smriti as ancient sources of Hindu law.**
       * *Year:* August/September 2024 | *Marks:* 10
