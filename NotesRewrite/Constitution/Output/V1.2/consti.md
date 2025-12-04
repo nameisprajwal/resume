@@ -1,1029 +1,788 @@
-# **UNIT \- I**
+# UNIT I: CONSTITUTIONAL LAW
 
-* **Meaning & Definition of Constitution**
+## 1. Introduction to the Constitution
 
-* **Kinds of Constitution**
+A constitution is the fundamental and supreme law of a country that establishes the basic framework for governance and defines the relationship between the state and its citizens. It serves as the foundational document that outlines the structure, powers, and functions of government institutions while guaranteeing fundamental rights to the people. The constitution acts as the supreme law of the land, meaning all other laws must conform to its provisions and cannot contradict its principles. It establishes the separation of powers among the executive, legislative, and judicial branches of government to prevent abuse of authority and ensure checks and balances.
 
-* **Constitutionalism**
+A constitution typically includes a preamble that states the fundamental principles and aspirations of the nation, followed by provisions on government structure, citizens' rights, and amendment procedures. Most constitutions are written documents that are deliberately drafted and adopted through a formal process, though some countries like the United Kingdom have unwritten constitutions based on traditions and conventions. The constitution provides legitimacy to the government by establishing clear rules about how political power is acquired, exercised, and transferred in society. It serves as a social contract between the rulers and the ruled, ensuring that government power is exercised for the public good rather than personal benefit. Constitutional provisions are typically more difficult to amend than ordinary laws, requiring special procedures like supermajorities or referendums to maintain stability and protect core principles. In essence, a constitution creates the legal foundation for democracy, the rule of law, and constitutional governance that protects both individual freedoms and collective interests.
 
-* **Salient features of Indian Constitution.**
+### 1.1 The Constitution of India
 
-* **Preamble: Meaning, Scope, Importance, Objectives and Values enshrined in the Preamble.**
+The Constitution of India is the country's supreme law, establishing the fundamental principles, structure, procedures, powers, and duties of government institutions, as well as the fundamental rights, directive principles, and duties of citizens. It serves as the foundational framework for the governance of India by:
 
-* **Citizenship- modes of acquisition & termination.**
+* Defining the political code, organization, and powers of the state.
+* Outlining limitations of government authority.
+* Guaranteeing rights, justice, equality, liberty, and fraternity to all citizens.
+* Acting as the legal basis from which all laws and practices must derive validity.
 
-### **Introduction to constitution**
+The Constitution was adopted on 26 November 1949 and came into effect on 26 January 1950, marking the transformation of India into a sovereign, socialist, secular, and democratic republic. It cannot be overridden by the Parliament and establishes a system of checks and balances through separation of powers among the legislative, executive, and judicial branches. The Indian Constitution is also notable for being the world's longest written constitution, carefully detailing the rights of citizens and the structure of governance.
 
-A constitution is the fundamental and supreme law of a country that establishes the basic framework for governance and defines the relationship between the state and its citizens. It serves as the foundational document that outlines the structure, powers, and functions of government institutions while guaranteeing fundamental rights to the people. The constitution acts as the supreme law of the land, meaning all other laws must conform to its provisions and cannot contradict its principles. It establishes the separation of powers among the executive, legislative, and judicial branches of government to prevent abuse of authority and ensure checks and balances. A constitution typically includes a preamble that states the fundamental principles and aspirations of the nation, followed by provisions on government structure, citizens' rights, and amendment procedures. Most constitutions are written documents that are deliberately drafted and adopted through a formal process, though some countries like the United Kingdom have unwritten constitutions based on traditions and conventions. The constitution provides legitimacy to the government by establishing clear rules about how political power is acquired, exercised, and transferred in society. It serves as a social contract between the rulers and the ruled, ensuring that government power is exercised for the public good rather than personal benefit. Constitutional provisions are typically more difficult to amend than ordinary laws, requiring special procedures like supermajorities or referendums to maintain stability and protect core principles. In essence, a constitution creates the legal foundation for democracy, the rule of law, and constitutional governance that protects both individual freedoms and collective interests.
+**Related Inquiries:**
 
-The Constitution of India is the country's supreme law, establishing the fundamental principles, structure, procedures, powers, and duties of government institutions, as well as the fundamental rights, directive principles, and duties of citizens.  
-It serves as the foundational framework for the governance of India by:
+* What is the role of the preamble in the Indian Constitution?
+* How does the Indian Constitution protect citizens' fundamental rights?
+* Why is the Indian Constitution considered the longest in the world?
+* What are the core principles that define the Indian Constitution?
+* How does the Indian Constitution establish the separation of power?
 
-* Defining the political code, organization, and powers of the state  
-* Outlining limitations of government authority  
-* Guaranteeing rights, justice, equality, liberty, and fraternity to all citizens  
-* Acting as the legal basis from which all laws and practices must derive validity
+> A written instrument embodying the rules of a political and social organization. The fundamental law, written or unwritten, that establishes the character of a government by defining the basic principles to which a society must conform; by describing the organization of the government and regulation.
 
-The Constitution was adopted on 26 November 1949 and came into effect on 26 January 1950, marking the transformation of India into a sovereign, socialist, secular, and democratic republic. It cannot be overridden by the Parliament and establishes a system of checks and balances through separation of powers among the legislative, executive, and judicial branches. The Indian Constitution is also notable for being the world's longest written constitution, carefully detailing the rights of citizens and the structure of governance.  
-Related
+## 2. Meaning, Definition, and Nature
 
-What is the role of the preamble in the Indian Constitution  
-How does the Indian Constitution protect citizens' fundamental rights  
-Why is the Indian Constitution considered the longest in the world  
-What are the core principles that define the Indian Constitution  
-How does the Indian Constitution establish the separation of power
-
-government and guarantee certain rights to the people in it. A written instrument embodying the rules of a political and social organization. The fundamental law, written or unwritten, that establishes the character of a government by defining the basic principles to which a society must conform; by describing the organization of the government and regulation,
-
-### **Definition of Constitution**
+### 2.1 Definition of Constitution
 
 The Constitution of India is the fundamental and supreme legal document that establishes the framework for the governance of the Republic of India. As the longest written constitution in the world, it serves as the cornerstone of India's democratic polity and embodies the collective will and aspirations of the Indian people.
 
-## **Meaning and Definition**
+### 2.2 Legal and Academic Definitions
 
-Legal Definition: The Constitution of India is defined as the supreme law of the land that establishes the basic framework for governance, defines the structure and powers of government institutions, guarantees fundamental rights to citizens, and outlines the duties and responsibilities of both the state and its citizens.  
-Academic Definitions:
+**Legal Definition:**
+The Constitution of India is defined as the supreme law of the land that establishes the basic framework for governance, defines the structure and powers of government institutions, guarantees fundamental rights to citizens, and outlines the duties and responsibilities of both the state and its citizens.
 
-* According to constitutional scholars, a constitution is "a fundamental set of principles or established precedents according to which the state is governed"  
-* Aristotle defined constitution as "the way by which all citizens or constituent parts of the state are organized in relation to each other"  
-* Austin stated that constitution "fixes the structure of supreme government"
+**Academic Definitions:**
 
-Comprehensive Definition: The Indian Constitution is a written document that lays down the framework demarcating fundamental political code, structure, procedures, powers, and duties of government institutions and sets out fundamental rights, directive principles, and the duties of citizens.
+* **Scholars:** A constitution is "a fundamental set of principles or established precedents according to which the state is governed."
+* **Aristotle:** Defined constitution as "the way by which all citizens or constituent parts of the state are organized in relation to each other."
+* **Austin:** Stated that a constitution "fixes the structure of supreme government."
 
-## **Nature and Characteristics**
+**Comprehensive Definition:**
+The Indian Constitution is a written document that lays down the framework demarcating fundamental political code, structure, procedures, powers, and duties of government institutions and sets out fundamental rights, directive principles, and the duties of citizens.
 
-1\. Supreme Legal Authority
+### 2.3 Nature and Characteristics
 
-* The Constitution is the supreme legal authority which binds the legislative, executive, and judicial organs of government  
-* All laws, government actions, and institutional functions must conform to constitutional provisions  
-* It establishes constitutional supremacy (not parliamentary supremacy) since it was created by a constituent assembly rather than Parliament
+**1. Supreme Legal Authority**
+* The Constitution is the supreme legal authority which binds the legislative, executive, and judicial organs of government.
+* All laws, government actions, and institutional functions must conform to constitutional provisions.
+* It establishes constitutional supremacy (not parliamentary supremacy) since it was created by a constituent assembly rather than Parliament.
 
-2\. Written and Comprehensive Document
+**2. Written and Comprehensive Document**
+* It is a written constitution unlike the unwritten British Constitution.
+* Originally contained 395 Articles and 8 Schedules in 1950.
+* Currently consists of approximately 470 Articles in 25 Parts and 12 Schedules.
+* Contains about 145,000 words, making it the longest written national constitution in the world.
 
-* It is a written constitution unlike the unwritten British Constitution  
-* Originally contained 395 Articles and 8 Schedules in 1950  
-* Currently consists of approximately 470 Articles in 25 Parts and 12 Schedules  
-* Contains about 145,000 words, making it the longest written national constitution in the world
+**3. Federal Structure with Unitary Features**
+* Establishes a federal system of government with division of powers between Union and States.
+* Contains unitary features that allow the Centre to assert more powers during emergencies.
+* Article 1 describes India as a "Union of States" rather than a federation.
 
-3\. Federal Structure with Unitary Features
+### 2.4 Historical Background and Adoption
 
-* Establishes a federal system of government with division of powers between Union and States  
-* Contains unitary features that allow the Centre to assert more powers during emergencies  
-* Article 1 describes India as a "Union of States" rather than a federation
+**Genesis and Formation:**
+* The Constitution has its roots in Jawaharlal Nehru's Objectives Resolution presented on December 13, 1946.
+* The Constituent Assembly began work on November 26, 1946, and held its first meeting on December 9, 1946.
+* The Constitution was adopted on November 26, 1949, and came into effect on January 26, 1950.
 
-## **Historical Background and Adoption**
+**Constitutional Making Process:**
+* The Constituent Assembly sat for 11 sessions over 167 days across a period of 2 years, 11 months, and 18 days.
+* Every Article was debated thoroughly by the members of the Assembly.
+* The Constitution replaced the Government of India Act 1935 as the fundamental governing document.
 
-Genesis and Formation:
+### 2.5 Structure and Components
 
-* The Constitution has its roots in Jawaharlal Nehru's Objectives Resolution presented on December 13, 1946  
-* The Constituent Assembly began work on November 26, 1946, and held its first meeting on December 9, 1946  
-* The Constitution was adopted on November 26, 1949, and came into effect on January 26, 1950
+**1. The Preamble**
+* Serves as the introductory statement that embodies the philosophy and objectives of the Constitution.
+* Declares India as a "Sovereign Socialist Secular Democratic Republic."
+* Outlines four main objectives: Justice, Liberty, Equality, and Fraternity.
 
-Constitutional Making Process:
+**2. Parts and Articles**
+* Divided into 25 Parts covering different aspects of governance.
+* Contains detailed provisions on government structure, fundamental rights, directive principles, and amendment procedures.
 
-* The Constituent Assembly sat for 11 sessions over 167 days across a period of 2 years, 11 months, and 18 days  
-* Every Article was debated thoroughly by the members of the Assembly  
-* The Constitution replaced the Government of India Act 1935 as the fundamental governing document
+**3. Schedules**
+* 12 Schedules that provide detailed lists and procedures.
+* Include the Seventh Schedule with Union, State, and Concurrent Lists for distribution of powers.
 
-## **Structure and Components**
+### 2.6 Fundamental Principles Established
 
-1\. The Preamble
+**1. Sovereign Socialist Secular Democratic Republic**
+* **Sovereign:** India possesses complete independence and is not under any external control.
+* **Socialist:** Added by 42nd Amendment, implies economic democracy and welfare state principles.
+* **Secular:** Equal respect for all religions with state maintaining neutrality.
+* **Democratic:** Government derives authority from the people through elected representatives.
+* **Republic:** Head of state (President) is elected, not hereditary.
 
-* Serves as the introductory statement that embodies the philosophy and objectives of the Constitution  
-* Declares India as a "Sovereign Socialist Secular Democratic Republic"  
-* Outlines four main objectives: Justice, Liberty, Equality, and Fraternity
+**2. Parliamentary Form of Government**
+* Establishes a Westminster-style parliamentary system.
+* Real executive power vests in the Council of Ministers headed by the Prime Minister.
+* The President is the nominal executive who acts on the advice of the Council of Ministers.
 
-2\. Parts and Articles
+### 2.7 Key Features and Provisions
 
-* Divided into 25 Parts covering different aspects of governance  
-* Contains detailed provisions on government structure, fundamental rights, directive principles, and amendment procedures
+**1. Fundamental Rights (Part III)**
+* Guarantees six categories of fundamental rights to all citizens.
+* Includes Right to Equality, Freedom, against Exploitation, Freedom of Religion, Cultural and Educational Rights, and Constitutional Remedies.
+* These rights are justiciable and can be enforced through courts.
 
-3\. Schedules
+**2. Directive Principles of State Policy (Part IV)**
+* Contains non-justiciable principles that guide state policy.
+* Aims to establish a welfare state and promote social and economic democracy.
+* Classified into Socialistic, Gandhian, and Liberal-intellectual categories.
 
-* 12 Schedules that provide detailed lists and procedures  
-* Include the Seventh Schedule with Union, State, and Concurrent Lists for distribution of powers
+**3. Fundamental Duties (Part IVA)**
+* Added by the 42nd Amendment Act, 1976.
+* Lists eleven fundamental duties of citizens.
+* Though non-enforceable, they promote civic consciousness.
 
-## **Fundamental Principles Established**
-
-1\. Sovereign Socialist Secular Democratic Republic
-
-* Sovereign: India possesses complete independence and is not under any external control  
-* Socialist: Added by 42nd Amendment, implies economic democracy and welfare state principles  
-* Secular: Equal respect for all religions with state maintaining neutrality  
-* Democratic: Government derives authority from the people through elected representatives  
-* Republic: Head of state (President) is elected, not hereditary
-
-2\. Parliamentary Form of Government
-
-* Establishes a Westminster-style parliamentary system  
-* Real executive power vests in the Council of Ministers headed by the Prime Minister  
-* The President is the nominal executive who acts on the advice of the Council of Ministers
-
-## **Key Features and Provisions**
-
-1\. Fundamental Rights (Part III)
-
-* Guarantees six categories of fundamental rights to all citizens  
-* Includes Right to Equality, Freedom, against Exploitation, Freedom of Religion, Cultural and Educational Rights, and Constitutional Remedies  
-* These rights are justiciable and can be enforced through courts
-
-2\. Directive Principles of State Policy (Part IV)
-
-* Contains non-justiciable principles that guide state policy  
-* Aims to establish a welfare state and promote social and economic democracy  
-* Classified into Socialistic, Gandhian, and Liberal-intellectual categories
-
-3\. Fundamental Duties (Part IVA)
-
-* Added by the 42nd Amendment Act, 1976  
-* Lists eleven fundamental duties of citizens  
-* Though non-enforceable, they promote civic consciousness
-
-## **Sources and Influences**
+### 2.8 Sources and Influences
 
 The Constitution draws from multiple sources and constitutional systems worldwide:
 
-* Parliamentary System: United Kingdom  
-* Fundamental Rights and Judicial Review: United States of America  
-* Directive Principles: Ireland  
-* Federal Structure: Canada  
-* Emergency Provisions: Germany  
-* About 250 provisions borrowed from the Government of India Act, 1935
+* **Parliamentary System:** United Kingdom
+* **Fundamental Rights and Judicial Review:** United States of America
+* **Directive Principles:** Ireland
+* **Federal Structure:** Canada
+* **Emergency Provisions:** Germany
+* **Government of India Act, 1935:** About 250 provisions borrowed.
 
-## **Distinctive Features**
+### 2.9 Distinctive Features
 
-1\. Universal Adult Franchise
+**1. Universal Adult Franchise**
+* Every citizen aged 18 years and above has the right to vote.
+* Originally 21 years, reduced to 18 by the 61st Amendment Act, 1988.
 
-* Every citizen aged 18 years and above has the right to vote  
-* Originally 21 years, reduced to 18 by the 61st Amendment Act, 1988
+**2. Single Citizenship**
+* Provides single Indian citizenship despite federal structure.
+* All citizens enjoy equal rights throughout the country regardless of state of residence.
 
-2\. Single Citizenship
+**3. Independent Judiciary**
+* Establishes an integrated judicial system with the Supreme Court at the apex.
+* Ensures judicial review and protection of constitutional rights.
+* Independence of judiciary is considered a basic feature of the Constitution.
 
-* Provides single Indian citizenship despite federal structure  
-* All citizens enjoy equal rights throughout the country regardless of state of residence
+**4. Amendment Procedure**
+* Article 368 provides for constitutional amendment.
+* Some provisions require special majority, others need ratification by states.
+* Basic Structure Doctrine limits amendment powers established in the *Kesavananda Bharati* case.
 
-3\. Independent Judiciary
+### 2.10 Conclusion on Meaning and Nature
 
-* Establishes an integrated judicial system with the Supreme Court at the apex  
-* Ensures judicial review and protection of constitutional rights  
-* Independence of judiciary is considered a basic feature of the Constitution
+The Constitution of India stands as a remarkable achievement of constitutional craftsmanship that successfully establishes a framework for governing the world's largest democracy. As the supreme law of the land, it embodies the collective aspirations of the Indian people for justice, liberty, equality, and fraternity. Its comprehensive nature, federal structure with unitary features, parliamentary form of government, and elaborate system of fundamental rights and duties make it a unique constitutional document.
 
-4\. Amendment Procedure
+The Constitution's definition encompasses not merely a legal document but a social contract between the state and its citizens, a charter of governance that balances power among different institutions, and a living instrument that continues to guide India's democratic journey. Its success lies in providing stability while allowing for necessary changes through a well-defined amendment process, ensuring that it remains relevant and responsive to the evolving needs of Indian society.
 
-* Article 368 provides for constitutional amendment  
-* Some provisions require special majority, others need ratification by states  
-* Basic Structure Doctrine limits amendment powers established in Kesavananda Bharati ca
-
-## **Conclusion**
-
-The Constitution of India stands as a remarkable achievement of constitutional craftsmanship that successfully establishes a framework for governing the world's largest democracy. As the supreme law of the land, it embodies the collective aspirations of the Indian people for justice, liberty, equality, and fraternity. Its comprehensive nature, federal structure with unitary features parliamentary form of government, and elaborate system of fundamental rights and duties make it a unique constitutional document.  
-The Constitution's definition encompasses not merely a legal document but a social contract between the state and its citizens, a charter of governance that balances power among different institutions, and a living instrument that continues to guide India's democratic journey. Its success lies in providing stability while allowing for necessary changes through a well-defined amendment process, ensuring that it remains relevant and responsive to the evolving needs of Indian society.  
 As Dr. B.R. Ambedkar, the principal architect of the Constitution, envisioned, it serves as both a political horoscope and a sacred document that continues to safeguard India's democratic values and constitutional governance, making it truly the cornerstone of Indian democracy.
 
-# Kind of constitution
+## 3. Classification and Kinds of Constitutions
 
-  Kinds of a constitution is the fundamental legal framework that governs the structure, powers, and functions of government institutions while defining the relationship between the state and its citizens. Constitutions can be classified into various types based on different criteria, each reflecting the unique political, historical, and cultural context of different nations.
+A constitution is the fundamental legal framework that governs the structure, powers, and functions of government institutions while defining the relationship between the state and its citizens. Constitutions can be classified into various types based on different criteria, each reflecting the unique political, historical, and cultural context of different nations.
 
- Classification Based on Form
+### 3.1 Classification Based on Form
 
- 1\. Written Constitution
-
+**1. Written Constitution**
 A written constitution is a formally drafted legal document that is compiled in a single document or a collection of documents. It is created and adopted by a legislature, constituent assembly, or special convention through deliberate action.
 
-Key Features
-
-Codified in a single document or organized set of documents**
-
-Systematically framed with clear provisions and procedures**
-
-* Provides clarity and certainty in governance**
-
-* Supremacy over other laws is clearly established**
-
-* Usually requires special amendment procedures**
-
-Examples: India (longest written constitution), United States (oldest written constitution still in force), Germany, Japan, Canada, France, and Switzerland
-
-**Advantages:**
-
-* Clarity and certainty in legal framework**
-
-* Protection of rights through codification**
-
-* Stability and permanence in governance**
-
-* Easy reference for legal interpretation**
-
-An unwritten constitution is not codified in a single document but consists of various sources including customs, conventions, judicial decisions, statutes, and historical documents that have evolved over time.**
-
-Key Features:Disadvantages:
-
-* Rigidity may prevent necessary adaptations**
-
-* Complex amendment procedures can hinder progress**
-
-* May become outdated without regular updates**
-
-2\. Unwritten Constitution**
-
-Not consolidated in a single formal document**
-
-Evolves over time through precedents and practices**
-
-* Greater flexibility in interpretation and application**
-
-* Depends on traditions and historical development**
-
-Examples: United Kingdom (classic example), New Zealand, Israel (partially), San Marino**
-
-Advantages:**
-
-* High flexibility and adaptability**
-
-*  Quick decision-making without formal constraints**
-
-* Easy to interpret due to flexibility**
-
-* Suitable for emergencies**
-
-### **Disadvantages:**
-
-* Prone to abuse due to lack of codification**
-
-* Encourages uncertainty and ambiguity**
-
-* May lead to dictatorship**
-
-* Violation of citizens' rights is possible**
-
-## **Classification Based on Amendment Process**
-
-1\. Rigid Constitution**
-
-A rigid constitution cannot be easily amended and requires special and complex procedures different from ordinary law-making. Such constitutions demand supermajorities, often two-thirds or three-fourths in the legislature, sometimes followed by referendums.**
-
-### **Key Features:**
-
-* Special amendment procedures required**
-
-*Supermajority requirements in legislature**
-
-* Sometimes requires ratification by states or referendum**
-
-* Protects fundamental principles from hasty changes**
-
-Examples: United States, Germany, Australia, and India (certain provisions require special majority and state ratification)**
-
-**Advantages:**
-
-* Stability and permanence of constitutional principles**
-
-* Protection from hasty amendments**
-
-* Preservation of fundamental rights**
-
- **Disadvantages:**
-
-* Difficulty in making necessary changes**
-
-* May become outdated if amendment is too difficult**
-
-* Inflexibility in changing circumstances**
-
- **2\. Flexible Constitution**
-
-A flexible constitution can be easily amended through the same procedure used for passing ordinary laws. Constitutional amendments are passed with a simple majority in the legislature, similar to regular statutes.**
-
-Key Features:**
-
-* No special amendment procedures required**
-
-* Simple majority sufficient for amendments**
-
-* Easy adaptability to changing needs**
-
-* Same process as ordinary legislation**
-
-Examples: United Kingdom (Parliament can amend constitutional provisions with simple majority), New Zealand, Israel**
-
- **Advantages:**
-
-Easy adaptation to changing circumstances**
-
-Quick response to emerging needs**
-
-No complex procedures required**
-
- **Disadvantages:**
-
-*Lack of stability in constitutional principles**
-
-* Susceptible to political manipulation**
-
-*Fundamental rights may be easily altered**
-
-Classification Based on Power Distribution**
-
- **1\. Federal Constitution**
-A federal constitution divides powers between the central government and state or provincial governments, with both levels operating independently within their respective spheres.**
-
-**Key Features:**
-
-*  Division of powers between union and states**
-
-* Supremacy of the constitution**
-
-* Written and rigid constitution typically required**
-
-* Independent judiciary to resolve disputes**
-
-* Dual polity with coordinate authorities**
-
- **Examples: India, United States, Germany, Canada, Australia**
-
-* Federal Features:**
-
-* Union, State, and Concurrent Lists for power distribution**
-
-* Bicameral legislature with state representation**
-
-* Constitutional supremacy over all laws**
-
-* Independent judiciary for interpretation**
-
-2\. Unitary Constitution**
-
-A unitary constitution centralizes all powers in a single central government, with state or provincial governments functioning as subordinate units under central authority.**
-
- **Key Features:**
-
- * Centralization of powers in central government**
-
-* Subordinate local units with delegated powers**
-
-* Single government structure**
-
-* Central control over local administration**
-
-Examples: United Kingdom, France, Japan, China**
-
-**Unitary Features:**
-
-* Single constitution for entire country**
-
-* Central government supremacy**
-
-* Uniform laws throughout the territory**
-
-* Administrative convenience**
-
-Classification Based on Origin**
-
-1 Evolved Constitution**
-
-An evolved constitution is not made at any specific time by any assembly but develops gradually through historical evolution, customs, conventions, and practices over centuries.**
-
- **Key Features:**
-
- **Historical development over long periods**
-
-* No specific date of origin**
-
-* Based on customs and conventions**
-
-* Gradual evolution through practice**
-
-Examples: United Kingdom (classic example of evolved constitution), New Zealand, Canada (partially)**
-
- **Advantages:**
-
-Natural adaptation to societal changes**
-
-Time-tested principles**
-
-Reflects historical continuity**
-
-2\. Enacted Constitution**
-
-An enacted constitution is deliberately created and written by a constituent assembly or specially designated body at a particular time.**
-
- **Key Features:**
-
-* Deliberate creation by constituent body**
-
-* Specific date of adoption**
-
-* Systematic drafting and formal codification**
-
-* Written in organized manner**
-
-Examples: India (adopted November 26, 1949), United States (1787), Japan, China**
- **Advantages:**
-
-* Clear and systematic structure**
-
-* Definite legal framework**
-
-* Formal adoption process**
-
-Classification Based on Government Structure**
-
-1\. Parliamentary Constitution**
-
-A parliamentary constitution establishes a system where the executive is directly accountable to the legislature and derives its legitimacy from it.**
-
- **Key Features:**
-
-* Executive accountability to legislature**
-
-* Prime Minister as head of government**
-
-* Cabinet drawn from legislature**
-
-* Vote of no confidence can remove government**
-
-* Ceremonial head of state**
-
-Examples: United Kingdom, India, Canada, Australia**
-
- **Advantages:**
-
-* Responsible government with legislative accountability**
-
-* Flexibility in governance**
-
-* Close coordination between executive and legislature**
-
-**Disadvantages:**
-
-* Government instability due to no-confidence votes**
-
-* Dominance of majority party**
-
-2\. Presidential Constitution**
-
-A presidential constitution establishes a system where the president serves as both head of state and head of government, elected independently from the legislature.**
-
- **Key Features:**
-
-* Separation of powers between branches**
-
-* Fixed tenure for president**
-
-* Direct election by people**
-
-* Executive independence from legislature**
-
-* Veto powers over legislation**
-
-Examples: United States, Brazil, Mexico**
-
- **Advantages:**
-
-* Stability due to fixed tenure**
-
-* Expert government with specialized appointments**
-
-* Clear separation of powers**
-
- **Disadvantages:**
-
-* Potential deadlocks between branches**
-
-* Less responsive to legislative will**
-
-* Risk of authoritarianism**
-
-**Classification Based on Head of State**
-
-**1\. Republican Constitution* 
-A republican constitution establishes a system where the head of state is elected either directly or indirectly, rather than being a hereditary monarch.**
-
- **Key Features:**
-
-* Elected head of state**
-
-* Popular sovereignty**
-
-* Democratic legitimacy**
-
-* Separation of powers**
-
-* Protection of fundamental rights**
-
-Examples: India, United States, France, Germany**
-
-2\. Monarchical Constitution**
-
-A monarchical constitution establishes a system where a king, queen, or emperor serves as head of state, typically inheriting the position by birthright.**
-
-Types:**
-
-**Absolute Monarchy: Monarch holds unchecked power (e.g., Saudi Arabia)**
-
-* Constitutional Monarchy: Monarch's powers limited by constitution (e.g., UK, Sweden, Japan)**
-
- **Examples:**
-
-* Constitutional Monarchies: United Kingdom, Sweden, Denmark, Japan**
-
-* Absolute Monarchies: Saudi Arabia, Brunei**
-
-## *Summary Table**
+* **Key Features:**
+    * Codified in a single document or organized set of documents.
+    * Systematically framed with clear provisions and procedures.
+    * Provides clarity and certainty in governance.
+    * Supremacy over other laws is clearly established.
+    * Usually requires special amendment procedures.
+* **Examples:** India (longest written constitution), United States (oldest written constitution still in force), Germany, Japan, Canada, France, and Switzerland.
+* **Advantages:**
+    * Clarity and certainty in legal framework.
+    * Protection of rights through codification.
+    * Stability and permanence in governance.
+    * Easy reference for legal interpretation.
+* **Disadvantages:**
+    * Rigidity may prevent necessary adaptations.
+    * Complex amendment procedures can hinder progress.
+    * May become outdated without regular updates.
+
+**2. Unwritten Constitution**
+An unwritten constitution is not codified in a single document but consists of various sources including customs, conventions, judicial decisions, statutes, and historical documents that have evolved over time.
+
+* **Key Features:**
+    * Not consolidated in a single formal document.
+    * Evolves over time through precedents and practices.
+    * Greater flexibility in interpretation and application.
+    * Depends on traditions and historical development.
+* **Examples:** United Kingdom (classic example), New Zealand, Israel (partially), San Marino.
+* **Advantages:**
+    * High flexibility and adaptability.
+    * Quick decision-making without formal constraints.
+    * Easy to interpret due to flexibility.
+    * Suitable for emergencies.
+* **Disadvantages:**
+    * Prone to abuse due to lack of codification.
+    * Encourages uncertainty and ambiguity.
+    * May lead to dictatorship.
+    * Violation of citizens' rights is possible.
+
+### 3.2 Classification Based on Amendment Process
+
+**1. Rigid Constitution**
+A rigid constitution cannot be easily amended and requires special and complex procedures different from ordinary law-making. Such constitutions demand supermajorities, often two-thirds or three-fourths in the legislature, sometimes followed by referendums.
+
+* **Key Features:**
+    * Special amendment procedures required.
+    * Supermajority requirements in legislature.
+    * Sometimes requires ratification by states or referendum.
+    * Protects fundamental principles from hasty changes.
+* **Examples:** United States, Germany, Australia, and India (certain provisions require special majority and state ratification).
+* **Advantages:**
+    * Stability and permanence of constitutional principles.
+    * Protection from hasty amendments.
+    * Preservation of fundamental rights.
+* **Disadvantages:**
+    * Difficulty in making necessary changes.
+    * May become outdated if amendment is too difficult.
+    * Inflexibility in changing circumstances.
+
+**2. Flexible Constitution**
+A flexible constitution can be easily amended through the same procedure used for passing ordinary laws. Constitutional amendments are passed with a simple majority in the legislature, similar to regular statutes.
+
+* **Key Features:**
+    * No special amendment procedures required.
+    * Simple majority sufficient for amendments.
+    * Easy adaptability to changing needs.
+    * Same process as ordinary legislation.
+* **Examples:** United Kingdom (Parliament can amend constitutional provisions with simple majority), New Zealand, Israel.
+* **Advantages:**
+    * Easy adaptation to changing circumstances.
+    * Quick response to emerging needs.
+    * No complex procedures required.
+* **Disadvantages:**
+    * Lack of stability in constitutional principles.
+    * Susceptible to political manipulation.
+    * Fundamental rights may be easily altered.
+
+### 3.3 Classification Based on Power Distribution
+
+**1. Federal Constitution**
+A federal constitution divides powers between the central government and state or provincial governments, with both levels operating independently within their respective spheres.
+
+* **Key Features:**
+    * Division of powers between union and states.
+    * Supremacy of the constitution.
+    * Written and rigid constitution typically required.
+    * Independent judiciary to resolve disputes.
+    * Dual polity with coordinate authorities.
+* **Federal Features:**
+    * Union, State, and Concurrent Lists for power distribution.
+    * Bicameral legislature with state representation.
+    * Constitutional supremacy over all laws.
+    * Independent judiciary for interpretation.
+* **Examples:** India, United States, Germany, Canada, Australia.
+
+**2. Unitary Constitution**
+A unitary constitution centralizes all powers in a single central government, with state or provincial governments functioning as subordinate units under central authority.
+
+* **Key Features:**
+    * Centralization of powers in central government.
+    * Subordinate local units with delegated powers.
+    * Single government structure.
+    * Central control over local administration.
+* **Unitary Features:**
+    * Single constitution for entire country.
+    * Central government supremacy.
+    * Uniform laws throughout the territory.
+    * Administrative convenience.
+* **Examples:** United Kingdom, France, Japan, China.
+
+### 3.4 Classification Based on Origin
+
+**1. Evolved Constitution**
+An evolved constitution is not made at any specific time by any assembly but develops gradually through historical evolution, customs, conventions, and practices over centuries.
+
+* **Key Features:**
+    * Historical development over long periods.
+    * No specific date of origin.
+    * Based on customs and conventions.
+    * Gradual evolution through practice.
+* **Examples:** United Kingdom (classic example of evolved constitution), New Zealand, Canada (partially).
+* **Advantages:**
+    * Natural adaptation to societal changes.
+    * Time-tested principles.
+    * Reflects historical continuity.
+
+**2. Enacted Constitution**
+An enacted constitution is deliberately created and written by a constituent assembly or specially designated body at a particular time.
+
+* **Key Features:**
+    * Deliberate creation by constituent body.
+    * Specific date of adoption.
+    * Systematic drafting and formal codification.
+    * Written in organized manner.
+* **Examples:** India (adopted November 26, 1949), United States (1787), Japan, China.
+* **Advantages:**
+    * Clear and systematic structure.
+    * Definite legal framework.
+    * Formal adoption process.
+
+### 3.5 Classification Based on Government Structure
+
+**1. Parliamentary Constitution**
+A parliamentary constitution establishes a system where the executive is directly accountable to the legislature and derives its legitimacy from it.
+
+* **Key Features:**
+    * Executive accountability to legislature.
+    * Prime Minister as head of government.
+    * Cabinet drawn from legislature.
+    * Vote of no confidence can remove government.
+    * Ceremonial head of state.
+* **Examples:** United Kingdom, India, Canada, Australia.
+* **Advantages:**
+    * Responsible government with legislative accountability.
+    * Flexibility in governance.
+    * Close coordination between executive and legislature.
+* **Disadvantages:**
+    * Government instability due to no-confidence votes.
+    * Dominance of majority party.
+
+**2. Presidential Constitution**
+A presidential constitution establishes a system where the president serves as both head of state and head of government, elected independently from the legislature.
+
+* **Key Features:**
+    * Separation of powers between branches.
+    * Fixed tenure for president.
+    * Direct election by people.
+    * Executive independence from legislature.
+    * Veto powers over legislation.
+* **Examples:** United States, Brazil, Mexico.
+* **Advantages:**
+    * Stability due to fixed tenure.
+    * Expert government with specialized appointments.
+    * Clear separation of powers.
+* **Disadvantages:**
+    * Potential deadlocks between branches.
+    * Less responsive to legislative will.
+    * Risk of authoritarianism.
+
+### 3.6 Classification Based on Head of State
+
+**1. Republican Constitution**
+A republican constitution establishes a system where the head of state is elected either directly or indirectly, rather than being a hereditary monarch.
+
+* **Key Features:**
+    * Elected head of state.
+    * Popular sovereignty.
+    * Democratic legitimacy.
+    * Separation of powers.
+    * Protection of fundamental rights.
+* **Examples:** India, United States, France, Germany.
+
+**2. Monarchical Constitution**
+A monarchical constitution establishes a system where a king, queen, or emperor serves as head of state, typically inheriting the position by birthright.
+
+* **Types:**
+    * **Absolute Monarchy:** Monarch holds unchecked power (e.g., Saudi Arabia).
+    * **Constitutional Monarchy:** Monarch's powers limited by constitution (e.g., UK, Sweden, Japan).
+* **Examples:**
+    * Constitutional Monarchies: United Kingdom, Sweden, Denmark, Japan.
+    * Absolute Monarchies: Saudi Arabia, Brunei.
+
+### 3.7 Comparative Summary
 
 | Classification Basis | Types | Examples | Key Features |
-| :---- | :---- | :---- | :---- |
-| **Form** | **Written/Unwritten** | **India, USA vs UK, New Zealand** | **Codified vs evolved documents** |
-| **Amendment** | **Rigid/Flexible** | **USA, India vs UK, New Zealand** | **Special vs ordinary procedures** |
-| **Power Distribution** | **Federal/Unitary** | **India, USA vs UK, France** | **Divided vs centralized powers** |
-| **Origin** | **Evolved/Enacted** | **UK vs India, USA** | **Historical vs deliberate creation** |
-| **Government Structure** | **Parliamentary/Presidential** | **UK, India vs USA, Brazil** | **Legislative vs executive supremacy** |
-| **Head of State** | **Republican/Monarchical** | **India, USA vs UK, Saudi Arabia** | **Elected vs hereditary leadership** |
+| :--- | :--- | :--- | :--- |
+| **Form** | **Written/Unwritten** | India, USA vs UK, New Zealand | Codified vs evolved documents |
+| **Amendment** | **Rigid/Flexible** | USA, India vs UK, New Zealand | Special vs ordinary procedures |
+| **Power Distribution** | **Federal/Unitary** | India, USA vs UK, France | Divided vs centralized powers |
+| **Origin** | **Evolved/Enacted** | UK vs India, USA | Historical vs deliberate creation |
+| **Government Structure** | **Parliamentary/Presidential** | UK, India vs USA, Brazil | Legislative vs executive supremacy |
+| **Head of State** | **Republican/Monarchical** | India, USA vs UK, Saudi Arabia | Elected vs hereditary leadership |
 
-**CONSTITUTIONALISM**
+## 4. The Doctrine of Constitutionalism
 
-Besides the concept of the Constitution, there is also the all-important concept of ‘Constitutionalism’. Modern political thought draws a distinction between ‘Constitutionalism’ and ‘Constitution’. A country may have the ‘Constitution’ but not necessarily ‘Constitutionalism’. For example, a country with a dictatorship, where the dictator’s word is law, can be said to have a ‘Constitution’ but not ‘Constitutionalism’. The underlying difference between the two concepts is that a Constitution ought not merely to confer powers on the various organs of the government, but also seek to restrain those powers. Constitutionalism recognises the need for government but insists upon limitations being placed upon governmental powers. Constitutionalism envisages checks and balances and putting the powers of the legislature and the executive under some restraints and not making them uncontrolled and arbitrary. Unlimited powers jeopardise freedom of the people. As has been well said: power corrupts and absolute power corrupts absolutely. If the Constitution confers unrestrained power on either the legislature or the executive, it might lead to an authoritarian, oppressive government. Therefore, to preserve the basic freedoms of the individual, and to maintain his dignity and personality, the Constitution should be permeated with ‘Constitutionalism’; it should have some in-built restrictions on the powers conferred by it on governmental organs. ‘Constitutionalism’ connotes in essence limited government or a limitation on government. Constitutionalism is the antithesis of arbitrary powers. ‘Constitutionalism’ recognises the need for government with powers but at the same time insists that limitations be placed on those powers. The antithesis of Constitutionalism is despotism. Unlimited power may lead to an authoritarian, oppressive, government which jeopardises the freedoms of the people. Only when the Constitution of a country seeks to decentralise power instead of concentrating it at one point, and also imposes other restraints and limitations thereon, does a country have not only ‘constitution’ but also ‘constitutionalism’. ‘Constitutions spring from a belief in limited government’. According to SCHWARTZ, in the U.S.A., the word Constitution means “a written organic instrument, under which governmental powers are both conferred and circumscribed”. He emphasizes that “this stress upon grant and limitation of authority is fundamental”.
+Besides the concept of the Constitution, there is also the all-important concept of ‘Constitutionalism’. Modern political thought draws a distinction between ‘Constitutionalism’ and ‘Constitution’. A country may have the ‘Constitution’ but not necessarily ‘Constitutionalism’. For example, a country with a dictatorship, where the dictator’s word is law, can be said to have a ‘Constitution’ but not ‘Constitutionalism’.
 
-A written Constitution, independent judiciary with powers of judicial review, the doctrine of rule of law and separation of powers, free elections to legislature, accountable and transparent
+The underlying difference between the two concepts is that a Constitution ought not merely to confer powers on the various organs of the government, but also seek to restrain those powers. Constitutionalism recognises the need for government but insists upon limitations being placed upon governmental powers. Constitutionalism envisages checks and balances and putting the powers of the legislature and the executive under some restraints and not making them uncontrolled and arbitrary. Unlimited powers jeopardise freedom of the people. As has been well said: power corrupts and absolute power corrupts absolutely. If the Constitution confers unrestrained power on either the legislature or the executive, it might lead to an authoritarian, oppressive government.
 
-democratic government, Fundamental Rights of the people, federalism, decentralisation of power are some of the principles and norms which promote Constitutionalism in a country.
+Therefore, to preserve the basic freedoms of the individual, and to maintain his dignity and personality, the Constitution should be permeated with ‘Constitutionalism’; it should have some in-built restrictions on the powers conferred by it on governmental organs. ‘Constitutionalism’ connotes in essence limited government or a limitation on government. Constitutionalism is the antithesis of arbitrary powers. ‘Constitutionalism’ recognises the need for government with powers but at the same time insists that limitations be placed on those powers. The antithesis of Constitutionalism is despotism. Unlimited power may lead to an authoritarian, oppressive, government which jeopardises the freedoms of the people. Only when the Constitution of a country seeks to decentralise power instead of concentrating it at one point, and also imposes other restraints and limitations thereon, does a country have not only ‘constitution’ but also ‘constitutionalism’. ‘Constitutions spring from a belief in limited government’.
 
-### **Salient Features Constitution of Indian**
+According to Schwartz, in the U.S.A., the word Constitution means “a written organic instrument, under which governmental powers are both conferred and circumscribed”. He emphasizes that “this stress upon grant and limitation of authority is fundamental”.
 
-## **1\. Written and Lengthy Constitution**
+A written Constitution, independent judiciary with powers of judicial review, the doctrine of rule of law and separation of powers, free elections to legislature, accountable and transparent democratic government, Fundamental Rights of the people, federalism, decentralisation of power are some of the principles and norms which promote Constitutionalism in a country.
 
-* The Indian Constitution is the longest written constitution in the world.  
+## 5. Salient Features of the Indian Constitution
+
+### 5.1 Written and Lengthy Constitution
+* The Indian Constitution is the longest written constitution in the world.
 * It originally had 395 Articles and 8 Schedules; now it contains over 450 Articles and 12 Schedules, covering all aspects of governance in exhaustive detail.
 
-## **2\. Drawn from Multiple Sources**
-
-* The Constitution incorporates features from various countries such as:  
-  * Parliamentary System (UK)  
-  * Fundamental Rights, Judicial Review (USA)  
-  * Directive Principles (Ireland)  
-  * Federal structure (Canada), and others.  
+### 5.2 Drawn from Multiple Sources
+* The Constitution incorporates features from various countries such as:
+    * Parliamentary System (UK)
+    * Fundamental Rights, Judicial Review (USA)
+    * Directive Principles (Ireland)
+    * Federal structure (Canada), and others.
 * This comparative approach ensures best practices and adaptability.
 
-## **3\. Blend of Rigidity and Flexibility**
-
-* Some provisions (like federal structure) require a special amendment process, making them rigid.  
+### 5.3 Blend of Rigidity and Flexibility
+* Some provisions (like federal structure) require a special amendment process, making them rigid.
 * Others can be changed by simple majority, ensuring flexibility and adaptability.
 
-## **4\. Federal System with Unitary Bias**
-
-* Division of powers between the Union and States (Three lists: Union, State, Concurrent).  
+### 5.4 Federal System with Unitary Bias
+* Division of powers between the Union and States (Three lists: Union, State, Concurrent).
 * However, in times of emergency or under certain conditions, the Centre can assert more powers (unitary features).
 
-## **5\. Parliamentary Form of Government**
-
-* The President is the nominal executive; the real power rests with the Council of Ministers headed by the Prime Minister.  
+### 5.5 Parliamentary Form of Government
+* The President is the nominal executive; the real power rests with the Council of Ministers headed by the Prime Minister.
 * The executive is responsible to the legislature – embodying the core tenet of the parliamentary system.
 
-## **6\. Secular State**
-
-* No official state religion; equal protection to all religions.  
+### 5.6 Secular State
+* No official state religion; equal protection to all religions.
 * Secularism is affirmed through fundamental rights guaranteeing freedom of religion.
 
-## **7\. Universal Adult Franchise and Democratic Process**
-
-* Every citizen, above 18 years, has the right to vote irrespective of gender, caste, religion, or wealth.  
+### 5.7 Universal Adult Franchise and Democratic Process
+* Every citizen, above 18 years, has the right to vote irrespective of gender, caste, religion, or wealth.
 * Establishes India as the largest democratic country in the world.
 
-## **8\. Single Citizenship**
-
+### 5.8 Single Citizenship
 * Unlike some federal countries (such as the USA), India provides for single citizenship for all, fostering unity.
 
-## **9\. Fundamental Rights and Duties**
+### 5.9 Fundamental Rights and Duties
+* **Fundamental Rights (Part III):** Right to Equality, Freedom, Religion, Cultural and Educational Rights, etc.
+* **Fundamental Duties (Part IVA):** Introduced by the 42nd Amendment, instilling a sense of responsibility.
 
-* Fundamental Rights (Part III): Right to Equality, Freedom, Religion, Cultural and Educational Rights, etc.  
-* Fundamental Duties (Part IVA): Introduced by the 42nd Amendment, instilling a sense of responsibility.
-
-## **10\. Directive Principles of State Policy**
-
-* Inspired by the Irish Constitution, these are guidelines to establish a welfare state (Part IV).  
+### 5.10 Directive Principles of State Policy
+* Inspired by the Irish Constitution, these are guidelines to establish a welfare state (Part IV).
 * Although non-justiciable, they direct government policy towards social and economic democracy.
 
-## **11\. Independent Judiciary**
-
-* The Supreme Court, High Courts, and subordinate courts ensure judicial independence.  
+### 5.11 Independent Judiciary
+* The Supreme Court, High Courts, and subordinate courts ensure judicial independence.
 * Powers of judicial review safeguard the supremacy of the Constitution and fundamental rights.
 
-## **12\. Emergency Provisions**
-
-* Indian Constitution contains three types of emergencies – National, State, and Financial.  
+### 5.12 Emergency Provisions
+* Indian Constitution contains three types of emergencies – National, State, and Financial.
 * These ensure unity, integrity, and security in times of crisis but also provide checks and balances to prevent misuse.
 
-## **13\. Special Provisions for Minorities, Backward Classes, and Weaker Sections**
-
+### 5.13 Special Provisions for Minorities, Backward Classes, and Weaker Sections
 * Reservation of seats, protection of languages and cultures, and social justice measures.
 
-## **14\. Preamble**
-
-* Declares India as a Sovereign, Socialist, Secular, Democratic, Republic.  
+### 5.14 Preamble
+* Declares India as a Sovereign, Socialist, Secular, Democratic, Republic.
 * The Preamble reflects the philosophy, aims, and objectives of the Constitution.
 
-## **15\. Amendment Procedure**
+### 5.15 Amendment Procedure
+* Part XX (Article 368) provides a process that is neither too rigid nor too flexible, allowing for necessary changes while ensuring core principles are protected.
 
-* Part XX (Article 368\) provides a process that is neither too rigid nor too flexible, allowing for necessary changes while ensuring core principles are protected.
-
-## **16\. Bicameral Legislature**
-
+### 5.16 Bicameral Legislature
 * At the Union level (Lok Sabha and Rajya Sabha), some states also have two houses, ensuring broader representation.
 
-## **17\. Special Status to Some States**
+### 5.17 Special Status to Some States
+* Article 370 (now abrogated for J&K) and other provisions (371-A to 371-J) grant special provisions to certain states, recognizing India’s diversity.
 
-* Article 370 (now abrogated for J\&K) and other provisions (371-A to 371-J) grant special provisions to certain states, recognizing India’s diversity.
-
----
-
-## **Conclusion**
-
+### 5.18 Conclusion
 The Indian Constitution stands out due to its comprehensiveness, adaptability, and blend of diverse features catering to the country's unique needs. It is a living document that evolves with changing times while safeguarding the values of justice, liberty, equality, and fraternity.
 
-Preamble
+## 6. The Preamble
 
 The Preamble to the Constitution of India stands as the most significant introductory statement that encapsulates the philosophy, objectives, and fundamental values upon which the entire constitutional framework rests. Often described by eminent jurists as the "identity card" and "soul" of the Constitution, it provides both historical context and interpretative guidance for India's democratic governance.
 
-## **Historical Background and Origin**
+### 6.1 Historical Background and Origin
+The Preamble finds its roots in Jawaharlal Nehru's Objectives Resolution, presented to the Constituent Assembly on December 13, 1946, and adopted on January 22, 1947. This resolution laid down the fundamental principles and aspirations that would guide the Constitution-making process. The Preamble was the first part to be introduced and the last to be adopted by the Constituent Assembly, demonstrating the careful deliberation that went into its formulation.
 
-The Preamble finds its roots in Jawaharlal Nehru's Objectives Resolution, presented to the Constituent Assembly on December 13, 1946, and adopted on January 22, 1947\. This resolution laid down the fundamental principles and aspirations that would guide the Constitution-making process. The Preamble was the first part to be introduced and the last to be adopted by the Constituent Assembly, demonstrating the careful deliberation that went into its formulation.  
 The Constituent Assembly engaged in extensive debates on October 17, 1949, discussing various aspects including the name of India and the inclusion of religious references. After thorough consideration, the Preamble was finally adopted on November 26, 1949, and came into effect on January 26, 1950 – Republic Day.
 
-## **Text and Components of the Preamble**
+### 6.2 Text and Components of the Preamble
 
-"WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:  
-JUSTICE, social, economic and political;  
-LIBERTY of thought, expression, belief, faith and worship;  
-EQUALITY of status and of opportunity; and to promote among them all  
-FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;  
-IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+> "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:
+> JUSTICE, social, economic and political;
+> LIBERTY of thought, expression, belief, faith and worship;
+> EQUALITY of status and of opportunity; and to promote among them all
+> FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;
+> IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
 
-## **Analysis of Key Components**
+### 6.3 Analysis of Key Components
 
-1\. Source of Authority: "WE, THE PEOPLE OF INDIA"
+**1. Source of Authority: "WE, THE PEOPLE OF INDIA"**
+* Establishes popular sovereignty – the ultimate authority derives from the people.
+* Reflects the democratic foundation where the Constitution is "a power of attorney given by the people, not a charter given by power."
+* Emphasizes unity in diversity by referring to all Indians collectively despite their varied backgrounds.
 
-* Establishes popular sovereignty – the ultimate authority derives from the people  
-* Reflects the democratic foundation where the Constitution is "a power of attorney given by the people, not a charter given by power"  
-* Emphasizes unity in diversity by referring to all Indians collectively despite their varied backgrounds
+**2. Nature of the Indian State**
+* **Sovereign:** India possesses complete independence and authority, free from external control.
+* **Socialist:** Added by the 42nd Amendment (1976), it signifies the state's commitment to economic and social democracy, mixed economy, and welfare state principles.
+* **Secular:** Also added by the 42nd Amendment, it ensures equal respect and protection for all religions, with the state maintaining neutrality in religious matters.
+* **Democratic:** Establishes a system where authority flows from the people through elected representatives.
+* **Republic:** Ensures that the head of state (President) is elected, not hereditary.
 
-2\. Nature of the Indian State  
-Sovereign: India possesses complete independence and authority, free from external control  
-Socialist: Added by the 42nd Amendment (1976), it signifies the state's commitment to economic and social democracy, mixed economy, and welfare state principles  
-Secular: Also added by the 42nd Amendment, it ensures equal respect and protection for all religions, with the state maintaining neutrality in religious matters  
-Democratic: Establishes a system where authority flows from the people through elected representatives  
-Republic: Ensures that the head of state (President) is elected, not hereditary  
-3\. Fundamental Objectives  
-Justice (Social, Economic, and Political):
+**3. Fundamental Objectives**
+* **Justice (Social, Economic, and Political):**
+    * *Social Justice:* Equal treatment and opportunities regardless of background.
+    * *Economic Justice:* Fair distribution of resources and equal pay for equal work.
+    * *Political Justice:* Equal political rights and participation in governance.
+* **Liberty (of thought, expression, belief, faith, and worship):**
+    * Guarantees fundamental freedoms while ensuring they don't infringe on others' rights.
+    * Not absolute liberty but qualified liberty within constitutional limitations.
+* **Equality (of status and opportunity):**
+    * *Civic Equality:* Through fundamental rights (Articles 14-18).
+    * *Political Equality:* Through universal adult franchise (Articles 325-326).
+    * *Economic Equality:* Through directive principles promoting equal opportunities.
+* **Fraternity (ensuring dignity of individual and unity and integrity of the nation):**
+    * Promotes brotherhood and national integration.
+    * Addresses challenges like communalism, regionalism, and linguism.
+    * Originally stated "unity of the nation," changed to "unity and integrity of the nation" by the 42nd Amendment.
 
-* Social Justice: Equal treatment and opportunities regardless of background  
-* Economic Justice: Fair distribution of resources and equal pay for equal work  
-* Political Justice: Equal political rights and participation in governance
-
-Liberty (of thought, expression, belief, faith, and worship):
-
-* Guarantees fundamental freedoms while ensuring they don't infringe on others' rights  
-* Not absolute liberty but qualified liberty within constitutional limitations
-
-Equality (of status and opportunity):
-
-* Civic Equality: Through fundamental rights (Articles 14-18)  
-* Political Equality: Through universal adult franchise (Articles 325-326)  
-* Economic Equality: Through directive principles promoting equal opportunities
-
-Fraternity (ensuring dignity of individual and unity and integrity of the nation):
-
-* Promotes brotherhood and national integration  
-* Addresses challenges like communalism, regionalism, and linguism  
-* Originally stated "unity of the nation," changed to "unity and integrity of the nation" by the 42nd Amendment
-
-## **The 42nd Amendment and Its Impact**
-
-The 42nd Amendment Act of 1976, enacted during the Emergency period, made significant changes to the Preamble:  
-Words Added:
-
-* "Socialist" – reflecting commitment to socio-economic equality  
-* "Secular" – emphasizing religious neutrality  
-* "Integrity" – changing "unity of the nation" to "unity and integrity of the nation"
+### 6.4 The 42nd Amendment and Its Impact
+The 42nd Amendment Act of 1976, enacted during the Emergency period, made significant changes to the Preamble:
+* **Words Added:**
+    * "Socialist" – reflecting commitment to socio-economic equality.
+    * "Secular" – emphasizing religious neutrality.
+    * "Integrity" – changing "unity of the nation" to "unity and integrity of the nation."
 
 This amendment, often called the "Mini-Constitution," was controversial due to its timing during Emergency but has been constitutionally validated.
 
-## **Legal Status and Judicial Interpretation**
+### 6.5 Legal Status and Judicial Interpretation
+**Evolution of Judicial Understanding:**
 
-Evolution of Judicial Understanding:  
-Berubari Union Case (1960):
+* **Berubari Union Case (1960):**
+    * Initially held that the Preamble was not part of the Constitution.
+    * Described it as "a key to open the mind of the makers" but not enforceable.
 
-* Initially held that the Preamble was not part of the Constitution  
-* Described it as "a key to open the mind of the makers" but not enforceable
+* **Kesavananda Bharati Case (1973):**
+    * Landmark reversal – declared Preamble as integral part of the Constitution.
+    * Established it as essential for constitutional interpretation under the basic structure doctrine.
+    * Confirmed that while not a source of substantive powers, it guides interpretation.
 
-Kesavananda Bharati Case (1973):
+* **Recent Judicial Affirmation (2024):**
+    * In *Dr. Balram Singh vs Union of India*, the Supreme Court dismissed challenges to "socialist" and "secular" additions, reaffirming their constitutional validity.
 
-* Landmark reversal – declared Preamble as integral part of the Constitution  
-* Established it as essential for constitutional interpretation under the basic structure doctrine  
-* Confirmed that while not a source of substantive powers, it guides interpretation
+**Significance and Functions:**
+1.  **Interpretative Guide:** Serves as the "guiding light" for interpreting constitutional provisions, resolves ambiguities, and provides context for fundamental rights and directive principles.
+2.  **Constitutional Identity:** Defines the essential character and philosophy of the Indian state and reflects the "political horoscope" of the nation (K.M. Munshi).
+3.  **Basic Structure Protection:** Core elements of the Preamble are protected under the basic structure doctrine and cannot be amended in ways that destroy its fundamental character.
+4.  **Moral and Philosophical Foundation:** Embodies the aspirations of the freedom struggle and provides a moral compass for governance and policy-making.
+5.  **Unity in Diversity:** Promotes national integration across diverse communities and emphasizes common citizenship and shared values.
 
-Recent Judicial Affirmation (2024):
-
-* In Dr. Balram Singh vs Union of India, the Supreme Court dismissed challenges to "socialist" and "secular" additions, reaffirming their constitutional validity
-
-## **Significance and Functions**
-
-1\. Interpretative Guide:
-
-* Serves as the "guiding light" for interpreting constitutional provisions  
-* Resolves ambiguities in constitutional language  
-* Provides context for fundamental rights and directive principles
-
-2\. Constitutional Identity:
-
-* Defines the essential character and philosophy of the Indian state  
-* Reflects the "political horoscope" of the nation (K.M. Munshi)
-
-3\. Basic Structure Protection:
-
-* Core elements of the Preamble are protected under the basic structure doctrine  
-* Cannot be amended in ways that destroy its fundamental character
-
-4\. Moral and Philosophical Foundation:
-
-* Embodies the aspirations of the freedom struggle  
-* Provides moral compass for governance and policy-making
-
-5\. Unity in Diversity:
-
-* Promotes national integration across diverse communities  
-* Emphasizes common citizenship and shared values
-
-## **Amendability of the Preamble**
-
-The Supreme Court in Kesavananda Bharati established that:
-
-* The Preamble can be amended under Article 368  
-* Such amendments are subject to basic structure limitations  
-* The amendment power extends to the Preamble but cannot destroy its essential features
-
+**Amendability of the Preamble:**
+The Supreme Court in *Kesavananda Bharati* established that:
+* The Preamble can be amended under Article 368.
+* Such amendments are subject to basic structure limitations.
+* The amendment power extends to the Preamble but cannot destroy its essential features.
 The 42nd Amendment serves as precedent that the Preamble is amendable, provided the basic structure remains intact.
 
-## **Contemporary Relevance**
-
+**Contemporary Relevance:**
 The Preamble continues to serve as:
+* A benchmark for constitutional interpretation in modern jurisprudence.
+* A symbol of India's constitutional values in an evolving democracy.
+* A framework for policy evaluation ensuring alignment with constitutional principles.
+* A source of national identity that transcends political divisions.
 
-* A benchmark for constitutional interpretation in modern jurisprudence  
-* A symbol of India's constitutional values in an evolving democracy  
-* A framework for policy evaluation ensuring alignment with constitutional principles  
-* A source of national identity that transcends political divisions
+**Conclusion:**
+The Preamble to the Indian Constitution represents far more than a mere introduction – it is the philosophical foundation upon which Indian democracy stands. As the "soul and key to the Constitution", it embodies the collective aspirations of the Indian people for justice, liberty, equality, and fraternity. Its evolution through the 42nd Amendment and continued judicial protection under the basic structure doctrine demonstrates its dynamic yet enduring character. The Preamble's significance lies not just in its historical importance but in its continuing role as the moral compass that guides India's constitutional journey. It remains a testament to the vision of the Constitution-makers and serves as an eternal reminder of the ideals that the Indian nation strives to achieve. In the words of Nehru, it represents "a firm resolution and a solid promise" – a commitment that continues to shape India's democratic destiny.
 
-## **Conclusion**
-
-The Preamble to the Indian Constitution represents far more than a mere introduction – it is the philosophical foundation upon which Indian democracy stands. As the "soul and key to the Constitution", it embodies the collective aspirations of the Indian people for justice, liberty, equality, and fraternity. Its evolution through the 42nd Amendment and continued judicial protection under the basic structure doctrine demonstrates its dynamic yet enduring character.  
-The Preamble's significance lies not just in its historical importance but in its continuing role as the moral compass that guides India's constitutional journey. It remains a testament to the vision of the Constitution-makers and serves as an eternal reminder of the ideals that the Indian nation strives to achieve. In the words of Nehru, it represents "a firm resolution and a solid promise" – a commitment that continues to shape India's democratic destiny
-
-Scope of preamble
-
-1. The Preamble of the Indian Constitution is the introductory statement that enunciates the source, nature, and objectives of the Constitution, reflecting the collective will of “We, the People of India”.  
-2. In the Berubari Union case (1960), the Supreme Court held that the Preamble was not an enforceable part of the Constitution and could not confer powers or rights, but served as a “key to open the minds of the makers.”  
-3. The landmark Kesavananda Bharati case (1973) overruled Berubari, declaring the Preamble to be an integral part of the Constitution and a component of its “basic structure,” thereby permitting its use in constitutional interpretation but precluding any amendment that would destroy its essential features.  
-4. In Union of India v. LIC (1995), the Court reaffirmed Kesavananda by holding that the Preamble is part of the Constitution, emphasizing its role as the “heart and soul” that guides the understanding of all substantive provisions.  
-5. The Preamble’s amendability was settled in Kesavananda: it can be amended under Article 368, but such amendments must respect the Constitution’s basic structure doctrine and cannot obliterate the Preamble’s core values.  
-6. In S.R. Bommai v. Union of India (1994), the Supreme Court invoked the Preamble’s terms—especially secularism—to hold that secularism is part of the basic structure, thereby invalidating state actions that subverted religious neutrality.  
-7. Functionally, the Preamble serves as an interpretative guide: when constitutional provisions are ambiguous, courts refer to the Preamble to ascertain the framers’ intent and the overarching constitutional philosophy.  
-8. While not a source of substantive rights, the Preamble helps harmonize fundamental rights with Directive Principles by underscoring objectives such as justice, liberty, equality, and fraternity.  
-9. The Preamble also anchors the amendment process, as seen in the 42nd Amendment (1976), which inserted the words “Socialist,” “Secular,” and “Integrity,” thereby altering the Preamble’s textual statement of national ideals but within the permissible limits of basic structure.  
+### 6.6 Scope and Applicability
+1.  The Preamble of the Indian Constitution is the introductory statement that enunciates the source, nature, and objectives of the Constitution, reflecting the collective will of “We, the People of India”.
+2.  In the *Berubari Union case* (1960), the Supreme Court held that the Preamble was not an enforceable part of the Constitution and could not confer powers or rights, but served as a “key to open the minds of the makers.”
+3.  The landmark *Kesavananda Bharati case* (1973) overruled *Berubari*, declaring the Preamble to be an integral part of the Constitution and a component of its “basic structure,” thereby permitting its use in constitutional interpretation but precluding any amendment that would destroy its essential features.
+4.  In *Union of India v. LIC* (1995), the Court reaffirmed *Kesavananda* by holding that the Preamble is part of the Constitution, emphasizing its role as the “heart and soul” that guides the understanding of all substantive provisions.
+5.  The Preamble’s amendability was settled in *Kesavananda*: it can be amended under Article 368, but such amendments must respect the Constitution’s basic structure doctrine and cannot obliterate the Preamble’s core values.
+6.  In *S.R. Bommai v. Union of India* (1994), the Supreme Court invoked the Preamble’s terms—especially secularism—to hold that secularism is part of the basic structure, thereby invalidating state actions that subverted religious neutrality.
+7.  Functionally, the Preamble serves as an interpretative guide: when constitutional provisions are ambiguous, courts refer to the Preamble to ascertain the framers’ intent and the overarching constitutional philosophy.
+8.  While not a source of substantive rights, the Preamble helps harmonize fundamental rights with Directive Principles by underscoring objectives such as justice, liberty, equality, and fraternity.
+9.  The Preamble also anchors the amendment process, as seen in the 42nd Amendment (1976), which inserted the words “Socialist,” “Secular,” and “Integrity,” thereby altering the Preamble’s textual statement of national ideals but within the permissible limits of basic structure.
 10. In sum, the scope of the Preamble in India encompasses its function as a declaratory preface, an interpretative tool, and a protected core of the Constitution that delineates its fundamental values and limits the legislature’s power to amend those values.
 
-# Importance of the Preamble
+### 6.7 Importance and Utility
 
 The Preamble to the Indian Constitution is far more than a mere introductory statement; it embodies the philosophical foundation, objectives, and basic values driving the constitutional framework. Its importance can be understood under the following headings:
 
-1. Source of Sovereignty  
-   “We, the People of India” declares popular sovereignty, affirming that all authority flows from citizens rather than any monarch or legislature.  
-2. Expression of Constitutional Philosophy  
-   It succinctly states the nation’s core ideals—justice, liberty, equality, and fraternity—providing the moral compass for governance.  
-3. Declaratory Preface  
-   As a declaratory preface, the Preamble outlines the aims and objectives of the Constitution, guiding the interpretation of detailed provisions.  
-4. Interpretative Tool  
-   Courts use the Preamble as a “guiding light” when constitutional text is ambiguous, ensuring that legislative and executive actions align with foundational goals.  
-5. Integral Part of the Constitution  
-   In Kesavananda Bharati v. State of Kerala (1973), the Supreme Court held that the Preamble is part of the Constitution’s basic structure, making it inviolable by amendment.  
-6. Limitation on Amendment Power  
-   While amendable under Article 368, any change must respect the Preamble’s essential features, safeguarding its core principles from legislative override.  
-7. Harmonizing Fundamental Rights and Directive Principles  
-   The Preamble balances justiciable rights with non-justiciable Directive Principles, guiding the state to promote welfare without undermining individual freedoms.  
-8. Judicial Recognition of Enforceability  
-   In Union of India v. LIC (1995), the Court reaffirmed the Preamble’s status as part of the Constitution, describing it as the “heart and soul” of the document.  
-9. Protection of Secularism  
-   Through cases like S.R. Bommai v. Union of India (1994), the Court invoked the Preamble’s secularism clause to invalidate state actions violating religious neutrality.  
-10. Reflection of Historical Aspirations  
-    Originating from Nehru’s Objectives Resolution (1946), the Preamble captures the freedom struggle’s aspirations, linking modern governance to India’s path to independence.  
-11. Definition of State Character  
-    Terms such as “Sovereign,” “Socialist,” “Secular,” “Democratic,” and “Republic” specify the nature of the Indian state and its governance model.  
-12. Framework for National Unity  
-    By promising fraternity and integrity, it promotes national integration and counters divisive forces like regionalism and communalism.  
-13. Guideline for Policy Formulation  
-    Legislatures and executives refer to the Preamble to ensure that laws and policies advance constitutional objectives, especially in welfare and social justice measures.  
-14. Symbol of Constitutional Identity  
-    Often called the “Identity Card” or “Political Horoscope” of the Constitution, it uniquely identifies India’s constitutional ethos.  
-15. Basis for Basic Structure Doctrine  
-    The Preamble underpins the Supreme Court’s basic structure doctrine, which limits constitutional amendments that alter foundational principles.  
-16. Moral Force in Governance  
-    While not providing substantive rights, its aspirational language exerts moral pressure on state organs and society to uphold democratic values.  
-17. Check on Majoritarianism  
-    By enshrining fundamental values above transient majorities, it serves as a constitutional check against populist or authoritarian measures.  
-18. Educational Function  
-    As an accessible summary of constitutional goals, it educates citizens about their rights and duties, fostering civic awareness and participation.  
-19. Historical Record of Constitutional Evolution  
-    The 42nd Amendment (1976)—which added “Socialist,” “Secular,” and “Integrity”—demonstrates the Preamble’s adaptability within the basic structure.  
-20. Eternal Guiding Light  
-    In the words of the Supreme Court, the Preamble remains the “soul and key” of the Constitution, continuously guiding its interpretation and evolution in India’s democratic journey.
+1.  **Source of Sovereignty:** “We, the People of India” declares popular sovereignty, affirming that all authority flows from citizens rather than any monarch or legislature.
+2.  **Expression of Constitutional Philosophy:** It succinctly states the nation’s core ideals—justice, liberty, equality, and fraternity—providing the moral compass for governance.
+3.  **Declaratory Preface:** As a declaratory preface, the Preamble outlines the aims and objectives of the Constitution, guiding the interpretation of detailed provisions.
+4.  **Interpretative Tool:** Courts use the Preamble as a “guiding light” when constitutional text is ambiguous, ensuring that legislative and executive actions align with foundational goals.
+5.  **Integral Part of the Constitution:** In *Kesavananda Bharati v. State of Kerala* (1973), the Supreme Court held that the Preamble is part of the Constitution’s basic structure, making it inviolable by amendment.
+6.  **Limitation on Amendment Power:** While amendable under Article 368, any change must respect the Preamble’s essential features, safeguarding its core principles from legislative override.
+7.  **Harmonizing Fundamental Rights and Directive Principles:** The Preamble balances justiciable rights with non-justiciable Directive Principles, guiding the state to promote welfare without undermining individual freedoms.
+8.  **Judicial Recognition of Enforceability:** In *Union of India v. LIC* (1995), the Court reaffirmed the Preamble’s status as part of the Constitution, describing it as the “heart and soul” of the document.
+9.  **Protection of Secularism:** Through cases like *S.R. Bommai v. Union of India* (1994), the Court invoked the Preamble’s secularism clause to invalidate state actions violating religious neutrality.
+10. **Reflection of Historical Aspirations:** Originating from Nehru’s Objectives Resolution (1946), the Preamble captures the freedom struggle’s aspirations, linking modern governance to India’s path to independence.
+11. **Definition of State Character:** Terms such as “Sovereign,” “Socialist,” “Secular,” “Democratic,” and “Republic” specify the nature of the Indian state and its governance model.
+12. **Framework for National Unity:** By promising fraternity and integrity, it promotes national integration and counters divisive forces like regionalism and communalism.
+13. **Guideline for Policy Formulation:** Legislatures and executives refer to the Preamble to ensure that laws and policies advance constitutional objectives, especially in welfare and social justice measures.
+14. **Symbol of Constitutional Identity:** Often called the “Identity Card” or “Political Horoscope” of the Constitution, it uniquely identifies India’s constitutional ethos.
+15. **Basis for Basic Structure Doctrine:** The Preamble underpins the Supreme Court’s basic structure doctrine, which limits constitutional amendments that alter foundational principles.
+16. **Moral Force in Governance:** While not providing substantive rights, its aspirational language exerts moral pressure on state organs and society to uphold democratic values.
+17. **Check on Majoritarianism:** By enshrining fundamental values above transient majorities, it serves as a constitutional check against populist or authoritarian measures.
+18. **Educational Function:** As an accessible summary of constitutional goals, it educates citizens about their rights and duties, fostering civic awareness and participation.
+19. **Historical Record of Constitutional Evolution:** The 42nd Amendment (1976)—which added “Socialist,” “Secular,” and “Integrity”—demonstrates the Preamble’s adaptability within the basic structure.
+20. **Eternal Guiding Light:** In the words of the Supreme Court, the Preamble remains the “soul and key” of the Constitution, continuously guiding its interpretation and evolution in India’s democratic journey.
 
-Conclusion  
+**Conclusion:**
 The Preamble’s importance lies in its dual role as both a declaratory preface and an interpretative guide that safeguards the Constitution’s core values. Recognized by landmark judgments as an integral part of the basic structure, it both empowers and constrains the state while offering a timeless vision of justice, liberty, equality, and fraternity for the Indian polity.
 
-Objectives and value enshrined in the preamble   
-The Preamble to the Constitution of India is the soul, guiding light, and philosophic cornerstone that proclaims the fundamental objectives and values of the Indian state. It lays down the ideals the nation strives to achieve and serves as an interpretative compass for courts, legislatures, and policymakers. The Preamble reads:  
-“We, the People of India, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:  
-JUSTICE, social, economic and political;  
-LIBERTY of thought, expression, belief, faith and worship;  
-EQUALITY of status and of opportunity; and to promote among them all  
-FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;”  
-This answer discusses each objective and value, supported by pertinent case law and brief explanations.  
----
+### 6.8 Objectives and Values Enshrined in the Preamble
 
-## **I. Sovereign, Socialist, Secular, Democratic, Republic**
+The Preamble to the Constitution of India is the soul, guiding light, and philosophic cornerstone that proclaims the fundamental objectives and values of the Indian state. It lays down the ideals the nation strives to achieve and serves as an interpretative compass for courts, legislatures, and policymakers.
+
+The Preamble reads:
+“We, the People of India, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:
+JUSTICE, social, economic and political;
+LIBERTY of thought, expression, belief, faith and worship;
+EQUALITY of status and of opportunity; and to promote among them all
+FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;”
+
+This section discusses each objective and value, supported by pertinent case law and brief explanations.
+
+**I. Sovereign, Socialist, Secular, Democratic, Republic**
 
 These descriptors define the character and nature of the Indian state:
 
-1. Sovereign  
-   – India’s complete independence and freedom from external control.  
-   – Case Law: None directly, but affirmed in Kesavananda Bharati v. State of Kerala (1973) as a basic feature that cannot be abrogated.  
-2. Socialist  
-   – Added by the 42nd Amendment (1976) to emphasize socio-economic democracy and welfare state ideals.  
-   – Case Law: Minerva Mills v. Union of India (1980) struck down amendments undermining Directive Principles, reinforcing socialist goals as part of the basic structure.  
-3. Secular  
-   – State neutrality in religious matters, equal respect for all faiths.  
-   – Case Law: S.R. Bommai v. Union of India (1994) held secularism as a basic feature, invalidating state proclamations favoring religion.  
-4. Democratic  
-   – Power derives from the people through free and periodic elections.  
-   – Case Law: Indira Nehru Gandhi v. Raj Narain (1975) court protected free elections as part of the Constitution’s basic structure.  
-5. Republic  
-   – Head of state is elected, not hereditary.  
-   – Case Law: Implied in Kesavananda Bharati as part of the basic structure framework.
+1.  **Sovereign**
+    * India’s complete independence and freedom from external control.
+    * **Case Law:** None directly, but affirmed in *Kesavananda Bharati v. State of Kerala* (1973) as a basic feature that cannot be abrogated.
+2.  **Socialist**
+    * Added by the 42nd Amendment (1976) to emphasize socio-economic democracy and welfare state ideals.
+    * **Case Law:** *Minerva Mills v. Union of India* (1980) struck down amendments undermining Directive Principles, reinforcing socialist goals as part of the basic structure.
+3.  **Secular**
+    * State neutrality in religious matters, equal respect for all faiths.
+    * **Case Law:** *S.R. Bommai v. Union of India* (1994) held secularism as a basic feature, invalidating state proclamations favoring religion.
+4.  **Democratic**
+    * Power derives from the people through free and periodic elections.
+    * **Case Law:** *Indira Nehru Gandhi v. Raj Narain* (1975) court protected free elections as part of the Constitution’s basic structure.
+5.  **Republic**
+    * Head of state is elected, not hereditary.
+    * **Case Law:** Implied in *Kesavananda Bharati* as part of the basic structure framework.
 
----
+**II. Core Values and Objectives**
 
-## **II. Core Values and Objectives**
+**1. Justice (Social, Economic, Political)**
+* **Objective:** To remove social and economic inequalities and ensure political fairness.
+    * *Social Justice:* Equality in social status, eradication of untouchability, caste discrimination (Art. 15–17).
+    * *Economic Justice:* Fair distribution of wealth, right to work, education, public assistance (Dir. Princ. Art. 39).
+    * *Political Justice:* Equal political rights, free and fair elections, adult suffrage (Art. 325–326).
+* **Case Law:**
+    * *State of Kerala v. N.M. Thomas* (1976): Held that socialistic goal in Preamble guides Directive Principles to interpret equality.
+    * *Ashoka Kumar Thakur v. Union of India* (2008): Upheld reservations for OBCs, stressing Preamble’s social justice ethos.
 
-## **1\. Justice (Social, Economic, Political)**
+**2. Liberty (Thought, Expression, Belief, Faith, Worship)**
+* **Objective:** Guarantee fundamental freedoms within constitutional limits (Art. 19–22).
+* **Case Law:**
+    * *Maneka Gandhi v. Union of India* (1978): Expanded “personal liberty” (Art. 21) to include wide-ranging freedoms, aligning with Preamble’s liberty value.
+    * *Romesh Thappar v. State of Madras* (1950): Struck down press restrictions, affirming freedom of expression.
 
-Objective: To remove social and economic inequalities and ensure political fairness.
+**3. Equality (Status, Opportunity)**
+* **Objective:** Ensure equal treatment before law and equal access to opportunities (Art. 14–18).
+* **Case Law:**
+    * *E.P. Royappa v. State of Tamil Nadu* (1974): Reimagined equality as a dynamic concept—“equality is a continuum” under Art. 14.
+    * *Subhash Sharma v. Union of India* (2009): Affirmed gender equality in government appointments.
 
-* Social Justice: Equality in social status, eradication of untouchability, caste discrimination (Art. 15–17).  
-* Economic Justice: Fair distribution of wealth, right to work, education, public assistance (Dir. Princ. Art. 39).  
-* Political Justice: Equal political rights, free and fair elections, adult suffrage (Art. 325–326).
+**4. Fraternity (Dignity, Unity, Integrity)**
+* **Objective:** Foster brotherhood, respect for human dignity, and national integration.
+* **Case Law:**
+    * *Keshavananda Bharati*: Recognized fraternity as inherent to the Constitution’s basic structure.
+    * *Bachan Singh v. State of Punjab* (1980): Prohibition of inhuman punishment reflects human dignity value.
 
-Case Law:
+**III. Functional Significance**
 
-* State of Kerala v. N.M. Thomas (1976): Held that socialistic goal in Preamble guides Directive Principles to interpret equality.  
-* Ashoka Kumar Thakur v. Union of India (2008): Upheld reservations for OBCs, stressing Preamble’s social justice ethos.
+1.  **Interpretative Aid:**
+    * *Kesavananda Bharati* (1973): Preamble guides Court’s understanding of constitutional provisions.
+    * *S.R. Bommai* (1994): Used it to interpret secularism.
+2.  **Limitation on Amendment:**
+    * **Basic Structure Doctrine:** Core Preamble values (sovereignty, secularism, democracy, justice) cannot be abrogated.
+3.  **Harmonizing Rights and Principles:**
+    * Guides reconciliation of justiciable rights (Part III) with Directive Principles (Part IV).
+4.  **Moral and Philosophical Anchor:**
+    * Provides ethical grounding for legislation and judicial decisions.
+5.  **Symbolic Function:**
+    * Serves as India’s constitutional identity—“soul and key” to the document.
 
-## **2\. Liberty (Thought, Expression, Belief, Faith, Worship)**
+**IV. Conclusion**
+The Preamble’s objectives and values—sovereignty, socialism, secularism, democracy, republic, justice, liberty, equality, and fraternity—constitute the bedrock of the Indian Constitution. Cemented by landmark cases like *Kesavananda Bharati*, *S.R. Bommai*, and *Maneka Gandhi*, these principles form the basic structure that guides interpretation, limits amendment, and shapes the trajectory of India’s democratic evolution.
 
-Objective: Guarantee fundamental freedoms within constitutional limits (Art. 19–22).  
-Case Law:
+## 7. Citizenship under the Indian Constitution
 
-* Maneka Gandhi v. Union of India (1978): Expanded “personal liberty” (Art. 21\) to include wide-ranging freedoms, aligning with Preamble’s liberty value.  
-* Romesh Thappar v. State of Madras (1950): Struck down press restrictions, affirming freedom of expression.
+### 7.1 Concept of Citizenship
 
-## **3\. Equality (Status, Opportunity)**
+A citizen enjoys fundamental rights including right to work, right to vote, right to return, etc. in his or her country. At the same time, the citizen is also bound to observe duties of citizenship. It reflects that the right to citizenship is not an absolute one, and the legislature may impose reasonable restrictions on the enjoyment of one’s citizenship. Every country has its own immigration laws which regulate the entry and stay of immigrants. Right to participate in the government is also being regulated by the immigration laws. For this, the countries differentiate between ‘nationality’ and ‘citizenship’. However, it has also been seen that the countries sometimes make strict immigration laws, and exclude foreigners on the discriminatory basis. That’s why the International Conventions and other instruments have a check on such immigration laws. There are many ways of acquiring citizenship of a country. A citizenship can be acquired by birth, marriage, honorary basis, etc. is automatic. But immigration laws nowadays are strict in order to regulate false marriages, where people marry each other for money or other benefits. States also grant honorary citizenship.
 
-Objective: Ensure equal treatment before law and equal access to opportunities (Art. 14–18).  
-Case Law:
+Citizens are full members of the state. These citizens enjoy full civil and political rights. Aliens are not entitled to all constitutional and other rights because they are not citizens. For example, in India, aliens have right to life and personal liberty but not the freedoms guaranteed under Article 19 of the Indian Constitution. Furthermore, enemy aliens suffer many more difficulties. In India, enemy aliens cannot enforce Article 22 of the Constitution which protects the rights of accused persons detained under preventive detention laws. Stateless Persons are persons who are not citizens of any country. Their status is similar to aliens.
 
-* E.P. Royappa v. State of Tamil Nadu (1974): Reimagined equality as a dynamic concept—“equality is a continuum” under Art. 14\.  
-* Subhash Sharma v. Union of India (2009): Affirmed gender equality in government appointments.
-
-## **4\. Fraternity (Dignity, Unity, Integrity)**
-
-Objective: Foster brotherhood, respect for human dignity, and national integration.  
-Case Law:
-
-* Keshavananda Bharati: Recognized fraternity as inherent to the Constitution’s basic structure.  
-* Bachan Singh v. State of Punjab (1980): Prohibition of inhuman punishment reflects human dignity value.
-
----
-
-## **III. Functional Significance**
-
-1. Interpretative Aid  
-   * Kesavananda Bharati (1973): Preamble guides Court’s understanding of constitutional provisions.  
-   * R. Bommai (1994): Used it to interpret secularism.  
-2. Limitation on Amendment  
-   * Basic Structure Doctrine: Core Preamble values (sovereignty, secularism, democracy, justice) cannot be abrogated.  
-3. Harmonizing Rights and Principles  
-   * Guides reconciliation of justiciable rights (Part III) with Directive Principles (Part IV).  
-4. Moral and Philosophical Anchor  
-   * Provides ethical grounding for legislation and judicial decisions.  
-5. Symbolic Function  
-   * Serves as India’s constitutional identity—“soul and key” to the document.
-
----
-
-## **IV. Conclusion**
-
-The Preamble’s objectives and values—sovereignty, socialism, secularism, democracy, republic, justice, liberty, equality, and fraternity—constitute the bedrock of the Indian Constitution. Cemented by landmark cases like Kesavananda Bharati, S.R. Bommai, and Maneka Gandhi, these principles form the basic structure that guides interpretation, limits amendment, and shapes the trajectory of India’s democratic evolution. For a 50-mark exposition, a thorough treatment would analyze each value, link it to constitutional provisions, discuss relevant case law, and explain how the Preamble underpins India’s constitutional ethos and judicial safeguards.
-
-### r**CITIZENSHIP**
-
-A citizen enjoys fundamental rights including right to work, right to vote, right to return, etc. in his or her country. At the same time, the citizen is also bound to observe duties of citizenship. It reflects that the right to citizenship is not an absolute one, and the legislature may impose
-
-reasonable restrictions on the enjoyment of one’s citizenship. Every country has its own immigration laws which regulate the entry and stay of immigrants. Right to participate in the government is also being regulated by the immigration laws. For this, the countries differentiate between ‘nationality’ and ‘citizenship’. However, it has also been seen that the countries sometimes make strict immigration laws, and exclude foreigners on the discriminatory basis. That’s why the International Conventions and other instruments have a check on such immigration laws. There are many ways of acquiring citizenship of a country. A citizenship can be acquired by birth, marriage, honorary basis, etc. is automatic. But immigration laws nowadays are strict in order to regulate false marriages, where people marry each other for money or other benefits. States also grant honorary citizenship.
-
-Citizens are full members of the state. These citizens enjoy full civil and political rights. Aliens are not entitled to all constitutional and other rights because they are not citizens. For example, in India, aliens have right to life and personal liberty but not the freedoms guaranteed under Article 19 of the Indian Constitution. Furthermore, enemy aliens suffer many more difficulties. In India, enemy aliens cannot enforce Article 22 of the Constitution which protects the rights of accused persons detained under preventive detention laws. Stateless Persons’ are persons who are not citizens of any country. Their status is similar to aliens.
-
-### **What is citizenship?**
-
+**What is citizenship?**
 The population of a state is divided into two categories: citizens and non-citizens. A citizen of a state enjoys all civil and political rights. A non-citizen, on the other hand, doesn’t enjoy these rights.
 
-Under the Indian constitution, certain fundamental rights are available only to the citizens, namely: Right against discrimination on the grounds of religion, race, caste, sex or place of birth (Article 15); right to equality of opportunity in matter of public employment (Article 16); freedom of speech and expression, assembly, association, movement, residence and profession (Article 19); cultural and educational rights (Article 29 and 30); and right to vote and become members of the union and state legislatures.
+Under the Indian constitution, certain fundamental rights are available only to the citizens, namely:
+* Right against discrimination on the grounds of religion, race, caste, sex or place of birth (Article 15);
+* Right to equality of opportunity in matter of public employment (Article 16);
+* Freedom of speech and expression, assembly, association, movement, residence and profession (Article 19);
+* Cultural and educational rights (Article 29 and 30);
+* Right to vote and become members of the union and state legislatures.
 
-Several offices can also be occupied exclusively by citizens: president (Article 58(1)(a), vice- president (Article 66(2)), judges of the Supreme Court (Article 124(3)) and high court (Article
+Several offices can also be occupied exclusively by citizens: president (Article 58(1)(a)), vice-president (Article 66(2)), judges of the Supreme Court (Article 124(3)) and high court (Article 217(2)), governor of a state (Article 157), attorney general (Article 76(1)) and advocate general (Article 165). Equality before the law or equal protection of the laws within the territory of India (Article 14) and protection of life or personal liberty (Article 21) are applicable to non-citizens as well.
 
-217(2)), governor of a state (Article 157), attorney general (Article 76(1)) and advocate general (Article 165). Equality before the law or equal protection of the laws within the territory of India (Article 14\) and protection of life or personal liberty (Article 21\) are applicable to non-citizens as well.
-
-What are the constitutional provisions relating to citizenship in India?
+### 7.2 Constitutional Provisions (Articles 5–11)
 
 The Indian constitution doesn’t prescribe a permanent provision relating to citizenship in India. It simply describes categories of persons who are deemed to be citizens of India on the day the Indian constitution was promulgated on January 26, 1950, and leaves citizenship to be regulated by law made by the parliament. Article 11 of the constitution confers power on the parliament to make laws regarding citizenship. The Indian Citizenship Act, 1955 was enacted in exercise of this provision.
 
-Who were the persons who were deemed to be citizens of India when the constitution was promulgated?
+**Who were the persons who were deemed to be citizens of India when the constitution was promulgated?**
 
-1) Citizenship by domicile (Article 5): A person who was born in India or either of the person’s parents was born in India or the person must have been an ordinarily resident in the territory of India for not less than five years immediately before the commencement of the constitution. Domicile of a person is in that country in which the person either has or is deemed by law to have his/her permanent house.
+**1. Citizenship by Domicile (Article 5):**
+A person who was born in India or either of the person’s parents was born in India or the person must have been an ordinarily resident in the territory of India for not less than five years immediately before the commencement of the constitution. Domicile of a person is in that country in which the person either has or is deemed by law to have his/her permanent house.
 
-The term ‘domicile’ has not been defined in the Indian Constitution. ‘Domicile’ means the place where a person’s habitation is fixed without any present intention of moving there from. Every person has a domicile at his birth called the domicile of origin. The domicile of origin remains unchanged until the person acquires a new domicile, i.e. by actually settling in another country with the intention of permanently residing there. Till then the domicile of origin continues even if he has left the country with an intention of never returning again. The onus to prove that a
+The term ‘domicile’ has not been defined in the Indian Constitution. ‘Domicile’ means the place where a person’s habitation is fixed without any present intention of moving there from. Every person has a domicile at his birth called the domicile of origin. The domicile of origin remains unchanged until the person acquires a new domicile, i.e. by actually settling in another country with the intention of permanently residing there. Till then the domicile of origin continues even if he has left the country with an intention of never returning again. The onus to prove that a person has changed his domicile of origin lies upon him. It has been held by the Supreme Court that there must be factum and animus to constitute the existence of domicile in India. Similarly, the Supreme Court said in *Louis De Raedt v Union of India*, that the person should show his appropriate state of mind required for acquisition of domicile by choice. In *Pradeep Jain v Union of India*, the Supreme Court held that there is only one domicile in India. The court said that the domicile does not change with the change of residence within India. A minor or married person does not have the legal capacity to make a change of domicile. Therefore, a minor carries the domicile of his father and a married woman gets the domicile of her husband.
 
-person has changed his domicile of origin lies upon him. It has been held by the Supreme Court that there must be factum and animus to constitute the existence of domicile in India.8 Similarly, the Supreme Court said in Louis De Raedt v Union of India, that the person should show his appropriate state of mind required for acquisition of domicile by choice. In Pradeep Jain v Union
-
-of India, the Supreme Court held that there is only one domicile in India. The court said that the domicile does not change with the change of residence within India. A minor or married person does not have the legal capacity to make a change of domicile. Therefore, a minor carries the domicile of his father and a married woman gets the domicile of her husband.
-
-2) Citizenship of migrants to India from Pakistan (Article 6): Persons who have migrated from Pakistan to India have been classified into two categories: i) those who came to India before July 19, 1948, and
-
-2) those who came on or after July 19, 1948\.
+**2. Citizenship of Migrants to India from Pakistan (Article 6):**
+Persons who have migrated from Pakistan to India have been classified into two categories:
+1.  Those who came to India before July 19, 1948.
+2.  Those who came on or after July 19, 1948.
 
 In the case of persons migrating before July 19, 1948, if the person has been ordinarily residing in India since the date of her migration, and in case of a person migrating on or after July 19, 1948, if he/she has been registered as a citizen of India, after residing for at least six months immediately before the date of applying for registration, by an officer appointed by the government of India, shall be deemed to be a citizen of India.
 
-3) Citizenship of migrants of Pakistan (Article 7): If a citizen of India has migrated to Pakistan after March 1, 1947, but returned to India on the basis of permit for resettlement in India, the person is entitled to become a citizen of India if he/she registers herself as a citizen of India, after residing for at least six months immediately before the date of applying for registration, by an officer appointed by the government of India.
+**3. Citizenship of Migrants of Pakistan (Article 7):**
+If a citizen of India has migrated to Pakistan after March 1, 1947, but returned to India on the basis of permit for resettlement in India, the person is entitled to become a citizen of India if he/she registers herself as a citizen of India, after residing for at least six months immediately before the date of applying for registration, by an officer appointed by the government of India.
 
-Both Articles 6 and 7 use the term ‘migrated’. The meaning of the term ‘migrated’ came into consideration of Supreme Court in Kulathi v State of Kerala. The majority held that the word ‘migrate’ was used in a wider sense of moving from one country to another with the qualification that such movement was not for a short visit or for a special purpose.
+Both Articles 6 and 7 use the term ‘migrated’. The meaning of the term ‘migrated’ came into consideration of Supreme Court in *Kulathi v State of Kerala*. The majority held that the word ‘migrate’ was used in a wider sense of moving from one country to another with the qualification that such movement was not for a short visit or for a special purpose.
 
-State of Bihar v. Kumar Amar Singh
+> **Case Law: State of Bihar v. Kumar Amar Singh**
+>
+> Kumar Rani went to Karachi in July 1948 leaving her husband in India. She returned to India in December 1948 after obtaining a temporary permit, stating in her application that for the said permit that she was domiciled in Pakistan and she was a Pakistani national. On expiry of the permit she went back to Pakistan in the April 1949. On May 14, 1953 she came back to India under permanent permit obtained from High Commissioner for India in Pakistan, which was cancelled on July 12, 1950, because it was wrongly issued without the concurrence of the government as required by the rules made under the Influx form Pakistan (control) Act, 1949. She contended, alternatively that the proviso to Article 7 applied to her since she had returned to India on a permanent permit and the subsequent cancellation of the permit was illegal and irrelevant. She made an application for permanent settlement in India through having citizenship under Art. 5.
+>
+> SC observed “Article 7 clearly overrides Art.5. It is pre-emptory in its scope and makes no exception for such a case i.e of the wife migrating to Pakistan leaving her husband in India.”
 
-Kumar Rani went to Karachi in July 1948 leaving her husband in India. She returned to India in December 1948 after obtaining a temporary permit, stating in her application that for the said permit that she was domiciled in Pakistan and she was a Pakistani national. On expiry of the
+**4. Citizenship of Persons of Indian Origin Residing Outside India (Article 8):**
+Indian nationals (whose parents or any grandparents were born in India as defined in the Government of India Act, 1935) residing abroad shall be conferred Indian citizenship, as if they have been registered by the diplomatic or consular representatives of India in the country where they are residing.
 
-permit she went back to Pakistan in the April 1949\. On May 14, 1953 she came back to India under permanent permit obtained from High Commissioner for India in Pakistan, which was cancelled on July 12, 1950, because it was wrongly issued without the concurrence of the government as required by the rules made under the Influx form Pakistan (control) Act, 1949\. She contended, alternatively that the proviso to A.7 applied to her since she had returned to India on a permanent permit and the subsequent cancellation of the permit was illegal and irrelevant. She made an application for permanent settlement in India through having citizenship under Art.
+**Additional Provisions (Articles 9–11):**
+* **Article 9:** Provides that no person shall be a citizen of India by virtue of Article 5, or be deemed to be a citizen of India by virtue of Article 6 or Article 8, if he has voluntarily acquired the citizenship of any foreign State. It deals only with voluntary acquisition of citizenship of a foreign state before the Constitution came into force.
+* **Article 10:** Parliament may take away the right of citizenship of any person.
+* **Article 11:** Gives a proper way to the Parliament for making any law relating to Citizenship. While exercising the authority, the Parliament enacted the Citizenship Act, 1955 for the acquisition and termination of the citizenship in India.
 
-5\. SC observed “Article 7 clearly overrides Art.5. It is pre- emptory in its scope and makes no exception for such a case i.e of the wife migrating to Pakistan leaving her husband in India.”
+### 7.3 Statutory Provisions: The Citizenship Act, 1955
 
-4) Citizenship of persons of Indian origin residing outside India (Article 8): Indian nationals (whose parents or any grandparents were born in India as defined in the Government of India Act, 1935\) residing abroad shall be conferred Indian citizenship, as if they have been registered by the diplomatic or consular representatives of India in the country where they are residing.
+Parliament has enacted the Citizenship Act, 1955, to provide for the acquisition and determination of Indian Citizenship. The Act provides for acquisition of Indian citizenship after the commencement of the Constitution in five ways, i.e., birth, descent, registration, naturalization and incorporation of territory.
 
-Article 8 provides for the Rights of citizenship of certain persons of Indian origin residing outside India. Article 9 provides that no person shall be a citizen of India by virtue of Article 5, or be deemed to be a citizen of India by virtue of Article 6 or Article 8, if he has voluntarily acquired the citizenship of any foreign State. It deals only with voluntary acquisition of citizenship of a foreign state before the Constitution came into force. Under Article 10 Parliament may take away the right of citizenship of any person.
+**1. Citizenship by Birth**
+A person acquires citizenship by birth if he is born on or after 26th January 1950 but before 1st July, 1987. In this case, there is no need to determine the nationality of his parents. But in case where he born on or after 1st July, 1987 but before 3rd December, 2004, it is necessary that either of his parents is a citizen of India at the time of his birth. After 3rd December, 2004, he acquires citizenship by birth if both the parents are citizens of India or one of the parents is a citizen of India and the other is not an illegal migrant at the time of his birth. An ‘illegal migrant’ means a foreigner who entered India without a valid passport or documents or remains in India beyond the permitted period of time.
 
-Article 11 gives a proper way to the Parliament for making any law relating to Citizenship. While exercising the authority, the Parliament enacted the Citizenship Act, 1955 for the acquisition and termination of the citizenship in India.
+**2. Citizenship by Descent**
+Section 4 of the Citizenship Act, 1955 provides that a person born outside India on or after 26th January 1950 but before 10th December 1992 is a citizen of India by descent, if his father was a citizen of India by birth at the time of his birth. A person born outside India on or after 10th December 1992 but before 3rd December, 2004, is considered to be a citizen of India if either of his parents was a citizen of India by birth at the time of his birth. A person born outside India on or after 3rd December, 2004 shall not be a citizen of India, unless the parents declare that the minor does not hold passport of another country and his birth is registered at an Indian consulate within one year of the date of birth or with the permission of the Central Government, after the expiry of the said period.
 
-Citizenship under the Citizenship Act, 1955 Parliament has enacted the Citizenship Act, 1955, to provide for the acquisition and determination of Indian Citizenship. The Act provides for acquisition of Indian citizenship after the commencement of the Constitution in five ways, i.e., birth, descent, registration, naturalization and incorporation of territory.
+**3. Citizenship by Registration**
+Under Section 5 of the Citizenship Act, 1955, a person who has been ordinarily residing in India for seven years before making the application or who has been ordinarily residing in any other country outside undivided India, would acquire Indian citizenship by registration. A person can also register himself or herself as Indian citizen if he or she gets married to an Indian citizen who has been ordinarily residing India for seven years before making application. Both minor and major children of Indian citizens could also acquire citizenship by registration. A registered overseas citizen of India (OCI) for five years and who has been residing in India for one year before making application, would also get citizenship by registration.
 
-Citizenship by Birth: A person acquires citizenship by birth if he is born on or after 26th January 1950 but before 1st July, 1987\. In this case, there is no need to determine the nationality of his
+**4. Citizenship by Naturalisation**
+A person is granted a certificate of naturalisation if the person is not an illegal migrant and has resided in India for 12 months before making an application to seek the certificate. Of the 14 years preceding this 12-months duration, the person must have stayed in India for 11 years.
 
-parents. But in case where he born on or after 1st July, 1987 but before 3rd December, 2004, it is necessary that either of his parents is a citizen of India at the time of his birth. After 3rd December, 2004, he acquires citizenship by birth if both the parents are citizens of India or one of the parents is a citizen of India and the other is not an illegal migrant at the time of his birth. An ‘illegal migrant’ means a foreigner who entered India without a valid passport or documents or remains in India beyond the permitted period of time.
+**5. Citizenship by Incorporation of Territory**
+If any new territory becomes a part of India, the government of India shall specify the persons of the territory to be citizens of India. If the central government is of the opinion that an applicant is a person who has rendered distinguished service to the cause of science, philosophy, art, literature, world peace or human progress generally, it may waive all or any conditions specified to attain Indian citizenship.
 
-Citizenship by Descent: Section 4 of the Citizenship Act, 1955 provides that a person born outside India on or after 26th January 1950 but before 10th December 1992 is a citizen of India by descent, if his father was a citizen of India by birth at the time of his birth. A person born outside India on or after 10th December 1992 but before 3rd December, 2004, is considered to be a citizen of India if either of his parents was a citizen of India by birth at the time of his birth. A person born outside India on or after 3rd December, 2004 shall not be a citizen of India, unless the parents declare that the minor does not hold passport of another country and his birth is registered at an Indian consulate within one year of the date of birth or with the permission of the Central Government, after the expiry of the said period.
+### 7.4 Overseas Citizenship of India (OCI)
 
-Citizenship by Registration: Under Section 5 of the Citizenship Act, 1955, a person who has been ordinarily residing in India for seven years before making the application or who has been ordinarily residing in any other country outside undivided India, would acquire Indian citizenship by registration. A person can also register himself or herself as Indian citizen if he or she gets married to an Indian citizen who has been ordinarily residing India for seven years before making application. Both minor and major children of Indian citizens could also acquire citizenship by registration. A registered overseas citizen of India (OCI) for five years and who has been residing in India for one year before making application, would also get citizenship by registration.
+The Citizenship Amendment Act of 2003, provided for acquisition of overseas citizenship of India by persons of Indian origin of 16 specified countries other than Pakistan and Bangladesh. In 2005, the Act was further amended in order to grant more and more overseas citizenship of India to persons of Indian origin of all Countries except Pakistan and Bangladesh. By this amendment, the earlier requirement of period of residence in India was also reduced from two years to one year for persons registered as overseas citizens of India to acquire Indian citizenship. The Overseas Citizenship of India (OCI) Scheme was introduced by amending the Citizenship Act, 1955 in August 2005. The Scheme was launched in 2006. The Scheme provides for registration as Overseas Citizen of India (OCI) of all Persons of Indian Origin (PIOs) who were citizens of India on 26th January, 1950 or thereafter or were eligible to become citizens of India on 26th January, 1950. But the scheme excludes citizens of Pakistan and Bangladesh.
 
-Citizenship by naturalisation: A person is granted a certificate of naturalisation if the person is not an illegal migrant and has resided in India for 12 months before making an application  to seek the certificate. Of the 14 years preceding this 12-months duration, the person must have stayed in India for 11 years.
+Overseas Citizen of India (OCI) does not mean ‘dual citizenship’. Overseas Citizen of India (OCI) does not confer any political right on the concerned persons. The registered Overseas Citizens of India cannot enjoy the same status as that of Indian citizens in case of equal opportunities in public employment. It means Overseas Citizen of India (OCI) cannot enforce Article 16 of the Indian Constitution. Furthermore, Overseas citizens of India cannot enjoy voting rights. Overseas Citizen of India (OCI) cannot enjoy the right to hold offices like President, Vice-President, Judge of Supreme Court and High Court, Member of Lok Sabha, Rajya Sabha, Legislative Assembly or Council. Overseas Citizen of India (OCI) cannot be appointed to the Public Services. However, Overseas Citizen of India (OCI) enjoys some other rights. A registered Overseas Citizen of India gets Indian visa for his whole life. He or she enjoys the same status as that of Non-Resident Indians in matters of inter-country adoption, tariffs in domestic air fares, entry fee for visiting national parks, the national monuments, museums, etc. in India. Overseas citizen is eligible to practice professions of doctors, dentists, nurses and pharmacists, Advocates, Architects, Chartered Accountants in India. But Overseas Citizen of India (OCI) does not enjoy the same parity with Non-Resident Indians in matters of agricultural properties.
 
-Citizenship by incorporation of territory: If any new territory becomes a part of India, the government of India shall specify the persons of the territory to be citizens of India. If the central government is of the opinion that an applicant is a person who has rendered distinguished service to the cause of science, philosophy, art, literature, world peace or human progress generally, it may waive all or any conditions specified to attain Indian citizenship.
+### 7.5 Termination of Citizenship
 
-Overseas Citizenship: The Citizenship Amendment Act of 2003, provided for acquisition of overseas citizenship of India by persons of Indian origin of 16 specified countries other than Pakistan and Bangladesh. In 2005, the Act was further amended in order to grant more and more overseas citizenship of India to persons of Indian origin of all Countries except Pakistan and Bangladesh. By this amendment, the earlier requirement of period of residence in India was also reduced from two years to one year for persons registered as overseas citizens of India to acquire Indian citizenship. The Overseas Citizenship of India (OCI) Scheme was introduced by amending the Citizenship Act, 1955 in August 2005\. The Scheme was launched in 2006\. The Scheme provides for registration as Overseas Citizen of India (OCI) of all Persons of Indian Origin (PIOs) who were citizens of India on 26th January, 1950 or thereafter or were eligible to become citizens of India on 26th January, 1950\. But the scheme excludes citizens of Pakistan and Bangladesh.
+**Renunciation, Termination, and Deprivation:**
+* **Renunciation:** Section 8 of the Citizenship Act 1955 provides that a major and capable person can renounce his or her Indian citizenship. On renunciation, his minor child also loses citizenship. But the minor child can resume the Indian citizenship after attaining the age of majority.
+* **Termination:** Section 9(1) of the Citizenship Act 1955 provides that an Indian citizen loses his Indian citizenship if he or she acquires the citizenship of another country. It has also been held by the Hon’ble Supreme Court that section 9 is a complete code regarding the termination of Indian Citizenship on the acquisition of the citizenship of a foreign country. On renunciation or termination, the concerned person has to surrender his or her Indian passport to the authorities under the Passport Act. If he or she fails to do so, he or she is liable to receive prescribed punishment.
+* **Deprivation:** Deprivation of citizenship means compulsory termination of citizenship in India. Section 10 provides that the Central Government may terminate a person’s citizenship on certain grounds like the person commits fraud in registration, the person is not loyal towards the Constitution of India, the person is trading or communicating with enemy when India is at war, the person’s citizenship is not in favour of public good, etc. Increasingly, in the case of *Hari Shankar Jain v Sonia Gandhi*, the Supreme Court opined that a petition to challenge one’s citizenship can be filed before the High Court or election judge.
 
-Overseas Citizen of India (OCI) does not mean ‘dual citizenship’. Overseas Citizen of India (OCI) does not confer any political right on the concerned persons. The registered Overseas Citizens of India cannot enjoy the same status as that of Indian citizens in case of equal opportunities in public employment. It means Overseas Citizen of India (OCI) cannot enforce
+### 7.6 Citizenship Status of Corporations
 
-Article 16 of the Indian Constitution. 15 Furthermore, Overseas citizens of India cannot enjoy voting rights. Overseas Citizen of India (OCI) cannot enjoy the right to hold offices like President, Vice-President, Judge of Supreme Court and High Court, Member of Lok Sabha, Rajya Sabha, Legislative Assembly or Council. Overseas Citizen of India (OCI) cannot be appointed to the Public Services. However, Overseas Citizen of India (OCI) enjoys some other rights. A registered Overseas Citizen of India gets Indian visa for his whole life. He or she enjoys the same status as that of Non-Resident Indians in matters of inter-country adoption, tariffs in domestic air fares, entry fee for visiting national parks, the national monuments, museums, etc. in India. Overseas citizen is eligible to practice professions of doctors, dentists, nurses and
+**Is Corporation a Citizen?**
+The Supreme Court in *State Trading Corporation v Commercial Tax Officer* held that company or corporation is not a citizen of India and cannot claim fundamental rights. The court said that citizenship is concerned with natural persons only. The court said that citizenship cannot be conferred upon the juristic persons.
 
-pharmacists, Advocates, Architects, Chartered Accountants in India. But Overseas Citizen of India (OCI) does not enjoy the same parity with Non-Resident Indians in matters of agricultural properties.
+However, the Supreme Court in *Cooper v Union of India*, also known as Bank Nationalization case, held that a shareholder of a company should be considered as an Indian citizen and is entitled to the protection given under Article 19 of the Indian Constitution. The Fundamental rights of the shareholders as citizens should not be violated by any state action.
 
-Renunciation, Termination and Deprivation of Citizenship
+In *Bennett Coleman Case*, the Supreme Court again said that the State Action not only affects the right of newspapers companies but also of the editors, readers and shareholders. These individuals do have freedom of speech and expression which should be protected against any unreasonable State action.
 
-Section 8 of the Citizenship Act 1955 provides that a major and capable person can renounce his or her Indian citizenship. On renunciation, his minor child also loses citizenship. But the minor child can resume the Indian citizenship after attaining the age of majority. Section 9(1) of the Citizenship Act 1955 provides that an Indian citizen loses his Indian citizenship if he or she acquires the citizenship of another country. It has also been held by the Hon’ble Supreme Court that section 9 is a complete code regarding the termination of Indian Citizenship on the acquisition of the citizenship of a foreign country. On renunciation or termination, the concerned person has to surrender his or her Indian passport to the authorities under the Passport Act. If he or she fails to do so, he or she is liable to receive prescribed punishment. Deprivation of citizenship means compulsory termination of citizenship in India. Section 10 provides that the Central Government may terminate a person’s citizenship on certain grounds like the person commits fraud in registration, the person is not loyal towards the Constitution of India, the person is trading or communicating with enemy when India is at war, the person’s citizenship is not in favour of public good, etc. Increasingly, in the case of Hari Shankar Jain v Sonia Gandhi, the Supreme Court opined that a petition to challenge one’s citizenship can be filed before the High Court or election judge.
+In *Godhra Electric Co. Ltd v State of Gujarat* the court held that a managing director of a company had right to carry on business through agency of company. The court said that he had right to challenge the constitutional validity of the concerned enactment.
 
-Is Corporation a Citizen?
-
-The Supreme Court in State Trading Corporation v Commercial Tax Officer held that company or corporation is not a citizen of India and cannot claim fundamental rights. The court said that citizenship is concerned with natural persons only. The court said that citizenship cannot be conferred upon the juristic persons.
-
-However, the Supreme Court in Cooper v Union of India, also known as Bank Nationalization case, held that a shareholder of a company should be considered as an Indian citizen and is entitled to the protection given under Article 19 of the Indian Constitution. The Fundamental rights of the shareholders as citizens should not be violated by any state action.
-
-In Bennett Coleman Case, the Supreme Court again said that the State Action not only affects the right of newspapers companies but also of the editors, readers and shareholders. These individuals do have freedom of speech and expression which should be protected against any unreasonable State action.
-
-In Godhra Electric Co. Ltd v State of Gujarat the court held that a managing director of a company had right to carry on business through agency of company. The court said that he had right to challenge the constitutional validity of the concerned enactment.
-
-Following Bank Nationalization and Bennet Coleman cases the Supreme Court in D.C. & G.M. v Union of India, has held that writ petition filed by a company complaining denial of fundamental rights guaranteed under Article 19 is maintainable.
+Following Bank Nationalization and Bennet Coleman cases the Supreme Court in *D.C. & G.M. v Union of India*, has held that writ petition filed by a company complaining denial of fundamental rights guaranteed under Article 19 is maintainable.
 
 The Constitution of India provides for a single citizenship for the entire country. The provisions relating to citizenship at the commencement of the Constitution are contained in Articles 5 to 11 in Part II of the Constitution of India. The Citizenship Act enacted by the Parliament in 1955 provides for acquisition and determination of citizenship.
 
