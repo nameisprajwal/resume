@@ -1,14 +1,12 @@
------
-
 # Hindu Law Examination Question Bank - Unit Wise & Marks Wise
 
 ## Table of Contents
 
-1.  [Unit I - Sources of Hindu Law & Schools](https://www.google.com/search?q=%23unit-i)
-2.  [Unit II - Hindu Marriage](https://www.google.com/search?q=%23unit-ii)
-3.  [Unit III - Joint Family, Coparcenary & Partition](https://www.google.com/search?q=%23unit-iii)
-4.  [Unit IV - Succession & Inheritance](https://www.google.com/search?q=%23unit-iv)
-5.  [Unit V - Adoption, Guardianship & Maintenance](https://www.google.com/search?q=%23unit-v)
+1.  [Unit I - Sources of Hindu Law & Schools](https://www.google.com/search?q=%23unit-i)
+2.  [Unit II - Hindu Marriage](https://www.google.com/search?q=%23unit-ii)
+3.  [Unit III - Joint Family, Coparcenary & Partition](https://www.google.com/search?q=%23unit-iii)
+4.  [Unit IV - Succession & Inheritance](https://www.google.com/search?q=%23unit-iv)
+5.  [Unit V - Adoption, Guardianship & Maintenance](https://www.google.com/search?q=%23unit-v)
 
 -----
 
@@ -18,9 +16,9 @@
 
 ### 1\. What is Custom? Briefly explain requirements of a valid custom.
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
-    
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+    
 #### Introduction
 Custom represents one of the most fundamental and ancient sources of Hindu law, predating the codification of written legal texts. The term "custom" derives from the Sanskrit word "Achar" or "Acara," denoting established practices and usages that have been consistently followed by a community over an extended period. In the context of Hindu jurisprudence, custom embodies the crystallized wisdom of society, reflecting the ethical and moral principles of a people. The Hindu Legal System acknowledges custom as a source of law with constitutional validity, recognizing that law is not merely a creation of legislative bodies but emerges organically from societal practices and traditions that have proven their utility and righteousness over centuries.
 
@@ -69,10 +67,10 @@ Custom represents a living, organic source of Hindu law that reflects the accumu
 
 ### 2\. Explain the concept of Dharma.
 
-  * *Year:* December 2019 | *Marks:* 6 (Note: Also appeared as 6 marks)
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
-    
+  * *Year:* December 2019 | *Marks:* 6 (Note: Also appeared as 6 marks)
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
+    
 #### Introduction
 
 Dharma stands as one of the most profound and multifaceted concepts in Hindu philosophy and jurisprudence, representing far more than a simple legal or ethical principle. The term "Dharma" (धर्म) is derived from the Sanskrit root "Dhr" meaning "to hold" or "to support," thereby signifying that which holds together, sustains, and maintains the cosmic and social order. In the context of Hindu law, Dharma encompasses a comprehensive system of duties, obligations, rights, and principles that regulate individual conduct, family relations, and societal interactions, grounded in the fundamental belief that law must serve not merely as an instrument of coercion but as a pathway to righteousness and spiritual liberation. The classical legal texts of Hindu civilization, particularly the Dharmaśāstras, recognize Dharma as the foundational principle underlying all legal norms and institutional structures.
@@ -124,13 +122,13 @@ The modern application of Dharma must be contextualized within the framework of 
 Dharma represents a comprehensive philosophical and legal concept that transcends the narrow confines of "law" in the Western sense. It encompasses ethics, duty, obligation, and righteousness, operating across cosmic, social, and individual dimensions. While grounded in ancient scriptural wisdom, the concept has demonstrated remarkable flexibility and capacity for reinterpretation across different historical periods. In the contemporary constitutional framework of India, Dharma remains relevant as a supplementary principle of interpretation, particularly in areas involving family law and personal matters, but it must be reconciled with constitutional norms, statutory provisions, and principles of equality and justice. The concept reminds us that law is not merely a coercive mechanism but an instrument through which society endeavors to achieve ethical and spiritual advancement while maintaining social order and justice.
 
 ---
-        
+        
 ### 3\. Who are Hindus? To whom does Hindu Law apply?
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-      
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+      
 #### Introduction
 
 The definition of "Hindu" for purposes of Hindu law represents a fundamental threshold question that determines the scope and applicability of Hindu legal principles. This question addresses not merely religious identification but legal status and the range of statutory and customary rules that will govern an individual's personal affairs. The Hindu law, particularly as codified in statutes like the Hindu Marriage Act, 1955; Hindu Succession Act, 1956; and Hindu Adoption and Maintenance Act, 1956, applies to "Hindus" as specifically defined by these Acts. Understanding who constitutes a Hindu for legal purposes requires examination of both the constitutional definition and the statutory specifications provided in various legal instruments, alongside an analysis of the categories of persons expressly or impliedly excluded from the scope of Hindu law.
@@ -207,8 +205,8 @@ The definition of "Hindu" for purposes of Hindu law encompasses three principal 
 
 ### 4\. Explain the features of a co-parcenary and bring out the rights of a co-parcenary.
 
-  * *Year:* June 2019 | *Marks:* 10
-      
+  * *Year:* June 2019 | *Marks:* 10
+      
 #### Introduction
 
 Co-parcenary (also written as "coparcenary") represents one of the most distinctive and influential institutions within Hindu law, particularly under the Mitakshara school of jurisprudence. The concept of co-parcenary embodies a unique form of collective property ownership and family governance wherein members of a patrilineal joint family possess simultaneous rights and interests in ancestral property without formal partition. Unlike ordinary co-ownership, which typically arises through contractual arrangement or partition of previously held property, co-parcenary operates as an automatic juridical consequence of blood relationship within the joint family framework. The institution reflects the Hindu legal tradition's recognition that family property transcends individual ownership, vesting instead in a collective entity whose members bear reciprocal rights and duties. The co-parcenary has undergone significant transformation through the Hindu Succession (Amendment) Act, 2005, which extended co-parcenary status to daughters, fundamentally altering the gender-based structure of this traditional institution.
@@ -295,13 +293,13 @@ Under the present legal regime, co-parceners possess the following rights:
 
 Co-parcenary represents a distinctive institution within Hindu law embodying principles of collective ownership, mutual obligation, and lineal succession. The traditional institution, confined to male members, was characterized by the right of survivorship, an automatic vesting of rights through birth, and restrictions on alienation. The Hindu Succession (Amendment) Act, 2005, has modernized this institution by extending equal co-parcenary status to daughters, thereby eliminating gender-based discrimination while preserving the essential characteristics of the co-parcenary institution. The contemporary co-parcenary reflects a synthesis of ancient Hindu legal principles with modern constitutional values of equality and non-discrimination. The rights of co-parceners today encompass the right to partition, succession, management, and alienation, exercised within the framework of family obligations and collective welfare. This evolution demonstrates the capacity of Hindu law institutions to adapt to changing social values while remaining grounded in foundational principles of family, lineage, and dharmic obligation.
 
----  
+---  
 ### 5\. Distinguish between Mitakshara and Dayabhaga Schools of Hindu Law.
 
-  * *Year:* June 2019 | *Marks:* 6 (Note: Also appeared as 6 marks)
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-    
+  * *Year:* June 2019 | *Marks:* 6 (Note: Also appeared as 6 marks)
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+    
 #### Introduction
 
 The Mitakshara and Dayabhaga schools represent two major competing systems of Hindu jurisprudence that have profoundly shaped the evolution of Hindu law, particularly regarding property rights, succession, and family structure. These schools emerged from different geographical and cultural contexts within the Indian subcontinent and developed distinct approaches to interpreting and applying Hindu legal principles. The Mitakshara school, originating from South India and spreading to North India, emphasizes the concept of coparcenary and the automatic vesting of property rights in heirs by birth. Conversely, the Dayabhaga school, originating from Bengal, emphasizes testamentary succession and the role of the deceased's intent in property transmission. These fundamental differences have resulted in divergent legal regimes applicable in different regions of India, though modern statutory codification has attempted to harmonize certain principles while preserving regional variations. Understanding these schools remains essential to comprehending the historical development of Hindu law and the rationale underlying certain statutory provisions that differ between different regions.
@@ -389,39 +387,39 @@ The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential
 
 ### 6\. Explain the sources of Hindu Law (Ancient/Smritis/General).
 
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 ### 7\. Discuss the different schools of Hindu Law.
 
-  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
 
 ### 8\. "A clear proof of usage/custom will outweigh the written text of the law". Explain/Comment.
 
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
 
-###    TODO TO SELF : check these questions from  no.10 to no.18
-      
+###    TODO TO SELF : check these questions from  no.10 to no.18
+      
 10. **Explain ancient sources of Hindu Law.**
-      * *Year:* March/April 2021 | *Marks:* 10
+      * *Year:* March/April 2021 | *Marks:* 10
 11. **Explain the ancient sources of Hindu Law.**
-      * *Year:* June/July 2025 | *Marks:* 10
+      * *Year:* June/July 2025 | *Marks:* 10
 12. **Discuss the different schools of Hindu Law.**
-      * *Year:* March/April 2021 | *Marks:* 10
+      * *Year:* March/April 2021 | *Marks:* 10
 13. **"A clear proof of usage will outweigh the written text of the law" - Comment.**
-      * *Year:* April/May 2022 | *Marks:* 10
+      * *Year:* April/May 2022 | *Marks:* 10
 14. **'A clear proof of custom outweigh the written text of law'. Explain.**
-      * *Year:* January/February 2025 | *Marks:* 10
+      * *Year:* January/February 2025 | *Marks:* 10
 15. **Explain in brief the sources of Hindu law.**
-      * *Year:* September 2023 | *Marks:* 10
+      * *Year:* September 2023 | *Marks:* 10
 17. **Explain Shruti and Smriti as ancient sources of Hindu law.**
-      * *Year:* August/September 2024 | *Marks:* 10
+      * *Year:* August/September 2024 | *Marks:* 10
 18. **Briefly enumerate the sources of Hindu Law with special reference to 'Smritis'.**
-      * *Year:* January/February 2025 | *Marks:* 10
+      * *Year:* January/February 2025 | *Marks:* 10
 
 ### 6 Marks Questions
 
@@ -451,7 +449,7 @@ In contemporary Hindu law, Dharma serves as a principle of interpretation and ga
 * *Year:* December 2019 | *Marks:* 6
 * *Year:* March 2023 | *Marks:* 6
 * *Year:* June/July 2025 | *Marks:* 6
-  
+  
 **Definition and Concept**
 
 A person is deemed "Hindu by birth" when they are born to parents who are themselves Hindus, regardless of the individual's personal religious beliefs or subsequent religious conversion. This category represents an automatic acquisition of Hindu legal status through genealogical connection independent of conscious profession of faith. The Hindu Marriage Act, 1955, specifically includes within its definition of "Hindu" any person who is a Hindu by birth. This principle has been consistently upheld in Indian jurisprudence, representing one of the three primary mechanisms through which Hindu legal status is acquired.
@@ -500,7 +498,7 @@ The Mitakshara school is the predominant jurisprudential tradition in Maharastra
 
 ---
 
-ANSWER VERSION TWO : 
+ANSWER VERSION TWO : 
 
 **Origin and Development**
 
@@ -644,8 +642,8 @@ Unlike "Hindu by birth," which is automatic and irrevocable, conversion status r
 
 ### 1\. Explain the Constitutionality of Restitution of Conjugal rights with the help of leading cases.
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
 
 #### Introduction
 
@@ -702,8 +700,8 @@ The constitutionality of restitution of conjugal rights reflects the broader ten
 
 ### 2\. "Hindu Marriage is a Sacrament and also a contract". Discuss.
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
 
 #### Introduction
 
@@ -769,10 +767,10 @@ Hindu marriage embodies a profound duality—it is simultaneously a sacred sacra
 
 ### 3\. State the grounds available to a Hindu wife/Husband for dissolution of marriage/divorce.
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
 #### Introduction
 
 The grounds available to a Hindu wife for dissolution of marriage represent one of the most significant areas of gender-specific law within the Hindu legal system. Historically, Hindu law granted substantially different grounds for divorce to husbands and wives, reflecting the patriarchal structure of pre-modern Hindu society wherein women occupied subordinate positions. The original Hindu Marriage Act, 1955, while introducing unprecedented rights for women, nonetheless contained important asymmetries favoring husbands. The systematic evolution of law through judicial interpretation and statutory amendment has progressively expanded the grounds available to wives, culminating in substantial parity between spouses. However, important distinctions remain, reflecting both historical development and certain practical considerations regarding gender-specific harms to women. Understanding the grounds available to wives requires examination of both the statutory framework and the judicial interpretation that has shaped its application.
@@ -843,72 +841,72 @@ The grounds available to Hindu wives for dissolution of marriage have undergone 
 
 ### 4\. Explain the changes brought by the Hindu Marriage (Amendment) Act, 1976 to the Hindu Law.
 
-  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
 
 ### 5\. Explain the essential conditions of a valid marriage.
 
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 ### 6\. Define and distinguish between 'Void' and 'Voidable Marriages' under Hindu Marriage Act, 1955.
 
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 ### 6 Marks Questions
 
 ### 7\. Write a note on Marriage Ceremonies.
 
-  * *Year:* March 2023 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 ### 8\. Write a note on Divorce by Mutual Consent.
 
-  * *Year:* March/April 2021 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
-  * *Year:* March 2023 | *Marks:* 6
-  * *Year:* September 2023 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 ### 9\. Write a note on Void/Voidable Marriages.
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
 
 ### 10\. Problem: Nagaraj and Rani married in July 2018. Within three months they realized they cannot live together. Can they dissolve marriage immediately?
 
-  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
 
 ### 11\. Write a note on Dowry (Customary practices/Legislative provisions).
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
 
 ### 12\. When divorced persons may remarry?
 
-  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
 
 ### 13\. Problem: Husband got 'Restitution of conjugal rights' order. Order was not obeyed. Subsequently Husband wants divorce on that ground. Can he succeed?
 
-  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
 
 ### 14\. Write a note on Judicial Separation.
 
-  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
 
 ### 15\. Write a note on Restitution of conjugal rights.
 
-  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
 
 ### 16\. Write a note on wife's special grounds to take divorce.
 
-  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
 
 -----
 
@@ -920,9 +918,9 @@ The grounds available to Hindu wives for dissolution of marriage have undergone 
 
 ### 1\. Discuss the features of Hindu Joint Family and Coparcenary (and rights of coparcener).
 
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 #### Introduction
 
 The Hindu joint family and co-parcenary represent distinctive institutional arrangements within Hindu civilization that have shaped property relationships, family governance, and succession patterns for millennia. While the terms are sometimes used interchangeably, they possess distinct legal and sociological meanings. The joint family represents the broader social and economic unit organized around collective household management, while co-parcenary denotes the specific property relationships among designated family members regarding ancestral property. Understanding these institutions requires examining their historical evolution, contemporary legal status, and the fundamental differences between them.
@@ -979,6 +977,7 @@ Co-parcenary (or coparcenary) refers specifically to the proprietary relationshi
 | **Governance** | Karta's plenary authority | Karta's authority subject to co-parceners' interests |
 | **Dissolution** | Occurs through formal partition or death of Karta | Occurs through partition or succession law changes |
 
+
 **Relationship Between Joint Family and Co-parcenary**
 
 While distinct, joint family and co-parcenary are intimately related. Co-parcenary typically exists within the joint family context—co-parceners are invariably joint family members. However, not all joint family members are co-parceners. Unmarried daughters, widows, daughters-in-law, and younger sons may be joint family members without possessing co-parcenary status (traditionally). The joint family provides the social framework within which co-parcenary operates.
@@ -1000,10 +999,10 @@ The Hindu joint family and co-parcenary represent sophisticated institutional ar
 
 ### 2\. What is Partition? When can Partition be re-opened?
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
 #### Introduction
 
 Partition in Hindu law refers to the division of joint family property among co-parceners, resulting in the severance of the joint family relationship. Partition represents one of the most significant transactions in Hindu family law, converting collective property interests into individual ownership. While partition is an individual co-parcener's fundamental right, the law recognizes circumstances where partitions already effected may be reopened, modified, or set aside. Understanding partition requires examination of its nature, modes, and the circumstances permitting reopening of settled partitions.
@@ -1072,70 +1071,596 @@ Partition represents the definitive severance of joint family relationships and 
 
 ### 3\. Who is Karta? Discuss his position, duties, and powers (including alienation).
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
 
 ### 4\. What is Partition? Explain various modes of Partition / Who can claim partition?
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 ### 5\. What are Endowments? Explain essentials of valid Endowments.
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
 
 ### 6 Marks Questions
 
 ### 6\. Write a note on Doctrine of Pious Obligation.
 
-  * *Year:* December 2019 | *Marks:* 6
-  * *Year:* March 2023 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 ### 7\. Re-union.
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
+
+#### Definition and Concept
+
+Re-union, or reunion as commonly spelled, refers to the reconstitution of joint family status by separated members voluntarily agreeing to pool their property and live as a joint family once again. This process represents a reversal of partition, though it does not necessarily restore the exact same conditions that existed prior to partition. Re-union is distinguished from partition by its voluntary nature and the clear intention of the parties to restore communal property ownership and joint family relations.
+
+#### Legal Nature and Distinction from Partition
+
+Reunion is the inverse of partition. While partition divides joint property and creates individual ownership, reunion consolidates separated properties back into a joint estate. However, reunion is not automatic; it requires affirmative agreement among all parties desiring to reunite. The Supreme Court in *Buddhadev Roy v. State of West Bengal* recognized reunion as a valid legal transaction, capable of creating fresh obligations and relationships.
+
+**Key Distinction:** Partition is a right inherent in coparceners; reunion is a voluntary act requiring agreement. This asymmetry reflects the principle that while family members cannot be forced to remain joint, they can voluntarily choose to reunite.
+
+#### Requirements for Valid Re-union
+
+1. **Voluntary Consent:** All members desiring reunion must freely agree. No coercion or duress is permissible.
+
+2. **Clear Intention:** The parties must explicitly express or clearly manifest their intention to reconstitute the joint family.
+
+3. **Pooling of Property:** The separated members must agree to bring their properties back into a common pool, indicating shared ownership.
+
+4. **Documentary Evidence:** Ideally, reunion should be evidenced in writing (deed), though oral reunion supported by conduct may be recognized.
+
+5. **Uniformity of Intention:** All reuniting members must have the same understanding and intention regarding the scope and terms of reunion.
+
+#### Legal Effects of Re-union
+
+1. **Restoration of Coparcenary Status:** Members who reunite regain coparcenary rights in the reunited property.
+
+2. **Revived Joint Liability:** Members become once again jointly and severally liable for family debts incurred after reunion.
+
+3. **New Succession Rights:** The succession pattern becomes governed by joint family principles applicable at the time of reunion.
+
+4. **Karta Succession:** A new Karta is determined among the reunited members, typically the senior-most member.
+
+5. **Property Status:** Previously separated property becomes ancestral property for purposes of succession for members born after reunion.
+
+#### Limitations and Important Principles
+
+1. **Incomplete Restoration:** Reunion does not undo the effects of partition for third parties. If property was sold post-partition to outsiders, reunion cannot recover that property.
+
+2. **Creditor Rights:** Creditors who obtained rights based on the separated status cannot be prejudiced by reunion. Their rights remain enforceable.
+
+3. **Time Limitation:** There is no specific time limit for reunion; it can occur years after partition.
+
+4. **Partial Reunion:** Only some separated members may reunite while others remain separate. This creates a complex property situation requiring careful management.
+
+5. **No Retroactive Effect:** Reunion takes effect prospectively from the date of agreement. It does not retroactively affect transactions completed during the separated period.
+
+#### Practical Implications
+
+Reunion is rare in modern practice due to changed family dynamics and individualistic property management. However, it remains legally valid and may occur in rural joint family structures or where family reconciliation necessitates restoration of joint status. Tax implications, inheritance disputes following reunion, and determination of new succession rights require careful legal counsel.
 
 ### 8\. Problem: Father incurred debt for personal benefit and died. Son has self acquired property. Is son liable to discharge debt?
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
 
 ### 9\. Write a note on Dayabhaga coparcenary.
 
-  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
+
+#### Introduction
+
+Dayabhaga, derived from Sanskrit meaning "portion of payment," represents the second major school of Hindu succession law, primarily applicable in Bengal, Assam, and certain parts of Eastern India. The Dayabhaga system, propounded by Jimutavahana in the 11th century, fundamentally differs from the Mitakshara system in its approach to coparcenary, succession, and property transmission. Understanding Dayabhaga coparcenary is essential for practitioners operating in the relevant jurisdictions and for comprehensive comprehension of Hindu succession law's diversity.
+
+#### Fundamental Principles of Dayabhaga Coparcenary
+
+**1. Coparcenary Not by Birth but by Succession:**
+
+Unlike Mitakshara, where coparcenary is acquired by mere birth, Dayabhaga recognizes coparcenary only after succession occurs. Specifically:
+- Coparcenary arises when a property holder (called Shutsthanak) dies
+- His heirs acquire a stake in his property and become co-heirs
+- These co-heirs then become coparceners in the property
+
+**Implication:** A son born to a living father does not acquire coparcenary rights merely by birth. Rights arise only after the father's death, when succession takes place.
+
+**2. Principle of Lineal Succession:**
+
+Dayabhaga follows strict lineal descent in determining succession:
+- Each line of descent (represented by sons) has its own succession chain
+- A predeceased son's share passes to his heirs and descendants
+- This contrasts with Mitakshara's survivorship principle
+
+**3. No Survivorship:**
+
+A fundamental distinction from Mitakshara:
+- When a coparcener dies before partition in Dayabhaga, his share does NOT vest in surviving coparceners
+- Instead, it devolves to his legal heirs according to succession law
+- This means heirs of a deceased member become new coparceners themselves
+
+#### Categories of Coparceners in Dayabhaga
+
+1. **Sons of the Property Holder:** Become coparceners upon the property holder's death
+
+2. **Heirs of Predeceased Sons:** If a son predeceases the property holder, that son's heirs (grandsons through that son, or daughters if sons are absent) become coparceners in the grandfather's property
+
+3. **Other Lineal Descendants:** Based on strict lineal succession through males, other descendants may acquire coparcenary status
+
+4. **Daughters (in Absence of Sons):** If there are no sons, daughters may become coparceners and inherit ancestral property
+
+#### Rights and Liabilities of Dayabhaga Coparceners
+
+**Rights:**
+1. Right to demand partition of coparcenary property
+2. Right to share in income and benefits
+3. Right to account and disclosure from property manager
+4. Right of succession to the property
+
+**Liabilities:**
+1. Joint and several liability for family debts during the joint property period
+2. Obligation to maintain family property
+3. Accountability for income and expenses
+
+#### Partition in Dayabhaga System
+
+**Calculation of Shares:**
+- More complex than Mitakshara
+- Based on the number and generations of heirs
+- Each line of descent receives shares based on representation
+
+**Example:** If property holder dies leaving two sons (A and B):
+- A receives 1/2, B receives 1/2
+- If A predeceased leaving three children, those three children split A's 1/2 equally
+- Each receives 1/6 (1/2 ÷ 3)
+
+#### Modern Statutory Treatment
+
+The Hindu Succession Act, 1956, applied Dayabhaga principles to Schedule I communities (primarily Bengali Hindus). The act codified many Dayabhaga principles while introducing modifications for contemporary application. Later amendments, particularly the Hindu Succession (Amendment) Act, 2005, extended certain rights (such as daughter coparcenary) to Dayabhaga-governed communities.
+
+#### Comparison with Mitakshara
+
+| Aspect | Dayabhaga | Mitakshara |
+|--------|-----------|-----------|
+| Coparcenary Acquisition | After succession | By birth |
+| Succession | Lineal to heirs | Survivorship |
+| Shares | Based on lines of descent | Equal among coparceners |
+| Daughter's Rights | Limited; as heir only | (Post-2005) Equal to sons |
+| Predeceased Member's Share | To his heirs | To surviving coparceners |
+
+#### Significance and Modern Practice
+
+Though numerically smaller than Mitakshara communities, Dayabhaga principles remain highly significant in jurisdictions like West Bengal and Assam. Property disputes in these regions frequently involve interpretation of Dayabhaga succession principles, particularly regarding the determination of shares upon successive deaths and the rights of collateral heirs.
 
 ### 10\. Write a short note on Endowment / Mahant / Devolution of office.
 
-  * *Year:* March/April 2021 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
-  * *Year:* August/September 2024 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
 
 ### 11\. Write a short note on Partial Partition.
 
-  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
+
+#### Definition
+
+Partial partition occurs when only certain members of a joint family separate and receive their shares, while other members continue in the joint family status regarding the remaining property.
+
+#### Characteristics
+
+**1. Incomplete Division:** Not all coparceners separate; some continue joint family relations
+
+**2. Selective Separation:** Specific family members opt out, receive their share, and establish independent status
+
+**3. Continuing Joint Family:** The separating members constitute a new separate group, while non-separating members maintain joint family status
+
+**4. Complex Property Management:** Results in multiple property groups with different legal statuses
+
+#### Legal Consequences
+
+**For Separating Members:**
+- Become individually responsible for their allotted property
+- Cease to bear joint liability for debts incurred after separation
+- Become independent property owners
+
+**For Continuing Members:**
+- Remain subject to joint liability for undivided property
+- Continue to possess coparcenary rights in remaining joint property
+- Maintain joint family customs and practices
+
+#### Practical Scenario
+
+Example: A father with three sons (A, B, C) passes away. Son A demands partition and receives his share. Sons B and C agree to continue as joint family:
+- A becomes separate and independent
+- B and C remain joint regarding their undivided property
+- Pre-partition debts bind all three; post-partition debts bind only B and C (regarding joint property)
+
+#### Legal Framework
+
+Partial partition is recognized under Hindu succession law and can be effected by:
+1. Mutual agreement among separating and continuing members
+2. Court decree in partition suits where some members do not participate
+3. Conduct evidencing partial division
+
+#### Advantages and Disadvantages
+
+**Advantages:**
+- Allows flexibility in family arrangements
+- Some members can pursue independence while others preserve joint structure
+- Reduces family conflict by respecting divergent preferences
+
+**Disadvantages:**
+- Creates complex property and liability situations
+- May lead to disputes regarding property boundaries and debt allocation
+- Complicates succession and taxation planning
 
 ### 12\. Write a note on 'Apratibandha daya'.
 
-  * *Year:* September 2023 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
+
+#### Definition and Etymology
+
+Apratibandha daya derives from Sanskrit: "Apratibandha" meaning unrestricted or unobstructed, and "Daya" meaning inheritance or right of succession. Apratibandha daya refers to a principle of Hindu succession wherein a person's descendants inherit his property without restriction based on lineal limitation, allowing succession through various lines and degrees of relationship.
+
+#### Origin and Historical Development
+
+This concept originated in classical Hindu law as refined through Mitakshara jurisprudence. The principle emerged from the need to allow property to pass through all qualified heirs rather than restricting inheritance to the nearest lineal descendant alone. Over time, courts recognized apratibandha daya as a distinct succession principle ensuring broader distribution of property to all entitled heirs.
+
+#### Principles Underlying Apratibandha Daya
+
+**1. No Lineal Obstruction:**
+Unlike strict lineal succession (where only direct descendants of a specific line can inherit), apratibandha daya allows succession through multiple lines:
+- A grandson through one son can inherit alongside descendants of another son
+- Daughters' descendants can inherit property alongside sons' descendants
+
+**2. Equality of Succession Lines:**
+All qualified descendants, regardless of the intermediate generation through which they claim, have equal rights to succession:
+- A son and grandson are equally eligible to inherit
+- A grandson through one son and grandson through another son receive equal shares
+
+**3. Capacity Basis:**
+Succession is determined by capacity and relationship, not by narrowly restricting to specific degrees:
+- More distant relatives may inherit if closer relatives do not exist or are disqualified
+
+#### Operation in Practice
+
+**Scenario Illustrating Apratibandha Daya:**
+
+Suppose a property holder dies leaving:
+- Son A (living)
+- Grandson B (son of deceased son B)
+- Granddaughter C (daughter of deceased son C)
+- Great-grandson D (son of deceased grandson through deceased son D)
+
+Under apratibandha daya:
+- All four (A, B, C, D) are eligible heirs
+- They do not all receive equal shares (younger generations may receive smaller shares)
+- But all are unrestricted in their eligibility to inherit
+
+#### Application to Coparcenary Property
+
+In the context of coparcenary property:
+- All descendants of a coparcener (sons, grandsons, great-grandsons, and post-2005, daughters and their descendants) can become coparceners
+- They are not restricted by lineal limitation or generational hierarchy
+- Upon a member's death, succession flows to his heirs without obstruction
+
+#### Contrast with Other Succession Principles
+
+**Apratibandha Daya vs. Pratibandha Daya:**
+- Pratibandha daya involves restrictions on succession
+- Apratibandha daya removes such restrictions
+
+**Apratibandha Daya vs. Lineal Succession:**
+- Pure lineal succession restricts to direct line only
+- Apratibandha daya allows collateral lines to succeed if the direct line is exhausted
+
+#### Statutory Recognition
+
+While not explicitly named in the Hindu Succession Act, 1956, the principle is implicitly recognized through:
+- Schedule I provisions allowing succession to all descendants
+- Absence of lineal restrictions in succession orders
+- Recognition of daughters as heirs (particularly post-2005 amendment)
+
+#### Modern Application and Significance
+
+**Contemporary Relevance:**
+- Ensures that property is not concentrated in narrow lineages
+- Allows democratic and equitable distribution among all qualified heirs
+- Particularly significant for families with multiple branches
+
+**Limitations:**
+- Must be distinguished from equal inheritance (shares may differ)
+- Applies primarily to Hindu succession governed by Indian law
+- Subject to statutory limitations and provisions
+
+#### Case Law and Judicial Interpretation
+
+Courts have applied apratibandha daya to ensure:
+- All entitled heirs receive recognition
+- Property succession is not artificially restricted
+- Equitable distribution among qualified descendants
+- Prevention of unintended disinheritance
+
+#### Practical Implications
+
+In property disputes involving succession:
+1. Practitioners must identify all potential heirs under apratibandha daya principles
+2. Share calculation must account for unrestricted lines of succession
+3. Property distribution may involve multiple generations and branches
+4. Documentation and clear family tree are essential
 
 ### 13\. Write a note on Position of Karta.
 
-  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
+
+#### Conceptual Foundation
+
+The position of Karta in Hindu joint family law represents a unique and specialized role combining elements of ownership, trusteeship, management, and family leadership. The Karta is neither a mere agent nor an absolute owner but occupies a distinct fiduciary position recognized and regulated by Hindu personal law.
+
+#### Legal Status of Karta
+
+**1. Not an Owner:**
+The Karta is expressly not the owner of joint family property. He holds the position of manager and representative, with rights derived from his coparcenary interest and managerial authority.
+
+**2. Representative Capacity:**
+The Karta acts on behalf of the joint family in:
+- External dealings and contracts
+- Litigation and legal proceedings
+- Negotiation with third parties
+- Representation before government and other institutions
+
+**3. Fiduciary Nature:**
+Like a trustee, the Karta is bound by fiduciary duties to act in the family's best interest, not for personal benefit. Courts impose strict scrutiny on Karta actions for potential breach of fiduciary duty.
+
+#### Authority and Powers
+
+**Extensive Management Authority:**
+The Karta possesses broad authority over:
+- Day-to-day operations of family property
+- Income collection and expenditure decisions
+- Ordinary repairs and maintenance
+- Agricultural and commercial operations
+
+**Limited Alienation Authority:**
+Regarding alienation (sale, mortgage, pledge):
+- Authority exists for family-benefit purposes
+- Must be proportionate and necessary
+- Cannot be for personal enrichment
+- Requires justification if challenged
+
+#### Responsibilities and Duties
+
+**1. Duty of Care:**
+The Karta must manage property with reasonable prudence. While not required to achieve maximum returns, gross mismanagement can result in removal.
+
+**2. Accounting Obligation:**
+- Must maintain accurate records
+- Must provide detailed accounts upon demand
+- Must disclose all transactions
+- Subject to coparcener scrutiny and audit
+
+**3. Fiduciary Loyalty:**
+- Must act in family interest, not personal interest
+- Must avoid conflicts of interest
+- Must not misappropriate property or income
+- Must ensure fair treatment of all coparceners
+
+**4. Protective Duty:**
+- Must preserve property from loss or deterioration
+- Must prevent unauthorized alienation
+- Must maintain insurance and protections
+- Must ensure property security
+
+#### Determining Karta Status
+
+**Primary Basis:**
+- Eldest male member typically becomes Karta
+- Requires capability and acceptance by family
+
+**Secondary Considerations:**
+- Actual exercise of management functions
+- Family customs and traditions
+- Fitness for the role
+- Consent (implicit or explicit) of other members
+
+#### Limitations on Karta Authority
+
+**Cannot Act Without Limit:**
+- Cannot partition property unilaterally
+- Cannot gift substantial property without justification
+- Cannot waste or destroy property
+- Cannot act against family interest
+
+**Judicial Oversight:**
+- Courts scrutinize allegedly improper Karta actions
+- Can grant injunctions to prevent unauthorized acts
+- Can order restoration of misappropriated property
+- Can remove unfit Kartas
+
+#### Removal of Karta
+
+**Grounds for Removal:**
+1. Gross mismanagement of property
+2. Misappropriation or embezzlement
+3. Persistent refusal to account
+4. Acts manifestly adverse to family interests
+5. Incapacity due to mental illness or advanced age
+6. Breach of fiduciary duty
+
+**Procedure:**
+- Typically initiated by suit filed by coparceners
+- Court examines evidence of unfitness
+- May appoint temporary manager during proceedings
+- Removal is discretionary with the court
+
+#### Succession to Karta Position
+
+**Upon Death or Removal:**
+- Passes to next senior capable member
+- Usually the Karta's eldest son or brother
+- Determined by the same principles as original appointment
+- Acceptance by family members is beneficial but not always necessary
+
+#### Modern Evolution
+
+**Contemporary Trends:**
+- Courts have moved toward limiting Karta's absolute authority
+- Emphasis on democratic decision-making within families
+- Recognition of all coparceners' rights
+- Increased judicial scrutiny of Karta's alienation powers
+
+#### Importance in Practice
+
+Understanding the Karta's position is crucial for:
+- Family members seeking to protect their interests
+- Creditors attempting to enforce claims
+- Third parties contracting with joint families
+- Dispute resolution in family property matters
 
 ### 14\. Write a short note on incidents of coparcenary.
 
-  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
+
+#### Definition
+
+Incidents of coparcenary refer to the bundle of rights, liabilities, and attributes that accompany and are inherent in the status of coparcenary in a joint family. These incidents are automatic consequences of acquiring coparcenary status and define the legal relationship between coparceners and their relationship with the joint property.
+
+#### Primary Incidents of Coparcenary
+
+**1. Right to Partition:**
+
+The most fundamental incident. Every coparcener possesses the inalienable right to demand partition:
+- Can be exercised at any time
+- Does not require justification
+- Cannot be waived or excluded by agreement
+- Recognized as a basic right inherent in coparcenary status
+
+**2. Undivided Interest in Property:**
+
+Before partition, each coparcener possesses:
+- An equal undivided share (in Mitakshara system)
+- Rights enforceable against other coparceners
+- Inability to exclusively claim any specific portion
+- Interest that vests in surviving coparceners upon death (in Mitakshara)
+
+**3. Right to Participate in Profits and Income:**
+
+Coparceners have the right to:
+- Receive share of income from joint property
+- Participate in benefits and returns
+- Claim maintenance from joint property if destitute
+- Benefit from property appreciation
+
+**4. Right of Survivorship (Mitakshara):**
+
+When a coparcener dies before partition:
+- His interest vests in surviving coparceners
+- Does not pass to his heirs
+- Other coparceners acquire larger shares
+- Automatically takes effect without legal proceedings
+
+**5. Joint and Several Liability for Family Debts:**
+
+Coparceners are:
+- Jointly and severally liable for family debts
+- Bound by debts incurred by Karta for family purposes
+- Liable even for debts incurred before their birth
+- Liable even for property held independently (in some circumstances)
+
+**6. Right to Account and Disclosure:**
+
+Every coparcener can:
+- Demand full account of family property
+- Require disclosure of all transactions
+- Challenge improper expenditures
+- Inspect records and property
+
+**7. Right of Management Participation:**
+
+Coparceners possess:
+- Right to be consulted on major decisions
+- Right to challenge improper Karta actions
+- Right to seek judicial intervention
+- Right to collective decision-making authority
+
+**8. Right to Claim Maintenance:**
+
+Coparceners and their dependents can:
+- Claim maintenance from joint property
+- Seek judicial order for maintenance allocation
+- Protect dependents from destitution
+- Prioritize maintenance needs
+
+**9. Incident of Succession to Coparcenary Property:**
+
+Upon death, the property interest is determined by:
+- Succession law applicable to the jurisdiction
+- Nature of the property (ancestral vs. self-acquired)
+- Whether partition has occurred
+- Applicable scheme of inheritance
+
+**10. Immunity from Personal Creditors:**
+
+To some extent:
+- Personal creditors cannot easily attach undivided coparcenary interest
+- Joint property has some protection from individual liabilities
+- Limitations vary by jurisdiction
+- Third parties cannot force partition
+
+#### Rights and Liabilities Compared
+
+**Rights:**
+- To partition
+- To share income
+- To account and disclosure
+- To participate in management
+- To maintenance
+- To survivorship (Mitakshara)
+
+**Liabilities:**
+- Joint liability for family debts
+- Obligation to contribute to family needs
+- Bound by Karta's legitimate acts
+- Accountability to other coparceners
+
+#### Post-2005 Amendment Impact
+
+The Hindu Succession (Amendment) Act, 2005, modified incidents of coparcenary by:
+- Conferring daughter coparcenary rights identical to sons
+- Making daughters subject to same incidents as sons
+- Extending survivorship rights to daughters
+- Creating equal liability and benefit structure
+
+#### Incidents Distinguished from Mere Interest
+
+Incidents are not mere ownership interests but include:
+- Complex bundle of rights and liabilities
+- Fiduciary relationships among coparceners
+- Collective decision-making structures
+- Succession-linked dependencies
+
+#### Practical Significance
+
+Understanding incidents is essential for:
+- Advising family members on their rights
+- Resolving family property disputes
+- Protecting legitimate interests
+- Enforcing rights against other coparceners
+- Understanding succession implications
 
 -----
 
@@ -1147,12 +1672,12 @@ Partition represents the definitive severance of joint family relationships and 
 
 ### 1\. Discuss the rules of succession of a Female Hindu dying intestate.
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 #### Introduction
 
@@ -1203,7 +1728,7 @@ Section 15 of the 2005 amendment made revolutionary changes to female succession
 
 2. **Expanded Property Base**: Daughters can now inherit not merely a female's self-acquired property but also ancestral property traditionally reserved for males.
 
-3. **Retrospective Application**: In *Prakash v. Phulavati* (AIR 2016 SC 149), the Supreme Court held that the amendment applies retrospectively to all daughters alive at the time of amendment, even if born before the amendment. This expanded significantly the class of daughters entitled to succession rights.
+3. **Retrospective Application**: In *Prakash v. Phulavati* (AIR 2016 SC 149), the Supreme Court held that the amendment applies retrospectively to all daughters alive at the time of amendment, even if they were born before the amendment. This expanded significantly the class of daughters entitled to succession rights.
 
 4. **Succession in Own Right**: Daughters now succeed to ancestral property in their own right rather than merely as substitute heirs. This represents a conceptual shift from women as contingent heirs to women as primary heirs.
 
@@ -1259,12 +1784,12 @@ The succession of a female Hindu dying intestate has been fundamentally reformed
 
 ### 2\. Explain the general rules of succession of a Hindu male dying intestate. TODO Review this question with original list
 
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
 
 #### Introduction
 
@@ -1367,71 +1892,71 @@ The succession of property of a male Hindu dying intestate follows a comprehensi
 
 ### 3\. Explain the salient features of Hindu Succession Act, 1956 / Changes introduced by Amendment Act, 2005.
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
 
 ### 4\. Who are class-I heirs? Explain the rules of distribution of property between class-I heirs.
 
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 ### 6 Marks Questions
 
 ### 5\. Write a note on Gift / Gift Deed.
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
-  * *Year:* March 2023 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 ### 6\. Write a short note on Wills.
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
 
 ### 7\. Write a note on "Stridhana".
 
-  * *Year:* December 2019 | *Marks:* 6
-  * *Year:* September 2023 | *Marks:* 6
-  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
 
 ### 8\. Problem: Harish (Male) dies intestate leaving father, mother, two sons and a daughter.
 
-  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
 
 ### 9\. Problem: Mohan Kumar dies in 2020 leaving wife, mother, two daughters, two sons and his father.
 
-  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
 
 ### 10\. Problem: Female owns self-acquired property. Dies leaving mother, father, son, husband and illegitimate daughter.
 
-  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
 
 ### 11\. Problem: Female dies leaving husband, mother, son's son's daughter and daughter's daughter.
 
-  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
 
 ### 12\. Problem: Female dies intestate leaving son, step-son and husband.
 
-  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
 
 ### 13\. Problem: 'X' (Female) dies intestate leaving son, 2 daughters and husband.
 
-  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
 
 ### 14\. Problem: Naresh (Male) dies intestate leaving son, his father and brother.
 
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 ### 15\. Problem: 'X' (Male) dies intestate leaving daughter, adopted son, father and a brother.
 
-  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
 
 ### 16\. Problem: Vijayalaxmi dies intestate leaving illegitimate daughter, son, father and mother.
 
-  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
 
 -----
 
@@ -1441,14 +1966,14 @@ The succession of property of a male Hindu dying intestate follows a comprehensi
 
 ### 1\. Define Adoption. Explain requirements/essentials of valid adoption under Hindu Adoption and Maintenance Act, 1956.
 
-  * *Year:* June 2019 | *Marks:* 10
-  * *Year:* December 2019 | *Marks:* 10
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* September 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 
 #### Introduction
 
@@ -1471,42 +1996,42 @@ The Hindu Adoption and Maintenance Act, 1956, specifies essential requirements t
 2. **Capacity to be Adopted**: An infant or minor below eighteen years of age can be adopted. Persons already adopted cannot be adopted again—once a valid adoption occurs, the adoptee acquires new legal status as the adopted child, and subsequent adoption is void as per Section 12(3).
 
 3. **Consent of Parent/Guardian**: The consent of the natural parent or guardian of the child is essential (Section 9). Specifically:
-   - Consent of both parents is required if alive, unless one parent's whereabouts are unknown or the parent is declared incapable.
-   - If one parent is deceased, the surviving parent's consent is required.
-   - If both parents are deceased, the consent of the legal guardian is required.
-   - Consent must be free, voluntary, and informed.
+   - Consent of both parents is required if alive, unless one parent's whereabouts are unknown or the parent is declared incapable.
+   - If one parent is deceased, the surviving parent's consent is required.
+   - If both parents are deceased, the consent of the legal guardian is required.
+   - Consent must be free, voluntary, and informed.
 
 4. **Capacity to Give Consent**: The person giving consent must have capacity—they must be of sound mind and legally competent to give binding consent. The Supreme Court in *Prem Prakash v. Surendra* (AIR 2008 SC 1428) held that consent procured through fraud, undue influence, or coercion is invalid.
 
 **Requirements Regarding the Adoptive Parents**
 
-1. **Adoptive Father's Capacity**: 
-   - Must be a Hindu by religion (or Sikh, Jain, or Buddhist)
-   - Must be of sound mind (not mentally unsound or incapable of adopting)
-   - Must be domiciled in India (though non-residents can adopt with additional requirements)
-   - Must satisfy the welfare of the child requirements
+1. **Adoptive Father's Capacity**: 
+   - Must be a Hindu by religion (or Sikh, Jain, or Buddhist)
+   - Must be of sound mind (not mentally unsound or incapable of adopting)
+   - Must be domiciled in India (though non-residents can adopt with additional requirements)
+   - Must satisfy the welfare of the child requirements
 
 2. **Marital Status of Male Adopter**:
-   - Section 7 requires that an unmarried Hindu male can adopt with the consent of his parents or guardian if a minor, or independently if major.
-   - A married male must have the written consent of his wife. The Supreme Court in *Mulla v. Rao* held that this requirement protects the wife's interests and ensures family harmony.
+   - Section 7 requires that an unmarried Hindu male can adopt with the consent of his parents or guardian if a minor, or independently if major.
+   - A married male must have the written consent of his wife. The Supreme Court in *Mulla v. Rao* held that this requirement protects the wife's interests and ensures family harmony.
 
 3. **Adoptive Mother's Capacity**:
-   - Must be a Hindu by religion (or Sikh, Jain, or Buddhist)
-   - Must be of sound mind
-   - Must be domiciled in India
-   - Must satisfy welfare requirements
+   - Must be a Hindu by religion (or Sikh, Jain, or Buddhist)
+   - Must be of sound mind
+   - Must be domiciled in India
+   - Must satisfy welfare requirements
 
 4. **Marital Status of Female Adopter**:
-   - An unmarried female can adopt independently if major or with parental consent if minor
-   - A married female adopting must have written consent of her husband
-   - A divorced or separated female can adopt as per Section 8(3)
-   - A widow can adopt independently
+   - An unmarried female can adopt independently if major or with parental consent if minor
+   - A married female adopting must have written consent of her husband
+   - A divorced or separated female can adopt as per Section 8(3)
+   - A widow can adopt independently
 
 5. **Joint Adoption**: Two persons can jointly adopt only if they are married to each other. Joint adoption by unmarried persons is not recognized under Section 10. In *Bhagyavati v. Jagannath* (AIR 2010 SC 1532), the Supreme Court held that joint adoption is available only to spouses, ensuring legitimate family structure for the adoptee.
 
 6. **Prohibition on Certain Adoptions**:
-   - An unmarried male cannot adopt a female infant unless the adoption is made with the written consent of the Chief Judge of the High Court (Section 9). This requirement aims to prevent abuses.
-   - A person with living spouse cannot adopt without spouse's written consent
+   - An unmarried male cannot adopt a female infant unless the adoption is made with the written consent of the Chief Judge of the High Court (Section 9). This requirement aims to prevent abuses.
+   - A person with living spouse cannot adopt without spouse's written consent
 
 **Requirements Regarding the Welfare of the Child**
 
@@ -1521,17 +2046,17 @@ The Hindu Adoption and Maintenance Act, 1956, specifies essential requirements t
 **Procedural Requirements for Valid Adoption**
 
 1. **No Fixed Form Required**: While the Act requires the essential substantive elements, it does not prescribe fixed form for adoption. Adoption can be effected through:
-   - Written deed
-   - Registered deed (advisable for publicity and proof)
-   - Verbal declaration with witnesses (though less advisable)
-   - Conduct establishing adoption
+   - Written deed
+   - Registered deed (advisable for publicity and proof)
+   - Verbal declaration with witnesses (though less advisable)
+   - Conduct establishing adoption
 
 2. **Sanad (Adoption Deed)**: While not mandatory, a written deed (sanad) evidencing adoption is strongly recommended. The deed should specify:
-   - Parties to adoption
-   - Consideration (if any) exchanged
-   - Consent of natural parents/guardians
-   - Consent of adoptive parent's spouse (if required)
-   - Property transferred with the adoptee (if any)
+   - Parties to adoption
+   - Consideration (if any) exchanged
+   - Consent of natural parents/guardians
+   - Consent of adoptive parent's spouse (if required)
+   - Property transferred with the adoptee (if any)
 
 3. **No Registration Requirement**: Under the Hindu Adoption and Maintenance Act, registration of adoption deed with government is not mandatory, though registration with district authorities is sometimes recommended for evidentiary purposes.
 
@@ -1578,12 +2103,12 @@ Adoption represents a comprehensive legal institution enabling creation of paren
 
 ### 2\. Who are the Natural Guardians of a Minor Child and What are their powers/duties?
 
-  * *Year:* March/April 2021 | *Marks:* 10
-  * *Year:* April/May 2022 | *Marks:* 10
-  * *Year:* March 2023 | *Marks:* 10
-  * *Year:* August/September 2024 | *Marks:* 10
-  * *Year:* January/February 2025 | *Marks:* 10
-  * *Year:* June/July 2025 | *Marks:* 10
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* March 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
 #### Introduction
 
 Natural guardianship represents an automatic legal status arising from the family relationship, wherein certain individuals assume responsibility for the welfare, protection, and upbringing of minor children without requiring court appointment. The concept of natural guardian reflects the Hindu legal tradition's recognition that parents and certain other family members possess inherent duties toward minors and should exercise primary guardianship authority. The Hindu Minority and Guardianship Act, 1956, codifies the principles of natural guardianship, specifying who qualifies as natural guardians and the scope of their authority. Understanding natural guardianship requires examination of the categories of natural guardians, their powers and duties, and the limitations imposed on their authority, particularly to protect minor interests.
@@ -1635,26 +2160,26 @@ Historically, the mother would lose guardianship status upon remarriage. However
 **Powers of Natural Guardians**
 
 1. **Guardianship of Person**:
-   - Decisions regarding the minor's residence and household
-   - Decisions regarding the minor's education and career development
-   - Decisions regarding the minor's health and medical treatment
-   - Moral and spiritual upbringing
-   - Decisions regarding the minor's marriage (with limitations)
-   - Disciplinary authority
+   - Decisions regarding the minor's residence and household
+   - Decisions regarding the minor's education and career development
+   - Decisions regarding the minor's health and medical treatment
+   - Moral and spiritual upbringing
+   - Decisions regarding the minor's marriage (with limitations)
+   - Disciplinary authority
 
 2. **Guardianship of Property**:
-   - Management of minor's property
-   - Collection of income from property
-   - Investment of surplus income
-   - Protection of property from loss or damage
-   - Preparation and maintenance of accounts
+   - Management of minor's property
+   - Collection of income from property
+   - Investment of surplus income
+   - Protection of property from loss or damage
+   - Preparation and maintenance of accounts
 
 3. **Duties of Guardians**:
-   - Maintenance and support of the minor
-   - Protection of the minor's interests
-   - Acting in good faith and not abusing guardian status for personal benefit
-   - Avoiding conflicts of interest
-   - Rendering accounts if required by court
+   - Maintenance and support of the minor
+   - Protection of the minor's interests
+   - Acting in good faith and not abusing guardian status for personal benefit
+   - Avoiding conflicts of interest
+   - Rendering accounts if required by court
 
 **Limitations on Natural Guardian's Powers**
 
@@ -1696,67 +2221,66 @@ Natural guardians represent the primary authority for minors' welfare, with auto
 
 ### 3\. When Court may appoint/remove guardian? Explain powers of guardian appointed by court.
 
-  * *Year:* June 2019 | *Marks:* 10
+  * *Year:* June 2019 | *Marks:* 10
 
 ### 4\. "Welfare of the minor is the paramount consideration". Explain.
 
-  * *Year:* December 2019 | *Marks:* 10
+  * *Year:* December 2019 | *Marks:* 10
 
 ### 5\. Explain the salient features of Hindu Minority and Guardianship Act, 1956.
 
-  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
 
 ### 6\. Explain the capacity of a male and female hindu to take in adoption.
 
-  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
 
 ### 6 Marks Questions
 
 ### 7\. Write a note on Dependents / Maintenance of dependents.
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
-  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
 
 ### 8\. Problem: Arundati refuses to live with husband as long as he stayed with parents. Seeks separate residence/maintenance.
 
-  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
 
 ### 9\. Write a note on maintenance of wife / 'A' widow sues father and father-in-law.
 
-  * *Year:* December 2019 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
 
 ### 10\. How Quantum of maintenance determined by the Court?
 
-  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
 
 ### 11\. Problem: Immovable property of Hindu minor sold by father for benefit of minor without Court permission. Is sale valid?
 
-  * *Year:* December 2019 | *Marks:* 6
-  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
 
 ### 12\. Problem: A and B jointly adopts 'C'. / Ajay and Vijay jointly want to adopt.
 
-  * *Year:* March/April 2021 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
 
 ### 13\. Write a short note on Doctrine of relation back.
 
-  * *Year:* March/April 2021 | *Marks:* 6
-  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
 
 ### 14\. Problem: 'A' adopts 'B' who is already adopted by 'C'.
 
-  * *Year:* September 2023 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 ### 15\. Write a note on guardian appointed by the court.
 
-  * *Year:* August/September 2024 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
 
 ### 16\. Write a note on 'Welfare of Minor'.
 
-  * *Year:* June/July 2025 | *Marks:* 6
------
+  * *Year:* June/July 2025 | *Marks:* 6
