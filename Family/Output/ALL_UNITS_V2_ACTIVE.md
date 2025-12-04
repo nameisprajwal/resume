@@ -921,6 +921,7 @@ The grounds available to Hindu wives for dissolution of marriage have undergone 
   * *Year:* March 2023 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
   * *Year:* June/July 2025 | *Marks:* 10
+  
 #### Introduction
 
 The Hindu joint family and co-parcenary represent distinctive institutional arrangements within Hindu civilization that have shaped property relationships, family governance, and succession patterns for millennia. While the terms are sometimes used interchangeably, they possess distinct legal and sociological meanings. The joint family represents the broader social and economic unit organized around collective household management, while co-parcenary denotes the specific property relationships among designated family members regarding ancestral property. Understanding these institutions requires examining their historical evolution, contemporary legal status, and the fundamental differences between them.
@@ -1003,6 +1004,7 @@ The Hindu joint family and co-parcenary represent sophisticated institutional ar
   * *Year:* March/April 2021 | *Marks:* 10
   * *Year:* March 2023 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
+  
 #### Introduction
 
 Partition in Hindu law refers to the division of joint family property among co-parceners, resulting in the severance of the joint family relationship. Partition represents one of the most significant transactions in Hindu family law, converting collective property interests into individual ownership. While partition is an individual co-parcener's fundamental right, the law recognizes circumstances where partitions already effected may be reopened, modified, or set aside. Understanding partition requires examination of its nature, modes, and the circumstances permitting reopening of settled partitions.
