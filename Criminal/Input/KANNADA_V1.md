@@ -1,4 +1,333 @@
-ಪ್ಪಣಿ ಬರೆಯಿರಿ.
+the essentials of the offence of cheating.
+
+* Year: April/May 2022 (Dec. 2021) | Marks: 10
+
+#### 3. Define Theft. Distinguish between Theft and Extortion.
+
+* Year: October/November 2021 | Marks: 10
+
+#### 4. Explain the ingredients of extortion.
+
+* Year: October/November 2021 | Marks: 10
+
+#### 5. Explain Cheating. When does it become cheating by personation?
+
+* Year: March/April 2021 | Marks: 10
+
+#### 6. "In all robbery there is either theft or extortion". Explain.
+
+* Year: March/April 2021 | Marks: 10
+* Year: August/September 2024 | Marks: 10
+
+#### 7. Define criminal breach of trust. Distinguish criminal breach of trust from criminal misappropriation.
+
+* Year: December 2019 | Marks: 10
+
+#### 8. Explain the rules regarding kidnapping. Distinguish kidnapping from abduction.
+
+* Year: December 2019 | Marks: 10
+
+#### 9. What is theft and how does it differ from extortion?
+
+* Year: March/April 2023 (Dec 2022) | Marks: 10
+
+#### 10. Explain the provisions relating to offence of criminal misappropriation of property and criminal breach of trust.
+
+* Year: March/April 2023 (Dec 2022) | Marks: 10
+* Year: June/July 2019 | Marks: 10
+
+#### 11. What is robbery? When does it become dacoity?
+
+* Year: June/July 2019 | Marks: 10
+
+#### 12. Explain the essential elements of the offence of theft. Refer to decided cases.
+
+* Year: January/February 2025 | Marks: 10
+
+#### 13. Define the offence of cheating. Give examples. What do you understand by the term "Cheating by personation"?
+
+* Year: January/February 2025 | Marks: 10
+
+#### 14. Define rape. Discuss its ingredients with recent developments.
+
+* Year: June/July 2025 | Marks: 10
+
+#### 15. Explain the ingredients of the offence of cheating with illustrations.
+
+* Year: August/September 2024 | Marks: 10
+
+### 6 Marks Questions
+
+#### 1. Dacoity.
+
+* Year: April/May 2022 (Dec. 2021) | Marks: 6
+
+#### 2. 'A' knowing certain articles to be not diamonds, dishonestly induces 'B' to lend money. Decide the liability of 'A' with reasons.
+
+* Year: October/November 2021 | Marks: 6
+
+#### 3. 'A' finds a valuable ring, not knowing to whom it belongs. 'A' sold it. Decide the offence committed by 'A'.
+
+* Year: October/November 2021 | Marks: 6
+
+#### 4. 'C' a carrier is entrusted by 'D' with a television to be carried by road. 'C' dishonestly misappropriates the television. What offence that 'C' has committed?
+
+* Year: March/April 2021 | Marks: 6
+
+#### 5. Write a short note on rape.
+
+* Year: December 2019 | Marks: 6
+
+#### 6. Briefly explain dacoity.
+
+* Year: December 2019 | Marks: 6
+
+#### 7. 'Z' had sexual intercourse with 'Y' a minor girl below 16 years of age with her consent. Whether 'Z' has committed any offence? Give reasons.
+
+* Year: March/April 2023 (Dec 2022) | Marks: 6
+
+#### 8. Write a note on 'Stolen Property'.
+
+* Year: March/April 2023 (Dec 2022) | Marks: 6
+
+#### 9. Cheating.
+
+* Year: June/July 2019 | Marks: 6
+
+#### 10. 'A' had sexual intercourse with 'B' a minor girl below 16 years of age with her consent. Whether 'A' has committed any offence? Give reasons.
+
+* Year: June/July 2019 | Marks: 6
+
+#### 11. Extortion.
+
+* Year: January/February 2025 | Marks: 6
+
+#### 12. Criminal breach of trust.
+
+* Year: January/February 2025 | Marks: 6
+
+#### 13. Theft.
+
+* Year: June/July 2025 | Marks: 6
+
+#### 14. 'A' finds a valuable ring, not knowing to whom it belongs. 'A' sold it immediately without attempting to discover the owner. Whether 'A' has committed any offence? Give reasons.
+
+* Year: June/July 2025 | Marks: 6
+
+#### 15. Criminal misappropriation of property.
+
+* Year: August/September 2024 | Marks: 6
+
+#### 16. Receiving of stolen property.
+
+* Year: August/September 2024 | Marks: 6
+
+---
+
+## UNIT V - Offences Related to Documents, Marriage and Defamation
+
+### 10 Marks Questions
+
+#### 1. Explain in brief the offences relating to marriages.
+
+* Year: October/November 2021 | Marks: 10
+
+#### 2. Discuss the offences relating to marriage.
+
+* Year: December 2019 | Marks: 10
+
+#### 3. Explain the essentials of mischief.
+
+* Year: March/April 2023 (Dec 2022) | Marks: 10
+
+#### 4. Explain the ingredients of the offence of mischief.
+
+* Year: June/July 2019 | Marks: 10
+
+#### 5. Discuss the offence of adultery with recent developments.
+
+* Year: June/July 2019 | Marks: 10
+
+#### 6. Explain forgery. When a person is said to have made a false document?
+
+* Year: June/July 2025 | Marks: 10
+
+#### 7. What is criminal trespass? When does it becomes house trespass?
+
+* Year: June/July 2025 | Marks: 10
+
+### 6 Marks Questions
+
+#### 1. 'A' says "I do not believe what 'B' asserted at that trial because I know him to be a man without veracity". Decide "A"'s liability with reasons.
+
+* Year: October/November 2021 | Marks: 6
+
+---
+
+# FILE 3: KANNADA_OUTPUT.md
+
+## ಘಟಕ I - ಭಾರತ ದಂಡ ಸಂಹಿತೆಯ ಪರಿಚಯ
+
+### 10 ಅಂಕಗಳ ಪ್ರಶ್ನೆಗಳು
+
+#### 1. "ಅಪರಾಧ ಮತ್ತು ಶಿಕ್ಷೆ ಒಂದೇ ನಾಣ್ಯದ ಎರಡು ಮುಖಗಳಾಗಿವೆ". ಚರ್ಚಿಸಿರಿ.
+
+* ವರ್ಷ: ಏಪ್ರಿಲ್/ಮೇ 2022 (ಡಿಸೆಂಬರ್ 2021) | ಅಂಕಗಳು: 10
+
+#### 2. ಅಪರಾಧಿಕ ಕಾನೂನಿನಲ್ಲಿ ಅಸಹಜ ವ್ಯಕ್ತಿಗಳ ಬಾಧ್ಯತೆಯನ್ನು ಚರ್ಚಿಸಿರಿ.
+
+* ವರ್ಷ: ಏಪ್ರಿಲ್/ಮೇ 2022 (ಡಿಸೆಂಬರ್ 2021) | ಅಂಕಗಳು: 10
+
+#### 3. ಅಪರಾಧ ಎಂದರೇನು? ಅಪರಾಧ ಮತ್ತು ಅಪಕೃತ್ಯ ಮಧ್ಯ ಇರುವ ವ್ಯತ್ಯಾಸವನ್ನು ವಿವರಿಸಿರಿ.
+
+* ವರ್ಷ: ಅಕ್ಟೋಬರ್/ನವೆಂಬರ್ 2021 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2023 (ಡಿಸೆಂಬರ್ 2022) | ಅಂಕಗಳು: 10
+
+#### 4. ಭಾರತ ದಂಡ ಸಂಹಿತೆಯ ರಾಜ್ಯಕ್ಷೇತ್ರೀಯ ವ್ಯಾಪ್ತಿಯನ್ನು ಅದರ ಅಪವಾದಗಳೊಂದಿಗೆ ವಿವರಿಸಿರಿ.
+
+* ವರ್ಷ: ಅಕ್ಟೋಬರ್/ನವೆಂಬರ್ 2021 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಡಿಸೆಂಬರ್ 2019 | ಅಂಕಗಳು: 10
+
+#### 5. ಭಾರತೀಯ ದಂಡ ಸಂಹಿತೆಯ ಅಡಿಯಲ್ಲಿ ಅಪರಾಧಿಗಳಿಗೆ ನೀಡಬಹುದಾದ ವಿವಿಧ ಶಿಕ್ಷೆಗಳನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2021 | ಅಂಕಗಳು: 10
+
+#### 6. ಭಾರತೀಯ ದಂಡ ಸಂಹಿತೆಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ 'ತಪ್ಪಿತಸ್ಥ ಉದ್ದೇಶ'ದ ಪಾತ್ರವನ್ನು ಚರ್ಚಿಸಿರಿ.
+
+* ವರ್ಷ: ಡಿಸೆಂಬರ್ 2019 | ಅಂಕಗಳು: 10
+
+#### 7. ಒಂದು ಅಪರಾಧದ ಅಂಶಗಳನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2023 (ಡಿಸೆಂಬರ್ 2022) | ಅಂಕಗಳು: 10
+
+#### 8. ಮರಣದಂಡನೆಯ ವಿಶೇಷ ಉಲ್ಲೇಖದೊಂದಿಗೆ ಭಾರತೀಯ ದಂಡಸಂಹಿತೆಯ ಅಡಿಯಲ್ಲಿ ಅಪರಾಧಿಗಳಿಗೆ ನೀಡಬಹುದಾದ ವಿವಿಧ ಶಿಕ್ಷೆಗಳನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2019 | ಅಂಕಗಳು: 10
+
+#### 9. ಅಪರಾಧಿಕ ಮನಸ್ಸು ಎಂದರೇನು? ಶಾಸನೀಯ ಅಪರಾಧಗಳಲ್ಲಿ ಅದರ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2019 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2021 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಜನವರಿ/ಫೆಬ್ರವರಿ 2025 | ಅಂಕಗಳು: 10
+
+#### 10. ಮರಣದಂಡನೆಯನ್ನು "ಅಪರೂಪದಲ್ಲಿ ಅಪರೂಪದ ಪ್ರಕರಣಗಳಲ್ಲಿ ವಿಧಿಸಬೇಕು." ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಜನವರಿ/ಫೆಬ್ರವರಿ 2025 | ಅಂಕಗಳು: 10
+
+#### 11. ಅಪರಾಧದಲ್ಲಿ ಸಂಭಾವ್ಯ ಪಕ್ಷಗಾರರನ್ನು ವಿವರಿಸಿ, ಪಕ್ಷಗಾರರ ಹೊಣೆಗಾರಿಕೆಗಳು ಹೇಗೆ ಭಿನ್ನವಾಗಿರುತ್ತವೆ?
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2025 | ಅಂಕಗಳು: 10
+
+#### 12. ಭಾರತ ದಂಡ ಸಂಹಿತೆಯ ಪ್ರಾದೇಶಿಕ ಮತ್ತು ಪ್ರದೇಶಾತೀತ ವ್ಯಾಪ್ತಿಯ ಬಗ್ಗೆ ವಿಮರ್ಶಾತ್ಮಕವಾಗಿ ಪರಿಶೀಲಿಸಿ.
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2025 | ಅಂಕಗಳು: 10
+
+#### 13. ಅಪರಾಧವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿ ಮತ್ತು ಅಪರಾಧದ ಮುಖ್ಯಾಂಶಗಳನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಆಗಸ್ಟ್/ಸೆಪ್ಟೆಂಬರ್ 2024 | ಅಂಕಗಳು: 10
+
+#### 14. "ಅಪರಾಧಿಕ ಮನಸ್ಸಿನ ಪಾತ್ರವಿಲ್ಲದೆ ಕಾನೂನುಬಾಹಿರ ಕೃತ್ಯ ಜರುಗುವುದಿಲ್ಲ" ಈ ಸಿದ್ಧಾಂತವನ್ನು ಪ್ರಕರಣಗಳ ಸಹಾಯದಿಂದ ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಆಗಸ್ಟ್/ಸೆಪ್ಟೆಂಬರ್ 2024 | ಅಂಕಗಳು: 10
+
+### 6 ಅಂಕಗಳ ಪ್ರಶ್ನೆಗಳು
+
+#### 1. ಅಪರಾಧ ಮತ್ತು ಅಪಕೃತ್ಯಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ.
+
+* ವರ್ಷ: ಏಪ್ರಿಲ್/ಮೇ 2022 (ಡಿಸೆಂಬರ್ 2021) | ಅಂಕಗಳು: 6
+
+#### 2. ಅಪರಾಧಿಕ ಮನಸ್ಸು.
+
+* ವರ್ಷ: ಏಪ್ರಿಲ್/ಮೇ 2022 (ಡಿಸೆಂಬರ್ 2021) | ಅಂಕಗಳು: 6
+
+#### 3. "ಸಾರ್ವಜನಿಕ ಸೇವಕ" ಇದರ ಬಗ್ಗೆ ಲಘು ಟಿಪ್ಪಣಿ ಬರೆಯಿರಿ.
+
+* ವರ್ಷ: ಅಕ್ಟೋಬರ್/ನವೆಂಬರ್ 2021 | ಅಂಕಗಳು: 6
+
+#### 4. "ಏಕಾಂತ ಸೆರೆವಾಸ" ಇದರ ಬಗ್ಗೆ ಲಘು ಟಿಪ್ಪಣಿ ಬರೆಯಿರಿ.
+
+* ವರ್ಷ: ಅಕ್ಟೋಬರ್/ನವೆಂಬರ್ 2021 | ಅಂಕಗಳು: 6
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2025 | ಅಂಕಗಳು: 6
+
+#### 5. ಅಪರಾಧ ಕಲ್ಪನೆ.
+
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2021 | ಅಂಕಗಳು: 6
+
+#### 6. ಏಕೋದ್ದೇಶದ ಬಗ್ಗೆ ಲಘು ಟಿಪ್ಪಣಿ ಬರೆಯಿರಿ.
+
+* ವರ್ಷ: ಡಿಸೆಂಬರ್ 2019 | ಅಂಕಗಳು: 6
+
+#### 7. ಅಪಸಾಮಾನ್ಯ ವ್ಯಕ್ತಿಗಳ ಸಂಬಂಧದ ಟಿಪ್ಪಣಿ ಬರೆಯಿರಿ.
+
+* ವರ್ಷ: ಡಿಸೆಂಬರ್ 2019 | ಅಂಕಗಳು: 6
+
+#### 8. ಅಪರಾಧದಲ್ಲಿ 'ಸಂಭವನೀಯ ಪಕ್ಷಗಾರರ' ಬಗ್ಗೆ ಟಿಪ್ಪಣಿ ಬರೆಯಿರಿ.
+
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2023 (ಡಿಸೆಂಬರ್ 2022) | ಅಂಕಗಳು: 6
+
+#### 9. ಸಮಾನ ಉದ್ದೇಶ ಮತ್ತು ಸಮಾನ ಧೈಯ.
+
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2023 (ಡಿಸೆಂಬರ್ 2022) | ಅಂಕಗಳು: 6
+
+#### 10. ಲೋಕ ನೌಕರ.
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2019 | ಅಂಕಗಳು: 6
+
+#### 11. ಅಪರಾಧದ ಕಲ್ಪನೆ.
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2019 | ಅಂಕಗಳು: 6
+
+#### 12. ಮೊಬಾರಿಕ್ ಅಲಿ ಅಹ್ಮದ್ ವಿ. ಬಾಂಬೆ ರಾಜ್ಯ.
+
+* ವರ್ಷ: ಜನವರಿ/ಫೆಬ್ರವರಿ 2025 | ಅಂಕಗಳು: 6
+
+#### 13. ಆರ್. ವಿ. ಪ್ರಿನ್ಸ್.
+
+* ವರ್ಷ: ಜನವರಿ/ಫೆಬ್ರವರಿ 2025 | ಅಂಕಗಳು: 6
+
+#### 14. ಕಾನೂನಾತ್ಮಕವಾಗಿ ಅಸಮರ್ಥ ವ್ಯಕ್ತಿಗಳು.
+
+* ವರ್ಷ: ಆಗಸ್ಟ್/ಸೆಪ್ಟೆಂಬರ್ 2024 | ಅಂಕಗಳು: 6
+
+---
+
+## ಘಟಕ II - ದುಷ್ಟೇರಣೆ, ಪ್ರಯತ್ನ, ಸಂಚು ಮತ್ತು ಸಾಮಾನ್ಯ ಅಪವಾದಗಳು
+
+### 10 ಅಂಕಗಳ ಪ್ರಶ್ನೆಗಳು
+
+#### 1. ದುಷ್ಟೇರಣೆ (ಅಬೇಟ್‌ಮೆಂಟ್)ಗೆ ಸಂಬಂಧಿಸಿದ ನಿಬಂಧನೆಗಳನ್ನು ಚರ್ಚಿಸಿರಿ.
+
+* ವರ್ಷ: ಏಪ್ರಿಲ್/ಮೇ 2022 (ಡಿಸೆಂಬರ್ 2021) | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಅಕ್ಟೋಬರ್/ನವೆಂಬರ್ 2021 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಡಿಸೆಂಬರ್ 2019 | ಅಂಕಗಳು: 10
+
+#### 2. ಸಾಮಾನ್ಯ ಅಪವಾದಗಳು ಎಂದರೇನು? ದೇಹ ಮತ್ತು ಸ್ವತ್ತಿನ ಖಾಸಗಿ ರಕ್ಷಣೆಯ ಹಕ್ಕನ್ನು ವಿವರಿಸಿರಿ.
+
+* ವರ್ಷ: ಡಿಸೆಂಬರ್ 2019 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2019 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಜನವರಿ/ಫೆಬ್ರವರಿ 2025 | ಅಂಕಗಳು: 10
+
+#### 3. ಭಾರತ ದಂಡ ಸಂಹಿತೆಯಡಿಯಲ್ಲಿ ಇರುವ ಸಾಮಾನ್ಯ ಅಪವಾದಗಳನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಮಾರ್ಚ್/ಏಪ್ರಿಲ್ 2023 (ಡಿಸೆಂಬರ್ 2022) | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಆಗಸ್ಟ್/ಸೆಪ್ಟೆಂಬರ್ 2024 | ಅಂಕಗಳು: 10
+
+#### 4. ದುಷ್ಟೇರಣೆ ಎಂದರೇನು? ದುಷ್ಟೇರಣೆಯ ವಿವಿಧ ಪ್ರಕಾರಗಳನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಜನವರಿ/ಫೆಬ್ರವರಿ 2025 | ಅಂಕಗಳು: 10
+* ವರ್ಷ: ಆಗಸ್ಟ್/ಸೆಪ್ಟೆಂಬರ್ 2024 | ಅಂಕಗಳು: 10
+
+#### 5. ಸಿದ್ಧತೆ ಎಂದರೇನು? ಸಿದ್ಧತೆ ಮತ್ತು ಪ್ರಯತ್ನದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2025 | ಅಂಕಗಳು: 10
+
+#### 6. ಅಪರಾಧಿಕ ಸಂಚಿಗೆ ಸಂಬಂಧಿಸಿದ ಉಪಬಂಧಗಳನ್ನು ವಿವರಿಸಿ.
+
+* ವರ್ಷ: ಜೂನ್/ಜುಲೈ 2025 | ಅಂಕಗಳು: 10
+
+### 6 ಅಂಕಗಳ ಪ್ರಶ್ನೆಗಳು
+
+#### 1. "ಪ್ರಯತ್ನ" ಇದರ ಬಗ್ಗೆ ಲಘು ಟ ಪ್ಪಣಿ ಬರೆಯಿರಿ.
 
 * ವರ್ಷ: ಅಕ್ಟೋಬರ್/ನವೆಂಬರ್ 2021 | ಅಂಕಗಳು: 6
 
