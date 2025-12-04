@@ -387,6 +387,24 @@ Both schools recognize a distinction between ancestral property and self-acquire
 
 The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential traditions within Hindu law that have profoundly influenced legal practice across different regions of India. The Mitakshara's emphasis on coparcenary, lineal succession, and automatic vesting of rights contrasts sharply with the Dayabhaga's emphasis on testamentary disposition, owner authority, and post-mortem succession. While modern statutory codification has attempted to create uniform principles across the entire country, regional variations reflecting these historical schools remain embedded in Indian succession law and personal law. The Supreme Court has consistently affirmed that these schools remain relevant for interpreting provisions of the Hindu Succession Act, 1956, and other Hindu law statutes in regions where they traditionally applied. The distinction between these schools illuminates fundamental philosophical differences regarding the nature of property, family rights, and individual autonomy within Hindu jurisprudential tradition, demonstrating the capacity of Hindu law for sophisticated doctrinal development and regional variation while maintaining coherence around core principles.
 
+### 6\. Explain the sources of Hindu Law (Ancient/Smritis/General).
+
+  * *Year:* March/April 2021 | *Marks:* 10
+  * *Year:* September 2023 | *Marks:* 10
+  * *Year:* August/September 2024 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+  * *Year:* June/July 2025 | *Marks:* 10
+
+### 7\. Discuss the different schools of Hindu Law.
+
+  * *Year:* March/April 2021 | *Marks:* 10
+
+### 8\. "A clear proof of usage/custom will outweigh the written text of the law". Explain/Comment.
+
+  * *Year:* April/May 2022 | *Marks:* 10
+  * *Year:* January/February 2025 | *Marks:* 10
+
+###    TO DO : check these questions from  no.10 to no.18
       
 10. **Explain ancient sources of Hindu Law.**
       * *Year:* March/April 2021 | *Marks:* 10
