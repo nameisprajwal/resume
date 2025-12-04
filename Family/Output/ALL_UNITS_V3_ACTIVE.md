@@ -1104,8 +1104,8 @@ Partition represents the definitive severance of joint family relationships and 
 
 ### 7\. Re-union.
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* March 2023 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* March 2023 | *Marks:* 6
 
 #### Definition and Concept
 
@@ -1159,12 +1159,12 @@ Reunion is rare in modern practice due to changed family dynamics and individual
 
 ### 8\. Problem: Father incurred debt for personal benefit and died. Son has self acquired property. Is son liable to discharge debt?
 
-  * *Year:* June 2019 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* June 2019 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
 
 ### 9\. Write a note on Dayabhaga coparcenary.
 
-  * *Year:* December 2019 | *Marks:* 6
+  * *Year:* December 2019 | *Marks:* 6
 
 #### Introduction
 
@@ -1250,14 +1250,14 @@ Though numerically smaller than Mitakshara communities, Dayabhaga principles rem
 
 ### 10\. Write a short note on Endowment / Mahant / Devolution of office.
 
-  * *Year:* March/April 2021 | *Marks:* 6
-  * *Year:* April/May 2022 | *Marks:* 6
-  * *Year:* August/September 2024 | *Marks:* 6
-  * *Year:* January/February 2025 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* April/May 2022 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* January/February 2025 | *Marks:* 6
 
 ### 11\. Write a short note on Partial Partition.
 
-  * *Year:* March/April 2021 | *Marks:* 6
+  * *Year:* March/April 2021 | *Marks:* 6
 
 #### Definition
 
@@ -1313,8 +1313,8 @@ Partial partition is recognized under Hindu succession law and can be effected b
 
 ### 12\. Write a note on 'Apratibandha daya'.
 
-  * *Year:* September 2023 | *Marks:* 6
-  * *Year:* June/July 2025 | *Marks:* 6
+  * *Year:* September 2023 | *Marks:* 6
+  * *Year:* June/July 2025 | *Marks:* 6
 
 #### Definition and Etymology
 
@@ -1409,7 +1409,7 @@ In property disputes involving succession:
 
 ### 13\. Write a note on Position of Karta.
 
-  * *Year:* September 2023 | *Marks:* 6
+ * *Year:* September 2023 | *Marks:* 6
 
 #### Conceptual Foundation
 
@@ -1537,7 +1537,7 @@ Understanding the Karta's position is crucial for:
 
 ### 14\. Write a short note on incidents of coparcenary.
 
-  * *Year:* August/September 2024 | *Marks:* 6
+  * *Year:* August/September 2024 | *Marks:* 6
 
 #### Definition
 
