@@ -206,8 +206,9 @@ The definition of "Hindu" for purposes of Hindu law encompasses three principal 
       * *Year:* April/May 2022 | *Marks:* 10
 7.  **Who are Hindus? To whom Hindu law are applicable?**
       * *Year:* August/September 2024 | *Marks:* 10
-8.  **Explain the features of a co-parcenary and bring out the rights of a co-parcenary.**
+### 8.  **Explain the features of a co-parcenary and bring out the rights of a co-parcenary.**
       * *Year:* June 2019 | *Marks:* 10
+      
 #### Introduction
 
 Co-parcenary (also written as "coparcenary") represents one of the most distinctive and influential institutions within Hindu law, particularly under the Mitakshara school of jurisprudence. The concept of co-parcenary embodies a unique form of collective property ownership and family governance wherein members of a patrilineal joint family possess simultaneous rights and interests in ancestral property without formal partition. Unlike ordinary co-ownership, which typically arises through contractual arrangement or partition of previously held property, co-parcenary operates as an automatic juridical consequence of blood relationship within the joint family framework. The institution reflects the Hindu legal tradition's recognition that family property transcends individual ownership, vesting instead in a collective entity whose members bear reciprocal rights and duties. The co-parcenary has undergone significant transformation through the Hindu Succession (Amendment) Act, 2005, which extended co-parcenary status to daughters, fundamentally altering the gender-based structure of this traditional institution.
