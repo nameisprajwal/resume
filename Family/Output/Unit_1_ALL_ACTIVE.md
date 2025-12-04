@@ -404,7 +404,7 @@ The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential
   * *Year:* April/May 2022 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
 
-###    TO DO : check these questions from  no.10 to no.18
+###    TO DO TO SELF : check these questions from  no.10 to no.18
       
 10. **Explain ancient sources of Hindu Law.**
       * *Year:* March/April 2021 | *Marks:* 10
