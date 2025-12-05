@@ -3080,7 +3080,7 @@ A coparcener in the Mitakshara system represents a well-defined legal status con
 
 ---
 
-### 8\.: Succession Rules for Female Property Under Hindu Succession Act, 1956
+### 8\.Succession Rules for Female Property Under Hindu Succession Act, 1956
 
 * *Year:* June 2019 | *Marks:* 10
 
