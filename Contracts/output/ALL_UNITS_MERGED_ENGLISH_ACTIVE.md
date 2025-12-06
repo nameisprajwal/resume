@@ -84,7 +84,7 @@ Define Acceptance. Explain the essentials of a valid acceptance / Communications
 * *Year:* June/July 2025 | *Marks:* 10 (Define acceptance; Essentials with illustration)
 * *Year:* December 2019 | *Marks:* 10 (Define acceptance; Effect of acceptance)
 
-# Acceptance under the Indian Contract Act, 1872
+## Acceptance under the Indian Contract Act, 1872
 
 Acceptance is the **assent of the person to whom a proposal is made**, so that the proposal becomes a **promise**, and a **contract** can arise under the Indian Contract Act, 1872.  
 For validity, acceptance must meet certain essentials and must be properly communicated as per **Sections 2(b), 3, 4, 7, and 8** of the Act, clarified by important case law.
@@ -185,7 +185,6 @@ Without communication, there can be **no acceptance** (e.g., *Lalman Shukla v. G
 
 ---
 
-# End of Notes
 
 
 
