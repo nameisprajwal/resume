@@ -10,6 +10,7 @@ The Input Data below contains examination questions in Markdown format.
 ***OUTPUT REQUIREMENTS***
 For each question, perform a deep search (Deep Research mode) for relevant statutes, leading case laws, and academic commentaries.
 **CRITICAL:** Generate the entire output inside a single **COPYABLE MARKDOWN CODE BLOCK** for easy export.
+Give downloadable markdown file
 
 ***SECTION 1: THEORETICAL QUESTIONS***
 (Target Depth: Equivalent to 3 PDF pages / ~1,200+ words per answer)
