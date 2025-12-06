@@ -296,6 +296,7 @@ Under the present legal regime, co-parceners possess the following rights:
 Co-parcenary represents a distinctive institution within Hindu law embodying principles of collective ownership, mutual obligation, and lineal succession. The traditional institution, confined to male members, was characterized by the right of survivorship, an automatic vesting of rights through birth, and restrictions on alienation. The Hindu Succession (Amendment) Act, 2005, has modernized this institution by extending equal co-parcenary status to daughters, thereby eliminating gender-based discrimination while preserving the essential characteristics of the co-parcenary institution. The contemporary co-parcenary reflects a synthesis of ancient Hindu legal principles with modern constitutional values of equality and non-discrimination. The rights of co-parceners today encompass the right to partition, succession, management, and alienation, exercised within the framework of family obligations and collective welfare. This evolution demonstrates the capacity of Hindu law institutions to adapt to changing social values while remaining grounded in foundational principles of family, lineage, and dharmic obligation.
 
 ---  
+
 ### 5\. Distinguish between Mitakshara and Dayabhaga Schools of Hindu Law.
 
   * *Year:* June 2019 | *Marks:* 6 (Note: Also appeared as 6 marks)
@@ -517,7 +518,7 @@ One of the most significant applications of "Hindu by birth" status is in succes
 
 ---
 
-### 4. Write a note on Mitakshara School. TODO Review Two Versions
+### 4. Write a note on Mitakshara School.  
 * *Year:* March 2023 | *Marks:* 6
 * *Year:* August/September 2024 | *Marks:* 6
 * *Year:* January/February 2025 | *Marks:* 6
@@ -1253,6 +1254,7 @@ Section 13B(1) Hindu Marriage Act: Parties must live separately for "one year or
 Alternative remedies unavailable: Contested divorce grounds (Section 13) require cruelty/adultery (impossible in three months); void/voidable marriage grounds (Sections 11-12) inapplicable absent constitutional defects. Judicial separation (Section 10) available but requires fault grounds.
 
 **Judgment:** Petition premature; must wait until July 2019 for Section 13B eligibility .
+
 ---
 
 ### 11\. Write a note on Dowry (Customary practices/Legislative provisions).
@@ -1385,7 +1387,7 @@ Restitution of conjugal rights constitutes a matrimonial relief reflecting Hindu
 
 -----
 
-\<a name="unit-iii"\>\</a\>
+
 
 ## UNIT III - Joint Family, Coparcenary & Partition
 
@@ -2862,6 +2864,7 @@ The amendment has resulted in:
 Coparcenary represents a sophisticated legal institution balancing individual rights with family collective interests. The features of coparcenary—acquisition by birth, undivided ownership, survivorship, and equality of rights—create a unique property relationship distinct from all Western legal categories. The rights of coparceners, significantly expanded by the 2005 amendment to include daughters as equal participants, reflect modern constitutional values while maintaining the institutional integrity of ancestral property succession. Understanding these features and rights is essential for navigating Hindu succession law and family property disputes.
 
 ---
+
 ### 7\.. Who is a coparcener? Enumerate his rights in a Mitakshara joint family. 
 
   * *Year:* January/February 2025 | *Marks:* 10
@@ -3947,6 +3950,7 @@ Understanding incidents is essential for:
 - Understanding succession implications
 
 -----
+
 ### 15. Re-union.
 
 * *Year:* March 2023 | *Marks:* 6
@@ -4586,6 +4590,7 @@ In property disputes involving succession:
 4. Documentation and clear family tree are essential
 
 ---
+
 -----
 
 ## UNIT IV - Succession & Inheritance
@@ -4706,7 +4711,7 @@ The succession of a female Hindu dying intestate has been fundamentally reformed
 
 
 
-### 2\. Explain the general rules of succession of a Hindu male dying intestate. TODO Review this question with original list
+### 2\. Explain the general rules of succession of a Hindu male dying intestate. 
 
   * *Year:* December 2019 | *Marks:* 10
   * *Year:* March/April 2021 | *Marks:* 10
