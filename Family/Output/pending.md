@@ -5,9 +5,9 @@
   * *Year:* January/February 2025 | *Marks:* 10
 
 
-### 4\. Explain the changes brought by the Hindu Marriage (Amendment) Act, 1976 to the Hindu Law.
-
+### 4\. Explain the changes brought by the Hindu Marriage (Amendment) Act, 1976 to the Hindu Law. 
   * *Year:* December 2019 | *Marks:* 10
+
 
 ### 5\. Explain the essential conditions of a valid marriage.
 
@@ -26,7 +26,7 @@
 
 ### 6 Marks Questions
 
-### 7\. Write a note on Marriage Ceremonies.
+### 7\. Restitution of Conjugal Rights under Section 9.
 
   * *Year:* March 2023 | *Marks:* 6
   * *Year:* June/July 2025 | *Marks:* 6
