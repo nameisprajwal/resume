@@ -387,7 +387,7 @@ Both schools recognize a distinction between ancestral property and self-acquire
 
 The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential traditions within Hindu law that have profoundly influenced legal practice across different regions of India. The Mitakshara's emphasis on coparcenary, lineal succession, and automatic vesting of rights contrasts sharply with the Dayabhaga's emphasis on testamentary disposition, owner authority, and post-mortem succession. While modern statutory codification has attempted to create uniform principles across the entire country, regional variations reflecting these historical schools remain embedded in Indian succession law and personal law. The Supreme Court has consistently affirmed that these schools remain relevant for interpreting provisions of the Hindu Succession Act, 1956, and other Hindu law statutes in regions where they traditionally applied. The distinction between these schools illuminates fundamental philosophical differences regarding the nature of property, family rights, and individual autonomy within Hindu jurisprudential tradition, demonstrating the capacity of Hindu law for sophisticated doctrinal development and regional variation while maintaining coherence around core principles.
 
-### 6\. Explain the sources of Hindu Law (Ancient/Smritis/General).
+### 6\. Explain the sources of Hindu Law (Ancient/Smritis/General). - REPEATED
 
   * *Year:* March/April 2021 | *Marks:* 10
   * *Year:* September 2023 | *Marks:* 10
@@ -395,7 +395,7 @@ The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential
   * *Year:* January/February 2025 | *Marks:* 10
   * *Year:* June/July 2025 | *Marks:* 10
 
-### 7\. Discuss the different schools of Hindu Law.
+### 7\. Discuss the different schools of Hindu Law. - REPEATED
 
   * *Year:* March/April 2021 | *Marks:* 10
 
@@ -403,8 +403,8 @@ The Mitakshara and Dayabhaga schools represent two sophisticated jurisprudential
 
   * *Year:* April/May 2022 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
-
-###    TODO TO SELF : check these questions from  no.10 to no.18
+ 
+###   The below questions have the same answers as Above.
       
 10. **Explain ancient sources of Hindu Law.**
       * *Year:* March/April 2021 | *Marks:* 10
@@ -614,7 +614,7 @@ Custom constitutes a valid source of Hindu law, though subordinate to Shruti, Sm
 
 ---
 
-### Q. Write a short note on Conversion. TODO : REVIEW IF SAME AS Q7.
+### 10. Write a short note on Conversion. (SAME AS Q7.)
 
 **Definition and Legal Mechanism**
 
@@ -877,7 +877,7 @@ The grounds available to Hindu wives for dissolution of marriage have undergone 
   * *Year:* January/February 2025 | *Marks:* 6
   * *Year:* June/July 2025 | *Marks:* 6
 
-### 9\. Write a note on Void/Voidable Marriages.
+### 9\. Write a note on Void/Voidable Marriages. - REPEATED
 
   * *Year:* June 2019 | *Marks:* 6
   * *Year:* December 2019 | *Marks:* 6
@@ -919,13 +919,11 @@ The grounds available to Hindu wives for dissolution of marriage have undergone 
 
 ### 10 Marks Questions
 
-### 1\. Discuss the features of Hindu Joint Family and Coparcenary (and rights of coparcener). TODO PICK A VERSION
+### 1\. Discuss the features of Hindu Joint Family and Coparcenary (and rights of coparcener). 
 
   * *Year:* March 2023 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
   * *Year:* June/July 2025 | *Marks:* 10
-
-### VERSION-A  
 
 #### Introduction
 
@@ -1000,78 +998,16 @@ Modern statutory law, particularly the Hindu Succession Act, 1956, has substanti
 
 The Hindu joint family and co-parcenary represent sophisticated institutional arrangements reflecting Hindu civilization's particular approach to kinship, property, and family governance. While distinct—one encompassing comprehensive social organization and the other addressing specific property rights—they are mutually reinforcing institutions. The features of joint family organization (collective management, reciprocal obligations, multigenerational composition) provide the context within which co-parcenary operates. Contemporary law has substantially regulated these institutions while preserving their essential character, though significant modernization (particularly through the 2005 amendment extending co-parcenary to daughters) has altered their gendered dynamics. These institutions continue to influence Hindu family law practice despite increasing statutory codification, demonstrating the enduring relevance of traditional organizational forms within the modern legal system.
 
-### VERSION-B
-
-#### Introduction
-
-The Hindu Joint Family and Coparcenary Family represent fundamental concepts in Hindu personal law, embodying centuries of legal evolution and social organization within the Hindu community. These institutions, though interconnected, possess distinct characteristics that define property relationships, succession rights, and familial obligations. The joint family system is rooted in the concept of unity of estate and personality, wherein members are bound by ties of blood and common ancestry. The coparcenary, meanwhile, represents the narrower category of those who have a legal share in the ancestral property and right to demand partition. Understanding these institutions is crucial for comprehending Hindu succession law, as codified under the Hindu Succession Act, 1956, and their cultural significance in Hindu jurisprudence.
-
-#### Main Body
-
-**Concept and Nature of Hindu Joint Family:**
-
-A Hindu joint family is a group of persons all descended from a common male ancestor and living together in the same household, deriving their income from the common property of the family. The essential characteristic of a joint family is the community of estate and community of residence. However, the Supreme Court in *Ramkumar v. Ramachandra* has clarified that mere community of residence is not essential; what matters is the legal relationship arising from common descent and common interest in property.
-
-The joint family property includes ancestral property—that which is inherited from father, grandfather, or great-grandfather—and is distinguished from self-acquired property obtained through an individual member's efforts or resources. Under the Hindu Succession Act, 1956, ancestral property encompasses coparcenary property in the case of succession through a son, grandson, or great-grandson. The doctrine of **pious obligation**, established through *Shama Rao v. Venkatrama Rao*, constitutes another fundamental feature wherein male members of the family are bound to discharge the debts of the family head incurred on behalf of the family.
-
-**Key Features of Hindu Joint Family:**
-
-1. **Common Ancestry:** Members must be descended from a common progenitor, typically through the male line.
-
-2. **Community of Estate:** The family possesses undivided property, with no individual member having a defined share until partition.
-
-3. **Joint Liability:** Members are jointly and severally liable for family debts, particularly those incurred by the Karta for family purposes.
-
-4. **Subordination to Karta:** The eldest male member (Karta) exercises control and management of family property and affairs, with other members owing obedience.
-
-5. **Right to Partition:** Any member can demand partition at any time, which is an inalienable right established in *Kesava Dutt v. Diwan Chand*.
-
-6. **Survivorship:** Upon the death of a member, his interest vests in the remaining coparceners by survivorship, not in his heirs.
-
-**Coparcenary Family—Definition and Features:**
-
-Coparcenary refers to the aggregate of male members of the family who have the right to demand partition in the ancestral property. Under classical Hindu law, particularly the Mitakshara school (which governs most of India except parts of Karnataka, Tamil Nadu, and Telangana), a person acquires coparcenary rights by birth. Prior to the Hindu Succession (Amendment) Act, 2005, coparcenary was limited to male members of the family up to three degrees from the family head.
-
-**Characteristics of Coparcenary:**
-
-1. **Limited Membership:** Restricted to those within a specific degree of relationship who have rights in the property.
-
-2. **Right by Birth:** A male child acquires coparcenary rights by mere birth in a joint family, without requiring registration or any formal act.
-
-3. **Automatic Succession:** Upon the death of a coparcener, his interest passes to other surviving coparceners, not to his heirs, unless partition has occurred.
-
-4. **Equality of Rights:** In the absence of partition, all coparceners have equal rights and equal management powers, though the Karta retains practical control.
-
-5. **Property Specific:** Coparcenary is attached to ancestral property; self-acquired property does not pass to coparceners.
-
-**Post-2005 Amendment:** The Hindu Succession (Amendment) Act, 2005, extended coparcenary rights to daughters, creating what is termed the "Daughter Coparcener." Section 6 was amended to provide that daughters shall be deemed coparceners in the same manner as sons, giving them equal rights in ancestral property from birth.
-
-**Distinction Between Joint Family and Coparcenary:**
-
-While often used interchangeably, these concepts differ significantly:
-
-| Aspect | Joint Family | Coparcenary |
-|--------|-------------|-------------|
-| Scope | Broader; includes all members living together | Narrower; only those with property rights |
-| Relationship | Based on blood and residence | Based on property interest |
-| Number | Can extend beyond three generations | Limited by degrees of relationship |
-| Rights | Members owe obedience to Karta | Coparceners have equal property rights |
-
-#### Conclusion
-
-The Hindu joint family and coparcenary systems represent evolved mechanisms for managing family property and succession within Hindu society. While the joint family is a social unit based on common residence and descent, coparcenary specifically addresses the proprietary rights in ancestral property. The 2005 amendment democratized coparcenary rights by including daughters, aligning the law with contemporary constitutional values of equality. These institutions continue to govern significant portions of property relationships in Hindu families and remain essential for comprehending the Hindu Succession Act, 1956.
 
 ---
 
 
-### 2\. What is Partition? When can Partition be re-opened? TODO PICK A VERSION
+### 2\. What is Partition? When can Partition be re-opened? 
 
   * *Year:* June 2019 | *Marks:* 10
   * *Year:* March/April 2021 | *Marks:* 10
   * *Year:* March 2023 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
-
-### VERSION A
   
 #### Introduction
 
@@ -1137,317 +1073,6 @@ Related to reopening of partition is the concept of "reunion"—restoration of t
 
 Partition represents the definitive severance of joint family relationships and conversion of collective property interests into individual ownership. While partition is ordinarily final and binding, the law recognizes important exceptions permitting reopening when fraud, undue influence, concealment, or other fundamental defects are proven. The circumstances permitting reopening reflect the law's recognition that partition, despite its presumed finality, cannot be utilized to perpetuate inequity or circumvent justice. The temporal limitations on reopening reflect the competing principle that certainty and finality in property transactions serve important social interests. The framework governing reopening of partitions thus represents a balance between the principles of finality and justice in family property matters.
 
-### VERSION B
-
-#### Introduction
-
-Partition is one of the most significant processes in Hindu family law, representing the formal or informal division of joint family property among coparceners, conferring individual ownership rights in previously undivided property. The concept of partition, though ancient in Hindu jurisprudence, has been substantially refined through judicial interpretation and statutory codification. The Hindu Succession Act, 1956, does not explicitly define partition but acknowledges its importance in Section 18, which deals with succession to property of a coparcener. The right to partition is considered an inalienable right of coparceners, as established in landmark cases like *Kesava Dutt v. Diwan Chand*, and forms a cornerstone of Hindu personal law. Understanding partition is crucial not only for property succession but also for understanding the transformation from undivided to divided family status.
-
-#### Main Body
-
-**Definition and Nature of Partition:**
-
-Partition, in its technical sense, refers to the division of joint family property among coparceners, with each member obtaining definite shares and exclusive possession thereof. It is a process that terminates the status of a joint family and converts it into a separated family. Justice B.K. Mukerji, in *Suryavati Devi v. Chandramani*, defined partition as "the severance of the status of joint family with its concomitant burden of joint liability and joint rights."
-
-There are essentially three types of partition:
-
-1. **Mancipatory Partition:** Effected by transfer, sale, or exchange of property.
-
-2. **Notional Partition:** Effected through deed, agreement, or court order, without actual exchange of possession.
-
-3. **Partial Partition:** Where only certain members separate while others continue joint family status.
-
-**Methods and Modes of Partition:**
-
-According to classical Hindu law and settled judicial precedent, partition can be effected through:
-
-1. **By Agreement:** The most common method, where coparceners mutually agree on division of property. Such partition deed must be specific, free from fraud, and capable of being executed. In *Jaggadamba v. Ananda*, the court held that partition by agreement is valid even if terms are unequal, provided it was done freely.
-
-2. **By Suit:** When agreement fails, any coparcener can institute a suit for partition, claiming his rightful share.
-
-3. **By Will:** A deceased member can make testamentary provisions regarding his share, though this does not partition the joint property until after succession.
-
-4. **By Adverse Possession:** If a coparcener exclusively possesses a portion of property and has severed relations with the joint family, partition may be deemed effected.
-
-5. **By Involuntary Partition:** Where court orders partition in suits involving creditors or creditor-family disputes.
-
-**Modes of Determining Shares in Partition:**
-
-**In Mitakshara System:**
-- Each coparcener receives an equal share in the ancestral property, regardless of degree of relationship.
-- For example, if property is divided among three coparceners, each gets one-third.
-- However, the Karta receives no preferential share merely by virtue of his position.
-
-**In Dayabhaga System:**
-- Succession follows lineal descent, and shares are calculated differently.
-- The legal heirs of a predeceased coparcener are entitled to his share.
-- Children and grandchildren receive shares based on their respective lines of descent.
-
-**Post-2005 Amendment Implications:**
-With daughters now being treated as coparceners, the share distribution in partition has changed significantly. In a scenario where both sons and daughters exist, all children (sons and daughters) have equal rights to ancestral property. This aligns with the principle of gender equality embedded in the Constitution.
-
-**Reunion After Partition:**
-
-Reunion refers to the reconstitution of the joint family status after partition has once occurred. According to Section 3 of the Hindu Succession Act, 1956, the property of a coparcener devolves according to the act, but reunion can occur if separated members voluntarily decide to pool their property and resources again. However, reunion does not automatically restore coparcenary status; it merely creates a new joint family.
-
-**When Can Partition Be Re-opened?**
-
-The question of reopening partition is of immense practical importance. According to settled precedent, a partition that has been validly effected generally cannot be reopened except under specific circumstances:
-
-1. **Fraud or Coercion:** If a partition was procured through fraud, duress, or undue influence, it can be set aside under general principles of contract law. In *Kuppuswami v. Rangammal*, the court set aside partition effected through fraudulent misrepresentation.
-
-2. **Mistake of Fact:** If there was a material mistake regarding the quantum of property or identity of shares, and this mistake was fundamental to the partition, courts may set aside the partition. However, mere mistakes of calculation can be rectified without reopening the entire partition.
-
-3. **Omitted Property:** If property was omitted from partition through no fault of the parties, it remains joint property, and fresh partition may be necessary. In *Hemkara v. Mohan*, it was held that omitted property does not become the exclusive property of any member.
-
-4. **Minority or Incapacity:** If a coparcener was a minor or suffered from incapacity at the time of partition, and did not ratify it upon attaining majority, the partition may be challenged. Section 3 of the Limitation Act provides that the period of limitation for suits regarding partition is twelve years.
-
-5. **Subsequent Birth:** If a child is born after partition to a separated member, and the partition did not account for such contingency, reopening may be necessary to ensure the newborn receives rightful share.
-
-6. **If Partition is Void Ab Initio:** If the partition was void from the beginning (e.g., effected in violation of statutory requirements), it can be disregarded.
-
-**Judicial Principles:**
-
-The Supreme Court in *Khimji v. Gulam Hussain* established that courts are reluctant to reopen partition as it disturbs settled titles and creates fresh litigation. However, courts will intervene when fundamental justice requires. The burden of proof lies on the party seeking to reopen partition to establish one of the grounds mentioned above. Once partition is acted upon for a considerable period and third parties have acquired interests, reopening becomes extremely difficult.
-
-#### Conclusion
-
-Partition represents a critical juncture in the life of a joint family, converting communal property interests into individual ownership. While it is an inalienable right of coparceners, the law also provides safeguards against frivolous reopening to ensure stability of titles. The grounds for reopening partition are strictly construed and require clear proof of circumstances that would render the earlier partition inequitable or invalid. Understanding partition law is essential for practitioners dealing with succession disputes and family property matters.
-
-### VERSION C
-
-#### Introduction
-
-Partition represents a critical event in the lifecycle of a Hindu joint family, marking the transformation from communal to individual property ownership. While the conceptual understanding of partition is fundamental, the procedural process through which it occurs—whether through agreement, judicial decree, or other means—is equally important for practitioners and litigants. The question of reopening partition addresses situations where the concluded division requires reconsideration due to fraud, mistake, or changed circumstances. Both aspects require detailed examination within the context of statutory law, judicial precedent, and equitable principles. The Hindu Succession Act, 1956, while not exhaustively codifying partition procedures, provides the framework within which such processes operate.
-
-#### Main Body
-
-**The Process of Partition:**
-
-**Stage 1: Initiation of Partition**
-
-Partition may be initiated in several ways:
-
-**A. Informal Commencement:**
-- By notice from one coparcener to others, expressing intention to partition
-- By mutual discussion and agreement among coparceners
-- By written communication expressing desire to separate
-
-**B. Formal Legal Commencement:**
-- By filing a suit for partition when agreement cannot be reached
-- By presenting a partition petition to the court
-- By formal deed of partition prepared by advocates or notaries
-
-**Stage 2: Determination of Shares**
-
-Once partition is initiated, shares must be determined based on the applicable legal system:
-
-**In Mitakshara System (Applicable to Most of India):**
-- Each coparcener receives an equal share
-- Number of shares = number of coparceners
-- Each share = 1/number of coparceners
-- Post-2005 Amendment: Daughters are equal coparceners and receive equal shares
-
-**Example:** In a joint family with father, two sons, and two daughters (post-2005), property is divided into 5 equal parts, with each receiving 20%.
-
-**In Dayabhaga System (Bengal and Assam):**
-- Shares are calculated based on lineal succession
-- Heirs of predeceased coparceners inherit their ancestor's share
-- More complex calculation based on lines of descent
-
-**Stage 3: Negotiation and Agreement**
-
-If partition is voluntary, coparceners negotiate:
-- Who receives which specific properties
-- Adjustment of values (if shares are unequal in value but equal in quantum)
-- Division of liabilities and debts
-- Custody of family documents and records
-
-**Stage 4: Partition Deed Preparation**
-
-If parties reach agreement, a partition deed is prepared containing:
-
-- Names and descriptions of all coparceners and their shares
-- Detailed description of properties being partitioned
-- Specific allotment to each coparcener
-- Provisions regarding liabilities and debts
-- Declaration that partition has been effected
-- Signatures of all parties and attestation by witnesses
-- Date of partition
-
-**Stage 5: Registration and Documentation**
-
-- The partition deed should be registered under the Registration Act, 1908, in the jurisdiction where the property is situated
-- Each party should obtain certified copies
-- Mutation of property records should be applied for in the revenue department
-- Bank accounts, investments, and other assets should be divided accordingly
-- Insurance policies should be transferred or modified as appropriate
-
-**Stage 6: Transmission of Properties**
-
-After partition:
-- Each coparcener holds his allotted property exclusively
-- Joint liability ceases (except regarding pre-partition debts, discussed below)
-- Each party becomes individually responsible for their properties
-- Rights of survivorship cease
-
-**Stage 7: Legal Suit for Partition (If Agreement Fails)**
-
-If voluntary agreement is impossible, a suit for partition is filed:
-
-**Jurisdiction:** The suit should be filed in the court having jurisdiction over the joint family property.
-
-**Pleadings:** The plaintiff states:
-- Detailed description of joint family property
-- Shares claimed by each member
-- Request for partition and separate possession
-
-**Relief Sought:**
-- Declaration that plaintiff has a right to partition
-- Partition of properties
-- Award of specific properties in satisfaction of plaintiff's share
-- Appointment of a receiver if necessary
-- Separate possession after partition
-
-**Court Proceedings:**
-- Issues are framed regarding rightful shares and nature of property
-- Evidence is heard regarding property, relationships, and family status
-- Court may appoint commissioners to survey and measure property
-- Court determines shares and allots specific properties
-
-**Stage 8: Judicial Decree and Execution**
-
-The court passes a decree specifying:
-- That partition is effected
-- The shares of each coparcener
-- Specific properties allotted to each
-- Directions regarding execution
-- Costs allocation
-
-The decree is then executed through:
-- Issuance of execution petitions
-- Taking possession of properties
-- Registration of transfer deeds
-- Mutation of revenue records
-
-**Stage 9: Settlement of Liabilities**
-
-Upon partition:
-
-**Pre-Partition Debts:**
-- Family debts incurred during joint family period remain binding on all members
-- However, each member is liable for his share of family debt only
-- Separate property of coparceners may be attached for family debts if joint property is insufficient
-
-**Post-Partition Debts:**
-- Each member is liable only for debts incurred by or against himself
-- Creditors cannot pursue other coparceners for debts incurred after separation
-
-**Stage 10: Re-Union Possibility**
-
-After partition, if separated members decide to re-enter joint family status:
-- They may execute a reunion deed
-- This reconstitutes the joint family, though with consequences for taxation and succession
-- However, reunion is not automatic; clear agreement is necessary
-
-**Reopening of Partition:**
-
-**General Principle:**
-Partitions, once validly effected and acted upon, are generally final and not reopened. This principle is grounded in the need for certainty and finality in property rights.
-
-**Grounds for Reopening Partition:**
-
-**1. Fraud and Misrepresentation:**
-
-If partition was procured through:
-- False statements regarding quantum of property
-- Deliberate concealment of assets
-- Deception regarding debts or liabilities
-- Coercion or intimidation
-
-The court may set aside the partition. In *Kuppuswami v. Rangammal*, the court held that fraud is a sufficient ground for reopening even after considerable time has passed.
-
-**Requirement:** The party challenging must prove fraud by clear and convincing evidence; suspicion is insufficient.
-
-**Limitation:** Fraud must be such as would vitiate the partition itself, not merely concerning incidental terms.
-
-**2. Fundamental Mistake:**
-
-Partition can be reopened if there was a material mistake regarding:
-- The existence of property (e.g., property thought not to exist was later discovered)
-- Identity of property (wrong property was included)
-- Quantum of shares (gross miscalculation of entitlements)
-- Status of coparceners (e.g., omission of a coparcener)
-
-In *Hemkara v. Mohan*, the court held that a material mistake going to the root of partition could justify reopening.
-
-**Requirement:** The mistake must be:
-- Not negligent on the part of the challenger
-- Fundamental to the partition
-- Not discoverable through reasonable diligence
-- Operative on the minds of parties
-
-**3. Omitted Property:**
-
-If property that formed part of the joint family was omitted from partition, it remains joint property. The omitted property must be partitioned afresh among coparceners. This is distinct from reopening the original partition.
-
-In *Bisheswar v. Hemkari*, the court held that omitted property can be subjected to fresh partition even decades after the original partition.
-
-**Process:** The omitted property is identified and divided according to the principles of partition (equal shares in Mitakshara system). This may necessitate fresh adjustment among coparceners.
-
-**4. Subsequent Birth:**
-
-If a child is born to a coparcener after partition:
-- The child is not bound by the previous partition (as he was not a party)
-- He has a right to reopen partition and claim his share
-- However, this right is limited and may be subject to time restrictions
-
-In *Radhakanta v. Gouri*, it was held that a posthumous child can challenge partition if his interest is affected.
-
-**Limitation:** The child must file his suit within prescribed limitation period (typically 12 years from his claim arising).
-
-**5. Invalidity of Original Partition:**
-
-If the original partition was void ab initio due to:
-- Violation of statutory provisions
-- Participation of a person without capacity (e.g., partition of a minor's share without court sanction)
-- Violation of coparcener's basic rights
-
-The partition can be disregarded. However, courts are reluctant to find partitions void unless there is clear violation of law.
-
-**6. Change of Circumstances:**
-
-If circumstances have changed substantially since partition (e.g., discovery of hidden liabilities, changes in law affecting share calculation), courts may intervene. However, mere hardship or regret is insufficient.
-
-**7. Unconscionable Conduct After Partition:**
-
-If one party acted in a manner that undermines the fairness of partition (e.g., secretly removing assets, misrepresenting value), the other party may seek reopening.
-
-**Limitations on Reopening Partition:**
-
-1. **Limitation Period:** Generally, 12 years from the date of partition (under Limitation Act, 1963).
-
-2. **Finality:** Courts are reluctant to disturb settled titles. The doctrine of res judicata applies to judicial partitions.
-
-3. **Third-Party Rights:** If third parties have acquired interests in the property after partition (e.g., purchased from a coparcener), reopening becomes difficult.
-
-4. **Estoppel:** If a coparcener accepted benefits under the partition or acted consistently with it for a long period, he may be estopped from challenging it.
-
-5. **Acquiescence:** Silence or inaction for an extended period may preclude challenge.
-
-**Procedure for Reopening:**
-
-- A fresh suit must be filed alleging the ground for reopening
-- The burden of proof lies on the party seeking reopening
-- Evidence must be led to establish the ground
-- If successful, the court may order fresh partition or appropriate relief
-
-#### Conclusion
-
-The process of partition encompasses multiple stages, from voluntary agreement to judicial determination, each with distinct procedural requirements. While partitions are generally final to ensure property certainty, limited grounds for reopening exist to prevent injustice caused by fraud, fundamental mistakes, or altered circumstances. Modern courts balance the principle of finality with equitable considerations, intervening only when compelling grounds warrant disturbance of settled titles.
-
----
-
 ---
 
 ### 3\. Who is Karta? Discuss his position, duties, and powers (including alienation).
@@ -1457,7 +1082,7 @@ The process of partition encompasses multiple stages, from voluntary agreement t
   * *Year:* April/May 2022 | *Marks:* 10
   * *Year:* August/September 2024 | *Marks:* 10
 
-### VERSION A
+### ANSWER VERSION - 1
 
 #### Introduction
 
@@ -1565,7 +1190,7 @@ The Karta occupies a central position in the Hindu joint family system, embodyin
 
 ---
 
-### VERSION B
+### ANSWER VERSION - 2
 
 #### Introduction
 
@@ -1754,7 +1379,7 @@ The power of Karta to alienate joint family property is a carefully circumscribe
 
 ---
 
-### VERSION C
+### ANSWER VERSION - 3
 
 #### Introduction
 
@@ -4469,436 +4094,7 @@ In property disputes involving succession:
 4. Documentation and clear family tree are essential
 
 ---
-
-### 23. Write a note on Position of Karta.
-
-* *Year:* September 2023 | *Marks:* 6
-
-#### Conceptual Foundation
-
-The position of Karta in Hindu joint family law represents a unique and specialized role combining elements of ownership, trusteeship, management, and family leadership. The Karta is neither a mere agent nor an absolute owner but occupies a distinct fiduciary position recognized and regulated by Hindu personal law.
-
-#### Legal Status of Karta
-
-**1. Not an Owner:**
-The Karta is expressly not the owner of joint family property. He holds the position of manager and representative, with rights derived from his coparcenary interest and managerial authority.
-
-**2. Representative Capacity:**
-The Karta acts on behalf of the joint family in:
-- External dealings and contracts
-- Litigation and legal proceedings
-- Negotiation with third parties
-- Representation before government and other institutions
-
-**3. Fiduciary Nature:**
-Like a trustee, the Karta is bound by fiduciary duties to act in the family's best interest, not for personal benefit. Courts impose strict scrutiny on Karta actions for potential breach of fiduciary duty.
-
-#### Authority and Powers
-
-**Extensive Management Authority:**
-The Karta possesses broad authority over:
-- Day-to-day operations of family property
-- Income collection and expenditure decisions
-- Ordinary repairs and maintenance
-- Agricultural and commercial operations
-
-**Limited Alienation Authority:**
-Regarding alienation (sale, mortgage, pledge):
-- Authority exists for family-benefit purposes
-- Must be proportionate and necessary
-- Cannot be for personal enrichment
-- Requires justification if challenged
-
-#### Responsibilities and Duties
-
-**1. Duty of Care:**
-The Karta must manage property with reasonable prudence. While not required to achieve maximum returns, gross mismanagement can result in removal.
-
-**2. Accounting Obligation:**
-- Must maintain accurate records
-- Must provide detailed accounts upon demand
-- Must disclose all transactions
-- Subject to coparcener scrutiny and audit
-
-**3. Fiduciary Loyalty:**
-- Must act in family interest, not personal interest
-- Must avoid conflicts of interest
-- Must not misappropriate property or income
-- Must ensure fair treatment of all coparceners
-
-**4. Protective Duty:**
-- Must preserve property from loss or deterioration
-- Must prevent unauthorized alienation
-- Must maintain insurance and protections
-- Must ensure property security
-
-#### Determining Karta Status
-
-**Primary Basis:**
-- Eldest male member typically becomes Karta
-- Requires capability and acceptance by family
-
-**Secondary Considerations:**
-- Actual exercise of management functions
-- Family customs and traditions
-- Fitness for the role
-- Consent (implicit or explicit) of other members
-
-#### Limitations on Karta Authority
-
-**Cannot Act Without Limit:**
-- Cannot partition property unilaterally
-- Cannot gift substantial property without justification
-- Cannot waste or destroy property
-- Cannot act against family interest
-
-**Judicial Oversight:**
-- Courts scrutinize allegedly improper Karta actions
-- Can grant injunctions to prevent unauthorized acts
-- Can order restoration of misappropriated property
-- Can remove unfit Kartas
-
-#### Removal of Karta
-
-**Grounds for Removal:**
-1. Gross mismanagement of property
-2. Misappropriation or embezzlement
-3. Persistent refusal to account
-4. Acts manifestly adverse to family interests
-5. Incapacity due to mental illness or advanced age
-6. Breach of fiduciary duty
-
-**Procedure:**
-- Typically initiated by suit filed by coparceners
-- Court examines evidence of unfitness
-- May appoint temporary manager during proceedings
-- Removal is discretionary with the court
-
-#### Succession to Karta Position
-
-**Upon Death or Removal:**
-- Passes to next senior capable member
-- Usually the Karta's eldest son or brother
-- Determined by the same principles as original appointment
-- Acceptance by family members is beneficial but not always necessary
-
-#### Modern Evolution
-
-**Contemporary Trends:**
-- Courts have moved toward limiting Karta's absolute authority
-- Emphasis on democratic decision-making within families
-- Recognition of all coparceners' rights
-- Increased judicial scrutiny of Karta's alienation powers
-
-#### Importance in Practice
-
-Understanding the Karta's position is crucial for:
-- Family members seeking to protect their interests
-- Creditors attempting to enforce claims
-- Third parties contracting with joint families
-- Dispute resolution in family property matters
-
----
-
-### 24. Write a short note on incidents of coparcenary.
-
-* *Year:* August 2024 | *Marks:* 6
-
-#### Definition
-
-Incidents of coparcenary refer to the bundle of rights, liabilities, and attributes that accompany and are inherent in the status of coparcenary in a joint family. These incidents are automatic consequences of acquiring coparcenary status and define the legal relationship between coparceners and their relationship with the joint property.
-
-#### Primary Incidents of Coparcenary
-
-**1. Right to Partition:**
-
-The most fundamental incident. Every coparcener possesses the inalienable right to demand partition:
-- Can be exercised at any time
-- Does not require justification
-- Cannot be waived or excluded by agreement
-- Recognized as a basic right inherent in coparcenary status
-
-**2. Undivided Interest in Property:**
-
-Before partition, each coparcener possesses:
-- An equal undivided share (in Mitakshara system)
-- Rights enforceable against other coparceners
-- Inability to exclusively claim any specific portion
-- Interest that vests in surviving coparceners upon death (in Mitakshara)
-
-**3. Right to Participate in Profits and Income:**
-
-Coparceners have the right to:
-- Receive share of income from joint property
-- Participate in benefits and returns
-- Claim maintenance from joint property if destitute
-- Benefit from property appreciation
-
-**4. Right of Survivorship (Mitakshara):**
-
-When a coparcener dies before partition:
-- His interest vests in surviving coparceners
-- Does not pass to his heirs
-- Other coparceners acquire larger shares
-- Automatically takes effect without legal proceedings
-
-**5. Joint and Several Liability for Family Debts:**
-
-Coparceners are:
-- Jointly and severally liable for family debts
-- Bound by debts incurred by Karta for family purposes
-- Liable even for debts incurred before their birth
-- Liable even for property held independently (in some circumstances)
-
-**6. Right to Account and Disclosure:**
-
-Every coparcener can:
-- Demand full account of family property
-- Require disclosure of all transactions
-- Challenge improper expenditures
-- Inspect records and property
-
-**7. Right of Management Participation:**
-
-Coparceners possess:
-- Right to be consulted on major decisions
-- Right to challenge improper Karta actions
-- Right to seek judicial intervention
-- Right to collective decision-making authority
-
-**8. Right to Claim Maintenance:**
-
-Coparceners and their dependents can:
-- Claim maintenance from joint property
-- Seek judicial order for maintenance allocation
-- Protect dependents from destitution
-- Prioritize maintenance needs
-
-**9. Incident of Succession to Coparcenary Property:**
-
-Upon death, the property interest is determined by:
-- Succession law applicable to the jurisdiction
-- Nature of the property (ancestral vs. self-acquired)
-- Whether partition has occurred
-- Applicable scheme of inheritance
-
-**10. Immunity from Personal Creditors:**
-
-To some extent:
-- Personal creditors cannot easily attach undivided coparcenary interest
-- Joint property has some protection from individual liabilities
-- Limitations vary by jurisdiction
-- Third parties cannot force partition
-
-#### Rights and Liabilities Compared
-
-**Rights:**
-- To partition
-- To share income
-- To account and disclosure
-- To participate in management
-- To maintenance
-- To survivorship (Mitakshara)
-
-**Liabilities:**
-- Joint liability for family debts
-- Obligation to contribute to family needs
-- Bound by Karta's legitimate acts
-- Accountability to other coparceners
-
-#### Post-2005 Amendment Impact
-
-The Hindu Succession (Amendment) Act, 2005, modified incidents of coparcenary by:
-- Conferring daughter coparcenary rights identical to sons
-- Making daughters subject to same incidents as sons
-- Extending survivorship rights to daughters
-- Creating equal liability and benefit structure
-
-#### Incidents Distinguished from Mere Interest
-
-Incidents are not mere ownership interests but include:
-- Complex bundle of rights and liabilities
-- Fiduciary relationships among coparceners
-- Collective decision-making structures
-- Succession-linked dependencies
-
-#### Practical Significance
-
-Understanding incidents is essential for:
-- Advising family members on their rights
-- Resolving family property disputes
-- Protecting legitimate interests
-- Enforcing rights against other coparceners
-- Understanding succession implications
-
----
-
-### 25. Write a note on religious and charitable endowments.
-
-* *Year:* January 2025 | *Marks:* 6
-
-#### Definition and Distinction
-
-Religious endowments are dedicated to religious purposes—construction and maintenance of temples, mosques, gurudwaras, churches, and support of religious practices. Charitable endowments are dedicated to secular charitable purposes—education, healthcare, poverty relief, and social welfare. While distinct in purpose, both share common legal characteristics as endowments under Hindu law.
-
-#### Religious Endowments
-
-**Characteristics:**
-
-1. **Dedicated to Deity or Religious Institution:** Property is transferred with explicit religious purpose
-2. **Perpetual Duration:** Intended to continue indefinitely for religious purposes
-3. **Spiritual Significance:** Possesses religious importance beyond mere property ownership
-4. **Community Benefit:** Generally serves the broader religious community
-
-**Types:**
-- Temple endowments for worship and maintenance
-- Mahant endowments for monastic institutions
-- Pilgrimage site endowments
-- Religious education endowments
-
-**Management:**
-- Typically managed by Mahants, priests, or temple authorities
-- Subject to government endowment department oversight
-- Must maintain accounts and transparency
-- Income applied exclusively to religious purposes
-
-**Legal Protection:**
-- Religious endowments receive special legal protection
-- Government oversight ensures proper application
-- Courts intervene only in cases of gross misuse or illegality
-
-#### Charitable Endowments
-
-**Characteristics:**
-
-1. **Dedicated to Charitable Purposes:** Education, healthcare, poverty relief, welfare
-2. **Public Benefit:** Serves the broader public or substantial classes
-3. **Perpetual Nature:** Intended for indefinite duration
-4. **Non-profit Orientation:** Profits applied to charitable purpose, not individual enrichment
-
-**Types:**
-- Educational endowments (schools, colleges, scholarships)
-- Healthcare endowments (hospitals, clinics, medical research)
-- Welfare endowments (orphanages, old age homes, disability support)
-- Cultural endowments (libraries, museums, cultural institutions)
-
-**Management:**
-- Governed by trust deed or statutory provisions
-- Managed by trustees appointed per the endowment document
-- Subject to statutory regulation (Charitable Endowments Act, 1890)
-- Required to file reports and undergo audits
-
-#### Legal Framework for Both
-
-**Creation:**
-- Written deed (preferred)
-- Oral dedication with supporting evidence
-- Testamentary provision in a will
-- Long-standing use evidencing intent
-
-**Essential Elements:**
-- Clear intention
-- Definite property identification
-- Charitable or religious purpose
-- Appointment of management authority
-- Perpetual intention (though purpose may become impossible later)
-
-**Registration and Governance:**
-
-Under the Charitable Endowments Act, 1890 (and state variations):
-- Endowments should be registered with Endowment Officer
-- Annual reporting requirement
-- Accounts subject to audit
-- Government oversight of larger endowments
-- Beneficiary classes defined clearly
-
-#### Rights of Beneficiaries
-
-**For Religious Endowments:**
-- Community members have right to worship and participate
-- Right to ensure proper conduct of religious functions
-- Right to ensure property is used for stated purpose
-- Standing to challenge misappropriation
-
-**For Charitable Endowments:**
-- Beneficiaries have standing to enforce the endowment
-- Right to ensure income is applied to charitable purpose
-- Right to challenge trustee mismanagement
-- Government (through endowment officer) represents public interest
-
-#### Perpetuity and Cy Pres Doctrine
-
-**Perpetual Duration:**
-The endowment must be established with intention of perpetuity. However, if circumstances render the original purpose impossible:
-
-**Cy Pres Doctrine:**
-- Courts can modify the endowment's purpose
-- New purpose must be as close as possible to original intent
-- Applied only when literal performance becomes impossible
-- Requires court intervention
-
-**Example:** If a temple endowment becomes impossible to maintain due to changed circumstances, courts may redirect to related religious purpose.
-
-#### Tax and Legal Status
-
-**Tax Benefits:**
-- Registered endowments receive tax exemptions
-- Income applied to charitable/religious purpose is not taxable
-- Donations to endowments may receive tax deductions
-- Property not subject to property tax if used for endowment purpose
-
-**Legal Immunity:**
-- Endowment property cannot be attached for founder's personal debts
-- Property is protected from succession disputes within founder's family
-- Creditors cannot pursue endowment property for founder's liabilities
-
-#### Challenges and Modern Issues
-
-**1. Misappropriation:**
-- Trustees sometimes misuse endowment funds
-- Weak government oversight in some regions
-- Need for stronger accountability mechanisms
-
-**2. Obsolete Purposes:**
-- Some endowments have purposes no longer relevant
-- Cy pres application requires court intervention
-- Delays in reforming outdated endowments
-
-**3. Property Value Increase:**
-- Original endowment property appreciates substantially
-- Questions arise regarding appropriate use of enhanced value
-- Balancing preservation with charitable application
-
-**4. Governance Structure:**
-- Need for professional management in large endowments
-- Transition from individual trustee to institutional management
-- Corporate governance principles increasingly applied
-
-#### Statutory Regulation by State
-
-**Central Legislation:**
-- Charitable Endowments Act, 1890 (applicable in several states)
-- Hindu Succession Act, 1956 (provides succession framework)
-
-**State-Specific Acts:**
-- Tamil Nadu Hindu Religious and Charitable Endowments Act, 1951
-- State Waqf Acts (for Islamic endowments)
-- Various state-specific endowment legislation
-
-#### Significance and Social Impact
-
-Religious and charitable endowments play crucial roles in:
-- Providing educational opportunities
-- Delivering healthcare services
-- Supporting vulnerable populations
-- Preserving religious and cultural heritage
-- Advancing social welfare and development
-
-These endowments represent lasting legacies of founders' values and continue to serve society generations after their establishment.
-
 -----
-
-\<a name="unit-iv"\>\</a\>
 
 ## UNIT IV - Succession & Inheritance
 
@@ -4912,8 +4108,6 @@ These endowments represent lasting legacies of founders' values and continue to 
   * *Year:* March 2023 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
   * *Year:* June/July 2025 | *Marks:* 10
-
-### VERSION A
 
 #### Introduction
 
@@ -5018,144 +4212,6 @@ The succession of a female Hindu dying intestate has been fundamentally reformed
 
 ---
 
-### VERSION B
-
-### Introduction
-
-The Hindu Succession Act, 1956, represents a watershed moment in the legal history of Hindu personal law in India by introducing a unified code of succession applicable to all Hindus irrespective of caste, creed, or geographical location. Section 3 of the Act defines intestate succession as succession where no valid will exists or the will does not dispose of the entire property of the deceased. When a female Hindu dies intestate, her property devolves according to Schedule I of the Act, which prescribes a hierarchical system of heirs. This structure fundamentally altered pre-statutory Hindu succession law by recognizing women's independent economic rights and providing a rational mechanism for succession in their estates. The succession of a female Hindu intestate is notably distinct from that of a male Hindu, reflecting the Act's progressive recognition of matrilineal relationships and the expanded role of daughters and widows in the devolution of estates.
-
-### Part 1: Legal Framework and Constitutional Context
-
-The succession of a female Hindu intestate operates within a carefully delineated legal framework established by Sections 14, 15, and the Schedule I of the Hindu Succession Act, 1956. The Constitution of India, through Articles 14 and 21, guarantees equality before law and protection of life and personal liberty, principles which inform the interpretation and application of the Act. The Act's provisions ensure that women possess equal rights to property inheritance, a significant departure from the traditional doctrine of *moksha* (religious duty) which confined women to dependent positions. The Supreme Court in *Basheswar Nath v. Commissioner of Police, AIR 1952 SC 334*, affirmed that the legislation must be interpreted harmoniously with constitutional mandates for equality and non-discrimination.
-
-The fundamental principle underlying female Hindu succession is that the property passes through a class system (Class I and Class II heirs) rather than through lineal preference alone. The Schedule I divides heirs into two distinct classes with specific rights and obligations. Class I heirs possess absolute rights to succession in priority order, while Class II heirs inherit only in the absence of Class I heirs. This bifurcated system ensures that the nearest relations take precedence, reflecting the principle of *de praefer* (preference) established in Hindu jurisprudence.
-
-### Part 2: Class I Heirs in Female Succession
-
-When a female Hindu dies intestate, her Class I heirs include: (1) son, (2) daughter, (3) widow, (4) mother, and (5) children of any predeceased son or daughter. These are enumerated in Section 14(1) read with Schedule I of the Act. The distribution among Class I heirs follows a specified order and is governed by Section 15.
-
-**Section 14(1) provides:** The following are the heirs in the case of a female intestate:
-- **First**, any son or daughter (including the children of any predeceased son or daughter)
-- **Secondly**, the widow
-- **Thirdly**, the mother
-- **Fourthly**, the children of any predeceased son or daughter
-
-The succession of a female Hindu is particularly notable because sons and daughters stand on equal footing in the first category of heirs. This equality between male and female children represents a significant modernization compared to pre-Act Hindu law where sons typically inherited ancestral property while daughters received only gifts (strīdhana). In *Lakshmi Devi v. Laxmi Narain, AIR 2001 SC 1449*, the Supreme Court emphasized that the provision of equality between sons and daughters in female succession reflects the egalitarian objectives of the 1956 Act.
-
-When a female Hindu dies leaving a son, daughter, widow (if applicable), and mother (if applicable), distribution occurs thus:
-- Each child (son and daughter alike) takes an equal share
-- If there are no children, the widow and mother share equally
-- The presence of children excludes the widow and mother from succession
-
-**Illustration:** A female Hindu dies intestate leaving behind her husband, two sons, one daughter, and mother. The estate is divided equally among the two sons and one daughter (excluding the husband and mother as they are not Class I heirs in relation to a female intestate). The husband has no succession rights under Section 14(1) of the Act.
-
-### Part 3: Distribution Among Class I Heirs
-
-Section 15 of the Act provides the specific rules for distribution among Class I heirs. The succession of a female Hindu's property is governed by the principle of per stirpes succession, meaning that if any heir predeceases, their descendants inherit the share their ancestor would have received.
-
-**Primary Rule:** When a female Hindu dies intestate and leaves surviving Class I heirs, the property devolves upon them in the following manner:
-1. **If she leaves children** (sons and/or daughters in any combination), they inherit to the exclusion of all other Class I heirs. Each child receives an **equal share**, irrespective of gender.
-2. **If she leaves no children but leaves a widow and mother**, they share the estate **equally**.
-3. **If she leaves widow but no mother or children**, the widow takes the **entire estate**.
-4. **If she leaves mother but no widow or children**, the mother takes the **entire estate**.
-
-In *Tulsa v. Durgacharan, AIR 1994 SC 473*, the Supreme Court clarified that the succession schedule must be read conjointly with provisions relating to preferential classes to determine the order and mode of devolution.
-
-### Part 4: Right of Children and Per Stirpes Succession
-
-The children of a female Hindu intestate possess the strongest claim upon her property. This includes both sons and daughters on a basis of complete equality. Where a child predeceases the female intestate but leaves surviving issue, those grandchildren inherit per stirpes. 
-
-**Example:** A female Hindu dies leaving her two sons and three daughters. One of the sons predeceased her and left two children (the female intestate's grandchildren). The estate is divided into five equal shares: four shares go to the four surviving children, and one share is subdivided equally between the two grandchildren of the predeceased son.
-
-This per stirpes system differs from male succession rules and reflects the policy choice that in female succession, lineal descent takes precedence. The Supreme Court in *Rameshwar Dutt v. Savitri Bai, AIR 1997 SC 1160*, held that the Schedule I must be interpreted as creating a unified scheme where descendants of predeceased Class I heirs inherit per stirpes.
-
-### Part 5: Position of Widow and Mother
-
-If a female Hindu dies intestate without leaving children, her widow (if the deceased was married) and mother assume primary succession rights. These relatives share equally in the absence of children.
-
-**Critical Distinction:** The widow of a female Hindu intestate has different rights compared to the widow of a male Hindu. The widow of a female Hindu is a direct Class I heir, not merely a holder of life estate. Upon intestacy of a female Hindu without children, the widow receives the property as a full owner, not as a limited owner subject to special succession rules applicable to male widows under Hindu law.
-
-Similarly, the mother of a deceased female Hindu becomes a Class I heir in the absence of children. The mother's succession rights are absolute, not limited or contingent. This reflects the principle that the mother's relationship to the intestate is primary and natural.
-
-### Part 6: Exclusion of Father and Husband
-
-An important feature of female Hindu succession is the exclusion of the father and husband from Class I heirship. Under Section 14(1), read with Schedule I, neither the father nor the husband of a deceased female Hindu constitutes a Class I heir. Both these relations are relegated to Class II heirs, and they inherit only when all Class I heirs are absent.
-
-This exclusion reflects a historical correction to traditional Hindu law, which gave the father proprietary control over his daughter's property even after her marriage. The inclusion of the husband in only Class II heirs—ahead of the father—recognizes his spousal relationship but prevents spousal control from eclipsing the female intestate's own blood relations.
-
-**Legal Principle:** In *Sudhangshu Mohan Roy v. Jagadish Chandra Roy, AIR 1954 SC 380*, the Supreme Court established that the exclusion of the husband from Class I heirship in female succession reflects the Act's policy of preventing husbands from monopolizing their wives' estates and ensuring that property reverts to the wife's natal family.
-
-### Part 7: Schedule I and its Application
-
-Schedule I of the Act contains detailed tables showing the order and mode of succession for both males and females. For female intestates, the Schedule specifies that Class I heirs are limited to:
-- Son, daughter, and children of predeceased sons or daughters
-- Widow
-- Mother
-
-The Schedule is supplemented by Section 15, which provides the mathematical formula for calculating shares. The interplay between Schedule I and Section 15 creates a comprehensive succession regime.
-
-An essential principle, established in *Subramaniam v. Bhagavathi, AIR 2003 SC 1570*, is that the Schedule must be read with Section 15 conjunctively. The Schedule indicates *who* may succeed, while Section 15 indicates *how* the estate is divided among qualifying heirs.
-
-### Part 8: Recent Amendments and Contemporary Jurisprudence
-
-The Hindu Succession (Amendment) Act, 2005, introduced significant changes, though primarily affecting male succession. Section 6 of the Amendment Act modified succession rights in female intestates by introducing provisions recognizing daughters as coparceners in Hindu Joint Family property (in certain situations), though the core succession mechanism in Section 14-15 for intestate succession remains substantially unchanged.
-
-However, recent judicial interpretation has expanded the concept of property rights for female Hindus. The Supreme Court in *Vineeta Sharma v. Rakesh Sharma, AIR 2020 SC 1144*, held that daughters possess the same coparcenary rights as sons in joint family property, reflecting the constitutional guarantee of equality. While this case primarily addressed joint family coparcenary rights, its principles inform interpretation of succession rights in female-led families.
-
-### Part 9: Practical Considerations and Illustrations
-
-**Illustration 1:** Priya, a female Hindu, dies intestate leaving her husband, two sons (ages 25 and 22), one daughter (age 20), and her widowed mother. 
-- **Succession:** The estate passes to the two sons and one daughter in equal shares (1/3 each). The husband and mother receive nothing, as children (being Class I heirs) exclude all others.
-
-**Illustration 2:** Kalpana, a female Hindu, dies intestate leaving no children, but leaving her husband and mother.
-- **Succession:** The mother and widow share the estate equally (1/2 each under Section 15(1)).
-
-**Illustration 3:** Anjali, a female Hindu, dies intestate leaving her son and the widow and children of her predeceased daughter.
-- **Succession:** The surviving son takes 1/2. The widow and children of the predeceased daughter share the remaining 1/2. Specifically, if the predeceased daughter had two children, the calculation is: surviving son 1/2, widow of predeceased daughter 1/4, and each of the two grandchildren 1/8 each.
-
-### Part 10: Intersectionality with Other Laws
-
-The succession of female Hindus also intersects with laws governing joint family property, maintenance obligations, and testamentary rights. Where a female Hindu dies intestate while holding joint family property (coparcenary property), the succession is determined by the principles of Hindu joint family law as modified by the 2005 Amendment Act, which recognizes daughters as coparceners.
-
-Additionally, a female Hindu may have disposed of her property through a valid will. Where a will exists but does not cover all property, the partially undisposed property is distributed under intestacy rules. The Supreme Court in *Govind Rao v. Govardhan, AIR 2005 SC 1088*, held that intestacy rules apply only to the property not disposed of by will.
-
-### Conclusion
-
-The succession rules for a female Hindu dying intestate, as codified in the Hindu Succession Act, 1956, and interpreted through extensive judicial precedent, represent a progressive and egalitarian regime. The fundamental principles are: (1) children (sons and daughters equally) form the primary class of heirs; (2) in the absence of children, widow and mother share equally; (3) the father and husband, being excluded from Class I, inherit only in limited circumstances; (4) the system operates on a per stirpes basis ensuring that the issue of predeceased heirs inherit their ancestor's share; and (5) all provisions must be interpreted harmoniously with constitutional mandates of equality and non-discrimination.
-
-This regime reflects both the statutory intention to modernize Hindu succession law and the constitutional commitment to gender equality. The exclusion of certain relatives (such as the husband and father) from Class I heirship is not arbitrary but reflects a deliberate policy choice to ensure that a female Hindu's property benefits her blood relations and her widow in priority to other relations. The equality between sons and daughters in female succession remains one of the most progressive features of Indian succession law and exemplifies the Act's revolutionary impact on Hindu personal law. The practical application of these rules requires careful attention to the facts, the order of Class I heirs, and the principles of per stirpes succession enshrined in Section 
-
-### VERSION C
-
-The succession of a female Hindu dying intestate is governed by Sections 14, 15, and Schedule I of the Hindu Succession Act, 1956. This represents a fundamental departure from pre-statutory Hindu law by establishing gender-neutral principles and recognizing women's economic rights.
-
-**Class I Heirs (Section 14):**
-- Son and Daughter (equal shares)
-- Widow of predeceased son
-- Mother
-- Children of predeceased son/daughter
-
-**Key Principles:**
-
-1. **Equal Treatment of Sons and Daughters:** Sons and daughters inherit equally without gender distinction. This revolutionized Hindu succession law which previously gave exclusive inheritance rights to sons.
-
-2. **Exclusion of Husband and Father:** Neither the husband nor father are Class I heirs. The husband is relegated to Class II and inherits only in the complete absence of Class I heirs. This prevents husbands from monopolizing their wives' property.
-
-3. **Distribution Rules (Section 15):**
-   - If children exist: Estate divided equally among all children
-   - If no children but widow and mother exist: They share equally (1/2 each)
-   - If only widow exists: Widow inherits entire estate
-   - If only mother exists: Mother inherits entire estate
-
-4. **Per Stirpes Succession:** If a child predeceases but leaves issue, those descendants inherit per stirpes (the deceased child's share).
-
-**Illustration:** A female Hindu dies intestate leaving two sons, one daughter, husband, and mother. The estate is divided equally among the three children (1/3 each). The husband and mother are excluded as Class I heirs (children) are present.
-
-**Case Law:**
-- *Lakshmi Devi v. Laxmi Narain, AIR 2001 SC 1449*: Affirmed equal inheritance rights for sons and daughters
-- *Sudhangshu Mohan Roy v. Jagadish Chandra Roy, AIR 1954 SC 380*: Established that exclusion of husband prevents his monopoly over wife's property
-
----
 
 
 ### 2\. Explain the general rules of succession of a Hindu male dying intestate. TODO Review this question with original list
@@ -5166,107 +4222,6 @@ The succession of a female Hindu dying intestate is governed by Sections 14, 15,
   * *Year:* March 2023 | *Marks:* 10
   * *Year:* September 2023 | *Marks:* 10
   * *Year:* August/September 2024 | *Marks:* 10
-
-### VERSION A
-
-#### Introduction
-
-The succession of property of a male Hindu dying intestate represents the paradigmatic application of Hindu succession law. While the Hindu Succession Act, 1956, has been substantially amended, particularly to equalize female succession through the 2005 amendment, the basic framework for male succession remains largely unchanged. Understanding male succession requires examination of the statutory hierarchy, the distinctions between ancestral and self-acquired property, and the operation of per stirpes succession principles within the Hindu legal framework.
-
-#### Main Body
-
-**Distinction Between Ancestral and Self-Acquired Property**
-
-A foundational principle in Hindu succession is the distinction between ancestral property and self-acquired property:
-
-1. **Ancestral Property**: Property inherited from ancestors—typically property that has passed through at least two generations in the male line without being partitioned. Ancestral property typically includes immovable property (land and buildings) rather than movable property.
-
-2. **Self-Acquired Property**: Property acquired through an individual's own effort, resources, or expenditure. The acquirer possesses plenary rights over self-acquired property during lifetime and through will.
-
-**Succession to Ancestral Property—The Per Stirpes Principle**
-
-Succession to ancestral property operates on the per stirpes principle (also called "by right of representation"). This means that if a son pre-deceases the father, the son's share goes to the son's children (grandsons or granddaughters), not to surviving sons.
-
-**The Succession Hierarchy for Ancestral Property (Class I Heirs)**
-
-Class I heirs, listed in Schedule I to the Act, inherit ancestral property in the following order:
-
-**First Series**: The widow and children in the following order:
-1. Widow
-2. Son and Daughter (equally after 2005 amendment)
-3. Son of pre-deceased son and Daughter of pre-deceased son (equally representing their deceased father)
-4. Widow of pre-deceased son
-
-**Second Series** (if no first series heirs):
-1. Mother
-2. Brother and Sister (equally)
-3. Son and Daughter of pre-deceased brother (representing deceased brother)
-4. Son and Daughter of pre-deceased sister (representing deceased sister)
-
-**Succession to Self-Acquired Property**
-
-Self-acquired property, not subject to coparcenary restrictions, devolves according to the succession order but without the complication of ancestral property rules.
-
-**First to Succeed**: The widow and children (sons and daughters equally) and widow of pre-deceased sons.
-
-**If no above heirs exist**: Mother, brothers, sisters, and their descendants.
-
-**If no relatives exist**: Property escheats to the State.
-
-**The Impact of the 2005 Amendment on Male Succession**
-
-The Hindu Succession (Amendment) Act, 2005, substantially altered the succession framework:
-
-1. **Daughters as Co-Parceners**: Daughters now inherit ancestral property as co-parceners equal to sons. This fundamentally altered the male-centric succession structure.
-
-2. **Grandchildren Through Daughters**: Daughters' children now represent their deceased mother in succession to the male's ancestral property. Previously, only grandsons through sons were recognized.
-
-3. **Widow Rights Expansion**: Widows' succession rights were expanded to encompass ancestral property more comprehensively.
-
-**Practical Application Through Examples**
-
-**Example 1**: Male with widow, two sons, and one daughter dies intestate with only ancestral property. Each child (including the daughter) receives an equal share, and the widow receives an equal share. If property value is 400 units, widow receives 100, each child receives 100 (totaling 400).
-
-**Example 2**: Male with no widow, but two sons (one predeceased) with two grandsons, and one living son dies intestate. The grandson of the predeceased son represents his father and takes 1/3 share (the predeceased son's entitlement). The living son takes 1/3 directly. The second grandson of the predeceased son also takes 1/3 (representing his father alongside his brother).
-
-**Class II Heirs—Secondary Succession**
-
-If no Class I heirs exist, property passes to Class II heirs (listed in Schedule II), which includes:
-
-- Father
-- Brother and Sister
-- Nephew and Niece (son and daughter of predeceased brother or sister)
-- Grandson and Granddaughter (through sons)
-- Great-grandson and Great-granddaughter
-- Uncle (paternal)
-- Aunt (paternal)
-- Cousin
-- Other specified relatives
-
-**Doctrine of Pious Obligation**
-
-An important doctrine in male succession is the doctrine of "pious obligation." This principle holds that the son is obligated (has pious duty) to pay debts incurred by the father for legitimate family purposes or for performance of religious duties. However, this obligation is limited to ancestral property only, not the son's self-acquired property. Modern law has substantially restricted the application of this doctrine.
-
-**Devolution of Office and Religious Endowments**
-
-When a male is a Mahant (head of a religious institution) or holder of a religious office, special succession rules apply. The office typically devolves to a designated successor or the most suitable disciple, not necessarily according to ordinary succession rules. The property associated with the office is held in trust for the religious institution rather than individually.
-
-**Non-Succession Cases**
-
-Certain categories do not inherit:
-
-1. **Illegitimate Children** (prior to certain legislative modifications): Though recent amendments have granted succession rights to illegitimate children in several states.
-
-2. **Adopted Children** (if not validly adopted): Persons not validly adopted under Hindu Adoption and Maintenance Act have no succession rights.
-
-3. **Persons Disqualified by Law**: Persons convicted of certain crimes or disqualified by specific statutes.
-
-#### Conclusion
-
-The succession of property of a male Hindu dying intestate follows a comprehensive statutory framework distinguishing ancestral from self-acquired property and employing the per stirpes principle to ensure representative succession for grandchildren of predeceased heirs. The succession hierarchy prioritizes the widow and direct descendants, followed by collateral relatives if no linear descendants exist. The 2005 amendment fundamentally altered the male-centric character of succession by granting daughters full co-parcenary status and recognizing grandchildren through daughters. The framework reflects Hindu jurisprudential principles of family succession while incorporating constitutional values of equality. The contemporary statutory regime provides clear rules applicable across the entire Hindu community, though certain doctrines (like pious obligation) and special circumstances (religious endowments) require careful analysis.
-
----
-### VERSION B
 
 
 ### Introduction
@@ -5431,85 +4386,6 @@ The Act establishes that in testamentary succession, while a testator may dispos
 ### Conclusion
 
 The general rules of succession under the Hindu Succession Act, 1956, establish a comprehensive, rational, and egalitarian framework replacing the fragmented customary practices that previously governed Hindu succession. The fundamental principles are: (1) classification of heirs into Classes I and II with strict preference for Class I; (2) exclusion of distant relations by nearer relations; (3) application of per stirpes succession where descendants of predeceased heirs inherit; (4) gender equality ensuring sons and daughters inherit equally; (5) mathematical precision in calculating shares; (6) recognition of widows as absolute owners rather than limited custodians; and (7) distinction between joint family property and individual property succession. These rules operate uniformly across all Hindu communities and regions, reflecting both the Act's unifying purpose and its commitment to modern constitutional principles. The interpretation and application of these rules by courts have consistently emphasized that they are mandatory, precise, and admit of no exceptions based on custom, moral claims, or ritual considerations. The Act represents a revolutionary transformation of Hindu personal law, replacing the doctrine-based, customary succession regimes with a statute-based, egalitarian system founded on constitutional principles of equality and non-discrimination
-
----
-
-### VERSION C
-
-
-The succession of a Hindu male dying intestate is governed by Sections 14, 15, and Schedule I of the Hindu Succession Act, 1956. The rules are mathematically precise and mandatory.
-
-**Class I Heirs (Section 14) for Male Intestate:**
-
-1. Widow
-2. Son
-3. Daughter
-4. Widow of predeceased son
-5. Child of predeceased son
-6. Child of predeceased daughter
-7. Widow of predeceased grandson (son of predeceased son)
-8. Child of predeceased grandson
-
-**Key General Rules:**
-
-**Rule 1: Widow and Children (Any Combination)**
-If a male Hindu dies leaving widow and children:
-- **Widow's share:** 1/3 of the estate
-- **Children's share:** 2/3 divided equally among all children (sons and daughters equally)
-- **Formula:** Each child gets 2/3 ÷ number of children
-
-**Illustration:** Male dies leaving widow, 2 sons, 2 daughters.
-- Widow: 1/3
-- Each child: 2/3 ÷ 4 = 1/6
-
-**Rule 2: Widow and No Children, but Widow/Children of Predeceased Son**
-If male dies leaving widow and widow/children of predeceased son:
-- **Widow's share:** 1/3
-- **Remainder:** Divided per stirpes among descendants of predeceased sons
-
-**Illustration:** Male dies leaving widow and widow and 2 children of predeceased son.
-- Widow: 1/3
-- Widow of predeceased son: 1/3 ÷ 2 = 1/6
-- Each grandchild: 1/3 ÷ 2 ÷ 2 = 1/12
-
-**Rule 3: Widow and No Descendants**
-If male dies leaving only widow:
-- **Widow inherits entire property (100%)**
-
-**Rule 4: Children, No Widow**
-If male dies leaving children but widow predeceased:
-- **Children inherit entire property, divided equally among all children**
-- **Formula:** 100% ÷ number of children
-
-**Rule 5: Widow, Children of Predeceased Son and Daughter**
-Per stirpes succession applies separately to each predeceased child's line.
-
-**Illustration:** Male dies leaving widow, 1 son, widow + 2 children of predeceased son, and widow + 1 child of predeceased daughter.
-
-- Widow: 1/3
-- Surviving son: 2/3 ÷ 3 = 2/9 (one of three predeceased lines)
-- Widow of predeceased son: 2/9 ÷ 2 = 1/9
-- Each grandchild of predeceased son: 1/18
-- Widow of predeceased daughter: 2/9 ÷ 2 = 1/9
-- Child of predeceased daughter: 1/9
-
-**Rule 6: Widow Excluded - Children Only**
-Children completely exclude widow if widow predeceased.
-
-**Rule 7: No Widow, No Children**
-If no widow and no descendants survive, succession passes to Class II heirs (father, brother, sister, etc.).
-
-**Important Principles:**
-
-1. **Complete Equality:** Sons and daughters inherit equal shares (no primogeniture)
-2. **Widow as Absolute Owner:** Not limited owner or trustee but absolute owner
-3. **Per Stirpes:** Predeceased heirs' issue inherits per stirpes
-4. **Widow's Priority:** When both widow and children exist, widow shares as Class I heir
-5. **Father Excluded:** Father is Class II heir and excluded if widow or children exist
-
-**Case Law:**
-- *Govind Rao v. Govardhan, AIR 2005 SC 1088*: Succession rules are mandatory and precise
-- *Lakshmi Devi v. Laxmi Narain, AIR 2001 SC 1449*: Equal treatment of sons and daughters is absolute
 
 ---
 
@@ -5818,16 +4694,82 @@ Upon death, succession rights are automatic. No formal procedure or court order 
   * *Year:* March 2023 | *Marks:* 6
   * *Year:* June/July 2025 | *Marks:* 6
 
+### Gift Deed (6 Marks) ANSWER OUTLINE 
+
+
+**Key Points to Cover:**
+
+1. **Definition:** Instrument of voluntary transfer of property without consideration
+2. **Legal Framework:** Indian Contract Act, 1872 + Transfer of Property Act, 1882
+3. **Essential Elements:**
+   - Competent donor
+   - Willing donee
+   - Lawful subject matter
+   - Voluntary transfer without consideration
+   - Delivery/Possession (actual or constructive)
+   - Acceptance by donee
+
+4. **Rules of Gift in Hindu Law:** Distinct from succession but related to property disposition
+5. **Form Requirements:** Gift deed should be in writing and registered (for immovable property)
+6. **Irrevocability:** Once completed, gift cannot be revoked (except in specific circumstances)
+7. **Distinction from Will:** Gift effective during donor's lifetime; will effective only after death
+
+
 ### 6\. Write a short note on Wills.
 
   * *Year:* June 2019 | *Marks:* 6
   * *Year:* March/April 2021 | *Marks:* 6
+
+---
+
+### Wills (6 Marks) ANSWER OUTLINE 
+
+**Key Points to Cover:**
+
+1. **Definition:** Testamentary instrument expressing how property should devolve after death
+2. **Legal Framework:** Indian Succession Act, 1872 (Sections 58-63)
+3. **Essential Requirements:**
+   - Testator must be of sound mind
+   - Free from coercion/undue influence
+   - Proper execution (signature, witnesses)
+   - Registration (optional but advisable)
+
+4. **Distinction from Intestacy:** Testamentary vs. intestate succession
+5. **Validity Requirements:** Age, capacity, voluntary nature
+6. **Revocation:** How wills can be revoked or modified
+7. **Probate:** Process of proving validity of will
+
+---
 
 ### 7\. Write a note on "Stridhana".
 
   * *Year:* December 2019 | *Marks:* 6
   * *Year:* September 2023 | *Marks:* 6
   * *Year:* August/September 2024 | *Marks:* 6
+
+
+### Stridhana (6 Marks) ANSWER OUTLINE 
+
+**Key Points to Cover:**
+
+1. **Definition:** Property given to a woman in consideration of marriage by her relatives or husband's family
+2. **Pre-Act Status:** Subject to restrictive rules regarding disposition and succession
+3. **Evolution Under HSA, 1956:**
+   - Modernization of concept
+   - Strīdhana subject to normal succession rules
+   - Female's freedom to dispose of strīdhana
+   - Succession of strīdhana identical to self-acquired property
+
+4. **Categories:**
+   - Adiattaka stridhan (gifts from relatives)
+   - Aneutthaka stridhan (gifts from husband/his family)
+   - Wedding gifts
+   - Earned property
+
+5. **Succession:** Upon female's death, strīdhana devolves like self-acquired property
+6. **Rights:** Absolute ownership without restrictions on disposition
+
+---
 
 ### 8\. Problem: Harish (Male) dies intestate leaving father, mother, two sons and a daughter. How will the estate of Harish devolve?
 
@@ -6319,73 +5261,6 @@ This principle reflects the statutory intention to prioritize direct descendants
 
 -----
 
----
-
-### BONUS - THEORETICAL QUESTIONS - TOPIC WISE ANSWER PLANNING TIPS
----
-
-### Gift Deed (6 Marks)
-
-**Key Points to Cover:**
-
-1. **Definition:** Instrument of voluntary transfer of property without consideration
-2. **Legal Framework:** Indian Contract Act, 1872 + Transfer of Property Act, 1882
-3. **Essential Elements:**
-   - Competent donor
-   - Willing donee
-   - Lawful subject matter
-   - Voluntary transfer without consideration
-   - Delivery/Possession (actual or constructive)
-   - Acceptance by donee
-
-4. **Rules of Gift in Hindu Law:** Distinct from succession but related to property disposition
-5. **Form Requirements:** Gift deed should be in writing and registered (for immovable property)
-6. **Irrevocability:** Once completed, gift cannot be revoked (except in specific circumstances)
-7. **Distinction from Will:** Gift effective during donor's lifetime; will effective only after death
-
----
-
-### Wills (6 Marks)
-
-**Key Points to Cover:**
-
-1. **Definition:** Testamentary instrument expressing how property should devolve after death
-2. **Legal Framework:** Indian Succession Act, 1872 (Sections 58-63)
-3. **Essential Requirements:**
-   - Testator must be of sound mind
-   - Free from coercion/undue influence
-   - Proper execution (signature, witnesses)
-   - Registration (optional but advisable)
-
-4. **Distinction from Intestacy:** Testamentary vs. intestate succession
-5. **Validity Requirements:** Age, capacity, voluntary nature
-6. **Revocation:** How wills can be revoked or modified
-7. **Probate:** Process of proving validity of will
-
----
-
-### Stridhana (6 Marks)
-
-**Key Points to Cover:**
-
-1. **Definition:** Property given to a woman in consideration of marriage by her relatives or husband's family
-2. **Pre-Act Status:** Subject to restrictive rules regarding disposition and succession
-3. **Evolution Under HSA, 1956:**
-   - Modernization of concept
-   - Strīdhana subject to normal succession rules
-   - Female's freedom to dispose of strīdhana
-   - Succession of strīdhana identical to self-acquired property
-
-4. **Categories:**
-   - Adiattaka stridhan (gifts from relatives)
-   - Aneutthaka stridhan (gifts from husband/his family)
-   - Wedding gifts
-   - Earned property
-
-5. **Succession:** Upon female's death, strīdhana devolves like self-acquired property
-6. **Rights:** Absolute ownership without restrictions on disposition
-
----
 
 ## CONCLUSION
 
@@ -6408,134 +5283,7 @@ The Hindu Succession Act, 1956, represents a revolutionary transformation of Hin
   * *Year:* August/September 2024 | *Marks:* 10
   * *Year:* June/July 2025 | *Marks:* 10
 
-### VERSION A
-
-#### Introduction
-
-Adoption represents one of the most significant institutions within Hindu law, enabling creation of parent-child relationships through legal means rather than biological procreation. Adoption reflects the Hindu legal tradition's recognition that the parent-child bond extends beyond biological connection to encompass legal, emotional, and social dimensions. The Hindu Adoption and Maintenance Act, 1956, codifies the principles of Hindu adoption law, establishing stringent requirements ensuring that adoption serves the welfare of the adoptee while protecting the interests of all parties. Understanding adoption requires examination of its definition, the foundational requirements for valid adoption, the capacity of individuals to adopt or be adopted, and the extensive consequences flowing from valid adoption.
-
-#### Main Body
-
-**Definition of Adoption**
-
-Adoption in Hindu law is defined as the acceptance of a person as one's own child, creating the relationship of parent and child for all legal purposes, with all accompanying rights and duties. The Supreme Court in *Mulla v. Rao* (AIR 1984 SC 1211) held that adoption creates a permanent relationship rivaling biological parent-child relationship in all legal respects. Adoption is not a mere social arrangement but a legal relationship with comprehensive consequences including succession rights, maintenance obligations, and inheritance.
-
-**Essential Requirements of Valid Adoption**
-
-The Hindu Adoption and Maintenance Act, 1956, specifies essential requirements that must be satisfied for adoption to be valid. These requirements are substantive and procedural, requiring both capacity of the parties and compliance with statutory procedures.
-
-**Requirements Regarding the Adoptee (Child)**
-
-1. **Age of Adoptee**: The adoptee must be under eighteen years of age at the time of adoption. Section 10 specifies this age requirement. The Supreme Court in *Mulla v. Rao* held that this requirement exists to ensure genuine parent-child relationship and to prevent exploitation of older individuals through fraudulent adoptions. However, a child who was adopted below eighteen years of age retains adopted status even if they subsequently attain eighteen years.
-
-2. **Capacity to be Adopted**: An infant or minor below eighteen years of age can be adopted. Persons already adopted cannot be adopted again—once a valid adoption occurs, the adoptee acquires new legal status as the adopted child, and subsequent adoption is void as per Section 12(3).
-
-3. **Consent of Parent/Guardian**: The consent of the natural parent or guardian of the child is essential (Section 9). Specifically:
-   - Consent of both parents is required if alive, unless one parent's whereabouts are unknown or the parent is declared incapable.
-   - If one parent is deceased, the surviving parent's consent is required.
-   - If both parents are deceased, the consent of the legal guardian is required.
-   - Consent must be free, voluntary, and informed.
-
-4. **Capacity to Give Consent**: The person giving consent must have capacity—they must be of sound mind and legally competent to give binding consent. The Supreme Court in *Prem Prakash v. Surendra* (AIR 2008 SC 1428) held that consent procured through fraud, undue influence, or coercion is invalid.
-
-**Requirements Regarding the Adoptive Parents**
-
-1. **Adoptive Father's Capacity**: 
-   - Must be a Hindu by religion (or Sikh, Jain, or Buddhist)
-   - Must be of sound mind (not mentally unsound or incapable of adopting)
-   - Must be domiciled in India (though non-residents can adopt with additional requirements)
-   - Must satisfy the welfare of the child requirements
-
-2. **Marital Status of Male Adopter**:
-   - Section 7 requires that an unmarried Hindu male can adopt with the consent of his parents or guardian if a minor, or independently if major.
-   - A married male must have the written consent of his wife. The Supreme Court in *Mulla v. Rao* held that this requirement protects the wife's interests and ensures family harmony.
-
-3. **Adoptive Mother's Capacity**:
-   - Must be a Hindu by religion (or Sikh, Jain, or Buddhist)
-   - Must be of sound mind
-   - Must be domiciled in India
-   - Must satisfy welfare requirements
-
-4. **Marital Status of Female Adopter**:
-   - An unmarried female can adopt independently if major or with parental consent if minor
-   - A married female adopting must have written consent of her husband
-   - A divorced or separated female can adopt as per Section 8(3)
-   - A widow can adopt independently
-
-5. **Joint Adoption**: Two persons can jointly adopt only if they are married to each other. Joint adoption by unmarried persons is not recognized under Section 10. In *Bhagyavati v. Jagannath* (AIR 2010 SC 1532), the Supreme Court held that joint adoption is available only to spouses, ensuring legitimate family structure for the adoptee.
-
-6. **Prohibition on Certain Adoptions**:
-   - An unmarried male cannot adopt a female infant unless the adoption is made with the written consent of the Chief Judge of the High Court (Section 9). This requirement aims to prevent abuses.
-   - A person with living spouse cannot adopt without spouse's written consent
-
-**Requirements Regarding the Welfare of the Child**
-
-1. **Paramount Consideration**: Section 4 provides that "the welfare of the child" is the paramount consideration in all matters concerning adoption. The Supreme Court in *Sivaramakrishnan v. Sivaraman* (AIR 2010 SC 1632) established that courts must conduct comprehensive welfare analysis before permitting adoption.
-
-2. **Competency of Adoptive Parent**: The adoptive parent must possess the physical, mental, moral, and financial capacity to appropriately raise and educate the child. The courts examine the adopter's health status, financial stability, and moral character.
-
-3. **Existing Children**: The fact that the adopter already has children does not bar adoption, but courts must ensure the adoptee's welfare will not be compromised by sibling relationships.
-
-4. **Welfare and Best Interests**: The adoption must be in the genuine interests of the child, not in the interests of the adoptive parents for financial benefit or property transfer. Courts scrutinize adoptions motivated primarily by desire to obtain property transfer rights.
-
-**Procedural Requirements for Valid Adoption**
-
-1. **No Fixed Form Required**: While the Act requires the essential substantive elements, it does not prescribe fixed form for adoption. Adoption can be effected through:
-   - Written deed
-   - Registered deed (advisable for publicity and proof)
-   - Verbal declaration with witnesses (though less advisable)
-   - Conduct establishing adoption
-
-2. **Sanad (Adoption Deed)**: While not mandatory, a written deed (sanad) evidencing adoption is strongly recommended. The deed should specify:
-   - Parties to adoption
-   - Consideration (if any) exchanged
-   - Consent of natural parents/guardians
-   - Consent of adoptive parent's spouse (if required)
-   - Property transferred with the adoptee (if any)
-
-3. **No Registration Requirement**: Under the Hindu Adoption and Maintenance Act, registration of adoption deed with government is not mandatory, though registration with district authorities is sometimes recommended for evidentiary purposes.
-
-4. **Proof of Adoption**: Adoption must be proven through evidence demonstrating: (a) the adoptee's capacity to be adopted; (b) the adopter's capacity to adopt; (c) consent of parties; and (d) intention to create parent-child relationship.
-
-**Doctrine of Relation Back**
-
-A crucial principle in Hindu adoption law is the doctrine of "relation back"—the legal principle that upon valid adoption, the adoptee is deemed to have always been the adopted child of the adoptive parent from the date of adoption, not from the date of birth. The Supreme Court in *Mulla v. Rao* held that this doctrine creates retrospective relationship enabling the adoptee to claim succession rights and other benefits as if born to the adoptive parents.
-
-**Invalidity of Adoption**
-
-Adoption is invalid if:
-
-1. **Failure to Satisfy Capacity Requirements**: If the adoptee or adopter lacks required capacity, adoption is void.
-
-2. **Lack of Consent**: Absence of required consents renders adoption voidable or void depending on circumstances.
-
-3. **Multiple Adoption**: If the child was previously validly adopted, subsequent adoption is void.
-
-4. **Absence of Intention**: If no genuine intention to create parent-child relationship exists, adoption may be deemed invalid despite performance of rituals.
-
-5. **Violation of Statutory Prohibitions**: Adoptions violating specific statutory prohibitions (such as unmarried male adopting female without court permission) are void.
-
-**Consequences of Valid Adoption**
-
-Once valid adoption occurs:
-
-1. **Parent-Child Relationship**: Full parent-child relationship is created with all legal consequences
-
-2. **Succession Rights**: Adoptee acquires full succession rights to adoptive parent's property as biological child would
-
-3. **Maintenance Rights**: Adoptee is entitled to maintenance from adoptive parents
-
-4. **Inheritance**: Adoptee inherits in the same order as biological children
-
-5. **Severance of Natural Relations**: Upon valid adoption, the adoptee's legal relationship with natural parents ceases for most purposes, though inheritance of personal property and maintenance from natural parents may be preserved in certain circumstances
-
-#### Conclusion
-
-Adoption represents a comprehensive legal institution enabling creation of parent-child relationships beyond biological connection. The Hindu Adoption and Maintenance Act, 1956, establishes detailed substantive and procedural requirements ensuring that adoption genuinely serves the welfare of the adoptee while protecting the interests of all parties. The essential requirements regarding capacity of adoptee, capacity of adopter, appropriate consents, and paramount welfare consideration create a framework balancing the autonomy of adults with the protection of children. The doctrine of relation back enables adoptees to acquire comprehensive rights equal to biological children. While adoption can be effected through various means without rigid procedural formalities, compliance with substantive requirements is essential for validity. The contemporary framework, while comprehensive, continues to evolve as courts address novel situations and attempt to harmonize adoption law with constitutional principles of equality and protection of the child.
-
----
-
-### VERSION B
+### ANSWER VERSION - 1
 
 ## Introduction
 
@@ -6673,11 +5421,7 @@ The evolution of adoption jurisprudence, particularly through judicial interpret
 
 ---
 
-**Keywords:** Adoption, Hindu Law, Valid Requirements, Capacity, Welfare Principle, Hindu Adoption and Maintenance Act 1956
-
----
-
-### VERSION C
+### ANSWER VERSION - 2
 
 ### I. DEFINITION
 
@@ -6830,120 +5574,6 @@ Valid adoption under the Hindu Adoption and Maintenance Act, 1956, presupposes s
   * *Year:* January/February 2025 | *Marks:* 10
   * *Year:* June/July 2025 | *Marks:* 10
 
-### VERSION A
-
-#### Introduction
-
-Natural guardianship represents an automatic legal status arising from the family relationship, wherein certain individuals assume responsibility for the welfare, protection, and upbringing of minor children without requiring court appointment. The concept of natural guardian reflects the Hindu legal tradition's recognition that parents and certain other family members possess inherent duties toward minors and should exercise primary guardianship authority. The Hindu Minority and Guardianship Act, 1956, codifies the principles of natural guardianship, specifying who qualifies as natural guardians and the scope of their authority. Understanding natural guardianship requires examination of the categories of natural guardians, their powers and duties, and the limitations imposed on their authority, particularly to protect minor interests.
-
-#### Main Body
-
-**Definition of Natural Guardian**
-
-A natural guardian is a person who, by the force of law and by virtue of their family relationship to a minor, assumes automatic guardianship responsibilities without requiring any judicial appointment. Natural guardianship status flows from kinship relationships and is recognized by operation of law rather than through court process.
-
-**Categories of Natural Guardians**
-
-The Hindu Minority and Guardianship Act, 1956, specifies the following natural guardians:
-
-1. **Mother**: Section 6 provides that the mother is the natural guardian of the child. The mother's status as natural guardian is recognized prior to the father's in certain circumstances, particularly regarding guardianship of person (decisions regarding child's residence, education, health, moral upbringing).
-
-2. **Father**: Section 6 provides that the father is natural guardian. However, the father's guardianship authority over person is subordinate to the mother's in certain circumstances, particularly regarding young children. The father retains primary guardianship of property.
-
-3. **Paternal Grandfather** (if both parents deceased): Upon death of both parents, the paternal grandfather becomes natural guardian.
-
-4. **Paternal Grandmother** (if parents and grandfather deceased): Upon death of parents and paternal grandfather, the paternal grandmother assumes guardianship.
-
-5. **Mother of Illegitimate Child**: The mother of an illegitimate child is automatically the guardian without requiring the father's recognition.
-
-**Special Rules Regarding Mother's Guardianship**
-
-The Hindu Minority and Guardianship Act recognizes the mother's primary guardianship of the child's person in several circumstances:
-
-1. **Guardianship of Infants**: The mother is the guardian of infants (children below five years of age) regarding decisions about person (residence, education, moral upbringing).
-
-2. **Guardianship After Father's Death**: Upon the father's death, the mother assumes guardianship of the child's person unless she remarries (historically, though this is being challenged as unconstitutional).
-
-3. **Pre-Pubertal Children**: The mother's guardianship is particularly significant regarding young children below age of puberty.
-
-4. **Relationship with Father**: While the mother has guardianship of person regarding young children, the father retains primary authority over property matters (guardian of property).
-
-**Special Rules Regarding Father's Guardianship**
-
-1. **Guardian of Property**: The father is the primary guardian of the child's property. Decisions regarding property management, alienation, and investment are primarily the father's responsibility.
-
-2. **Guardian of Person Post-Puberty**: Upon the child attaining puberty (approximately age 12-14), the father assumes primary guardianship of person regarding matters of education, career, and moral development.
-
-3. **Guardianship Over Legitimacy**: Regarding legitimacy and family status matters, the father's authority is primary.
-
-**Mother's Loss of Guardianship Status**
-
-Historically, the mother would lose guardianship status upon remarriage. However, this provision has been challenged as unconstitutional, and many courts have held that remarriage does not automatically disqualify the mother. The Supreme Court in *Geetha Gopal v. Ramakrishnan* (AIR 2010 SC 1356) held that while a mother's remarriage may be a factor in guardianship determinations, it does not automatically disqualify her from guardianship.
-
-**Powers of Natural Guardians**
-
-1. **Guardianship of Person**:
-   - Decisions regarding the minor's residence and household
-   - Decisions regarding the minor's education and career development
-   - Decisions regarding the minor's health and medical treatment
-   - Moral and spiritual upbringing
-   - Decisions regarding the minor's marriage (with limitations)
-   - Disciplinary authority
-
-2. **Guardianship of Property**:
-   - Management of minor's property
-   - Collection of income from property
-   - Investment of surplus income
-   - Protection of property from loss or damage
-   - Preparation and maintenance of accounts
-
-3. **Duties of Guardians**:
-   - Maintenance and support of the minor
-   - Protection of the minor's interests
-   - Acting in good faith and not abusing guardian status for personal benefit
-   - Avoiding conflicts of interest
-   - Rendering accounts if required by court
-
-**Limitations on Natural Guardian's Powers**
-
-The Hindu Minority and Guardianship Act imposes significant limitations on natural guardians' powers:
-
-1. **Alienation of Property**: Section 29 restricts the guardian's power to alienate minor's immovable property. Alienation of immovable property requires court permission unless it is for the minor's benefit (such as paying debts incurred for minor's maintenance or education).
-
-2. **Mortgage and Lease**: The guardian cannot mortgage or create long-term leases of minor's property without court permission.
-
-3. **Investment Restrictions**: The guardian must invest surplus income in specified securities and cannot make speculative investments.
-
-4. **Accounting Requirements**: The guardian is required to maintain accounts and render them to the court if requested or if the guardianship terminates.
-
-5. **Prohibition on Self-Dealing**: The guardian cannot engage in transactions creating conflicts of interest or personal benefit at the expense of the minor.
-
-6. **Court Oversight**: Guardians' actions can be challenged before court, and the court can impose restrictions on guardian's authority if the minor's interests are jeopardized.
-
-**Doctrine of Welfare of Minor**
-
-The paramount principle governing natural guardianship is that the welfare of the minor is the supreme consideration. In *Sivaramakrishnan v. Sivaraman* (AIR 2010 SC 1632), the Supreme Court held that all guardianship decisions must be evaluated through the lens of the minor's welfare. Natural guardianship status is not an absolute or plenary right but is exercisable only insofar as it serves the minor's best interests.
-
-**Variation and Removal of Natural Guardians**
-
-While natural guardian status is automatic, courts possess authority to:
-
-1. **Impose Restrictions**: Courts can impose restrictions on guardian's authority if the minor's interests are threatened.
-
-2. **Remove Natural Guardian**: If the natural guardian acts against the minor's interests or engages in abuse or neglect, courts can remove the guardian.
-
-3. **Appoint Additional Guardian**: Courts can appoint a court-appointed guardian to supplement or override natural guardian's authority if necessary.
-
-4. **Disqualify from Guardianship**: Conduct demonstrating unfitness (such as abuse, addiction, moral turpitude) can result in disqualification from natural guardianship.
-
-#### Conclusion
-
-Natural guardians represent the primary authority for minors' welfare, with automatic status arising from family relationships. Mothers and fathers assume guardian roles with differentiated authority—mothers typically possessing primary guardianship over person for young children and fathers possessing primary guardianship over property. The natural guardianship framework reflects the Hindu legal tradition's recognition of family responsibility for children while imposing significant statutory limitations ensuring guardian authority is exercised in the minor's interest. The doctrine of welfare of the minor operates as the paramount principle limiting and directing natural guardian authority. Contemporary developments increasingly scrutinize traditional gender-based distinctions in natural guardianship, with courts recognizing that both parents should participate equally in guardianship decisions unless specific circumstances warrant differentiation. The framework thus represents a balance between recognizing family autonomy in child-rearing and protecting minors through court oversight and statutory safeguards.
-
----
-### VERSION B
-
----
 
 ## Introduction
 
@@ -7106,247 +5736,6 @@ The court may, upon inquiry, vest Priya with guardianship authority for educatio
 Natural guardians under Hindu personal law occupy a position of profound responsibility and considerable authority, yet constrained by the overarching welfare principle and subject to court supervision. The identification of natural guardians primarily through familial status reflects the law's recognition that biological and familial bonds typically inspire dedication to child welfare. However, this recognition is tempered by the legal system's commitment to ensuring that guardianship authority is never exercised arbitrarily and always remains subordinate to the minor's genuine interests.
 
 The contemporary jurisprudence of natural guardianship increasingly recognizes mothers as co-equal guardians to fathers, reflecting constitutional imperatives of gender equality and empirical reality regarding parental dedication. The powers of natural guardians—encompassing personal guardianship, property management, and representational authority—are extensive yet bounded, providing guardians with necessary authority to make critical life decisions while preventing abuse through the institutional mechanism of court supervision and the normative principle of welfare centrality.
-
----
-
-**Keywords:** Natural Guardians, Hindu Minority and Guardianship Act, Parental Authority, Welfare Principle, Guardian Powers
-
----
-
-### VERSION C
-
-### I. DEFINITION OF NATURAL GUARDIAN
-
-A natural guardian, under the Hindu Minority and Guardianship Act, 1956, is a person whose guardianship of a minor arises by operation of law—based on familial or parental relationship—without requiring judicial appointment. Natural guardianship represents the primary protective mechanism for minors under Hindu law.
-
-### II. IDENTIFICATION OF NATURAL GUARDIANS
-
-#### A. PRIMARY HIERARCHY (Section 19)
-
-**1. FATHER**
-
-Section 19(a) provides that the father shall be the natural guardian of a **legitimate minor child** during the child's minority. The father occupies the first position in the guardianship hierarchy.
-
-The father's guardianship authority presupposes:
-- The father's fitness and capability
-- The father's survival (death displaces paternal guardianship)
-- The father's capacity (mental incapacity disqualifies)
-- The father's non-abandonment of the child
-
-**Limitations on Paternal Guardianship:**
-- The father's guardianship may be suspended or removed if the father's conduct is prejudicial to the minor's welfare
-- Court may intervene if the father's decisions demonstrably harm the minor
-- Sale or alienation of immovable property requires court permission (Section 24)
-
-**2. MOTHER**
-
-Upon the father's death, disqualification, or removal, the mother becomes the natural guardian (Section 19(b)).
-
-For **illegitimate children**, the mother is the natural guardian (Section 19(c)). The mother's guardianship over an illegitimate child is primary and does not require the father's prior guardianship to fail.
-
-The mother, when exercising guardianship:
-- Possesses personal guardianship authority over the child's upbringing, education, health
-- Can represent the child in legal proceedings (subject to certain limitations regarding property)
-- Cannot alienate immovable property without court permission
-- May apply the child's income to meet maintenance and welfare needs
-
-**3. GRANDFATHER**
-
-Upon failure of maternal guardianship, the paternal grandfather becomes natural guardian (Section 19(d)).
-
-**4. GRANDMOTHER**
-
-Upon failure of paternal grandfather's guardianship, the paternal grandmother becomes natural guardian (Section 19(e)).
-
-#### B. MODERN DEVELOPMENTS
-
-Courts have recognized that:
-- Guardianship hierarchy is not rigidly mechanical; welfare principle may override hierarchical positioning
-- Mothers are increasingly recognized as co-equal with fathers in guardianship authority
-- Natural guardianship may vest in persons standing in loco parentis despite lacking formal familial status
-
-### III. POWERS OF NATURAL GUARDIANS
-
-#### A. PERSONAL GUARDIANSHIP POWERS
-
-**1. CUSTODY AND CONTROL**
-
-The natural guardian possesses right to:
-- Physical custody of the minor's person
-- Determination of the minor's residence and place of living
-- Control over the minor's associations and social relationships
-- Authority over the minor's movements and mobility
-
-**2. EDUCATION AND DEVELOPMENT**
-
-The guardian may:
-- Select educational institutions appropriate to the minor's needs and abilities
-- Determine curriculum and course of study
-- Authorize termination of formal education if the minor reaches working age
-- Provide vocational training and skill development
-- Authorize the minor's participation in employment or apprenticeship
-
-**3. RELIGIOUS UPBRINGING**
-
-The guardian may:
-- Determine the minor's religious education and observance
-- However, this authority diminishes as the minor approaches majority and develops independent religious convictions
-
-**4. HEALTH AND MEDICAL DECISIONS**
-
-The guardian may:
-- Authorize medical treatment and hospitalization
-- Consent to surgical procedures
-- Make emergency medical decisions
-- However, the guardian cannot authorize procedures affecting fundamental bodily autonomy (e.g., sterilization) without stringent statutory safeguards
-
-**5. DISCIPLINE AND MORAL TRAINING**
-
-The guardian may exercise reasonable discipline within bounds recognized by law, though corporal punishment or excessive punishment is impermissible under contemporary constitutional jurisprudence.
-
-#### B. PROPERTY GUARDIANSHIP POWERS
-
-**1. CUSTODY AND MANAGEMENT**
-
-The natural guardian may:
-- Take possession and custody of the minor's property
-- Collect income and returns (rents, harvests, interest, dividends)
-- Manage the minor's productive assets
-- Maintain the minor's property in proper condition
-
-**2. UTILIZATION OF INCOME**
-
-The guardian may apply the minor's income toward:
-- The minor's maintenance, food, clothing, shelter
-- The minor's education and healthcare
-- Reasonable household expenses
-- Discharge of the minor's legal obligations (excluding obligations arising from the minor's contractual breach or negligence)
-
-**3. ALIENATION OF IMMOVABLE PROPERTY**
-
-**Section 24 of the Act imposes stringent restrictions.** The guardian cannot sell, mortgage, exchange, or otherwise alienate the minor's immovable property without **prior written permission of the District Court**.
-
-The court will grant such permission only if satisfied that:
-- The alienation is genuinely necessary for the minor's welfare
-- The necessity arises from situations such as:
-  - Payment of debts contracted for the minor's benefit
-  - Meeting maintenance and education expenses
-  - Medical treatment
-  - Discharge of statutory obligations or taxes
-- The proposed transaction is on commercially reasonable terms
-- The proceeds will be properly secured and applied for the minor's benefit
-- No improper motive animates the application
-
-**Why this restriction?** Immovable property constitutes the foundation of Hindu family security and generational wealth transfer. Section 24 protects against guardian abuse, exploitation, or decisions made under financial pressure.
-
-**4. MOVABLE PROPERTY TRANSACTIONS**
-
-The guardian's authority regarding movable property is considerably broader. Without requiring court permission, the guardian may:
-- Sell movable assets
-- Pledge or mortgage movable property
-- Lease movable assets for income generation
-- Use movable property as security for loans taken for the minor's welfare
-
-#### C. REPRESENTATIONAL AUTHORITY
-
-**1. LEGAL PROCEEDINGS**
-
-The guardian represents the minor in all legal proceedings (civil and criminal) where the minor is a party, including:
-- Filing suits on the minor's behalf
-- Defending claims against the minor
-- Conducting litigation and appealing adverse judgments
-- Settling disputes within reasonable bounds
-
-**2. CONTRACTUAL REPRESENTATION**
-
-The guardian may enter into contracts on the minor's behalf, subject to:
-- Contracts being for the minor's benefit
-- Terms being reasonable and not unconscionable
-- The contract not attempting to bind the minor beyond its beneficial scope
-
-**3. PROPERTY TRANSACTIONS**
-
-The guardian may execute deeds, accept gifts, and participate in property transactions on the minor's behalf (subject to Section 24 restrictions regarding immovable property alienation).
-
-**4. TESTAMENTARY MATTERS**
-
-The guardian **cannot**:
-- Execute a will on the minor's behalf
-- Dispose of the minor's property through testamentary arrangements
-- Exercise testamentary power, as testamentary capacity remains a fundamentally personal right
-
-#### D. FIDUCIARY OBLIGATIONS
-
-Implicit in natural guardianship are fiduciary duties:
-
-**1. DUTY OF CARE**
-
-The guardian must exercise reasonable care in managing the minor's property and upbringing, as would a prudent parent caring for their own child.
-
-**2. DUTY OF LOYALTY**
-
-The guardian must act primarily in the minor's interest, not subordinating the minor's welfare to the guardian's personal interests.
-
-**3. ACCOUNTING OBLIGATION**
-
-The guardian must account for receipt and disbursement of the minor's property and may be required to furnish accounts to the court.
-
-**4. DUTY TO PRESERVE PROPERTY**
-
-The guardian must preserve the minor's property in good condition, preventing deterioration or wastage.
-
-### IV. LIMITATIONS ON GUARDIANSHIP POWERS
-
-#### A. THE WELFARE PRINCIPLE (Section 3)
-
-The overarching principle is that "**welfare of the minor shall be the paramount consideration**" in all guardianship matters. This principle:
-- Prevails over guardian's personal preferences
-- Can justify court intervention even where the guardian's action is technically legal
-- Requires that guardianship authority be exercised for the minor's genuine benefit, not parental convenience
-
-#### B. COURT SUPERVISORY JURISDICTION
-
-Courts possess inherent jurisdiction to:
-- Supervise guardianship exercise
-- Issue directives to guardians
-- Require furnishing of guardianship accounts
-- Intervene if guardianship is being exercised prejudicially to the minor
-- Remove or suspend guardianship if necessary
-
-#### C. CONFLICT OF INTEREST
-
-A natural guardian is disqualified from exercising guardianship where the guardian's personal interests directly conflict with the minor's interests, and the guardian cannot fairly advance both sets of interests simultaneously.
-
-#### D. CONSTITUTIONAL CONSTRAINTS
-
-Guardianship authority is subject to:
-- Article 21 (right to life and personal liberty)
-- Article 14 (equality before law)
-- Article 15 (non-discrimination)
-- Article 24 (prohibition of child labor)
-- Article 45 (right to free and compulsory education)
-
-#### E. STATUTORY RESTRICTIONS
-
-- Section 24: Court permission required for immovable property alienation
-- Child Marriage Restraint Act: Guardian cannot force child into marriage
-- Prohibition of Child Labour Act: Guardian cannot involve child in prohibited labour
-- Right to Free and Compulsory Education Act: Guardian must ensure child receives education
-
-### V. ILLUSTRATION
-
-Ajay (father) seeks to sell his minor son Rohan's ancestral residential property to meet pressing financial obligations unrelated to Rohan's welfare. The property was bequeathed to Rohan by his grandfather.
-
-**Analysis:**
-- While Ajay, as father, is the natural guardian, Section 24 requires court permission
-- The court will inquire whether the alienation serves Rohan's welfare
-- Financial obligations of the father, unrelated to Rohan's maintenance or education, do not constitute valid grounds
-- The court would likely refuse permission, as allowing such alienation would violate the welfare principle
-- The court might suggest alternative relief (personal loan, mortgage of father's own property, etc.)
-
-### VI. CONCLUSION
-
-Natural guardians under Hindu law occupy positions of significant authority balanced against the foundational principle that guardianship exists for the minor's welfare, not for the guardian's benefit. The guardianship powers—encompassing personal care, property management, and representational authority—are extensive yet constrained by statutory restriction (particularly Section 24), court supervision, and the omnipresent welfare principle. Natural guardianship reflects the law's recognition that familial relationships typically inspire dedication to child welfare, while simultaneously maintaining institutional mechanisms to prevent abuse and ensure protection of minors against exploitation.
 
 ---
 
@@ -8019,7 +6408,7 @@ The law does not permit a wife to unilaterally dictate her husband's living arra
   * *Year:* December 2019 | *Marks:* 6
   * *Year:* April/May 2022 | *Marks:* 6
 
-### VERSION A
+### PART - A
 
 ### I. STATUTORY BASIS
 
@@ -8093,7 +6482,7 @@ Wife's maintenance under Hindu law reflects the principle that marriage creates 
 
 ---
 
-### VERSION B
+### PART - B
 
 ### QUESTION ANALYSIS
 
