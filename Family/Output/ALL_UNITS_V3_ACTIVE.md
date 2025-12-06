@@ -1,14 +1,17 @@
------
+# Hindu Law Examination Question Bank - Unit Wise & Marks Wise
 
+#### *IMPORTANT PREVIOUS YEAR QUESTIONS WITH ANSWERS : 2018-2025 (12 SETS)* 
+
+### *AUTHOR: BHAVANA BHAT B.A LL.B ( LL.M)*
 # Hindu Law Examination Question Bank - Unit Wise & Marks Wise
 
 ## Table of Contents
 
-1.  [Unit I - Sources of Hindu Law & Schools](https://www.google.com/search?q=%23unit-i)
-2.  [Unit II - Hindu Marriage](https://www.google.com/search?q=%23unit-ii)
-3.  [Unit III - Joint Family, Coparcenary & Partition](https://www.google.com/search?q=%23unit-iii)
-4.  [Unit IV - Succession & Inheritance](https://www.google.com/search?q=%23unit-iv)
-5.  [Unit V - Adoption, Guardianship & Maintenance](https://www.google.com/search?q=%23unit-v)
+1.  Unit I - Sources of Hindu Law & Schools
+2.  Unit II - Hindu Marriage
+3.  Unit III - Joint Family, Coparcenary & Partition
+4.  Unit IV - Succession & Inheritance
+5.  Unit V - Adoption, Guardianship & Maintenance
 
 -----
 
