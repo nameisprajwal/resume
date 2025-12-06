@@ -1,0 +1,40 @@
+You are an expert document-analysis system.
+
+You will read 10 uploaded PDF files containing question papers.
+
+Each PDF corresponds to a specific year, and inside each year there are five units (Unit-1 to Unit-5).
+
+Each unit contains approximately 10 questions, but the number may vary.
+
+Each question is printed in two languages: pick only english version
+
+
+Your task is to extract all questions, organize them unit-wise, and generate markdown output
+
+like the format below
+
+# UNIT I - Fundamentals of Indian Penal Code
+
+## 10 Marks Questions
+
+### 1. "Offence and punishments are two faces of same coin". Discuss.
+
+* Year: April/May 2022 (Dec. 2021) | Marks: 10
+
+
+3. If a question appears more than once across PDFs, include it each time with its respective year/month.
+
+4. If any question’s marks or date is unclear, infer using the nearest header but do NOT guess.
+
+If not found, mention as year and marks unknown
+
+5. Maintain proper markdown formatting — no broken structures.
+
+---
+
+📌 Final Expected Response
+
+Produce markdown block:
+
+--- ENGLISH VERSION MARKDOWN ---
+(content)
