@@ -773,6 +773,7 @@ Hindu marriage embodies a profound duality—it is simultaneously a sacred sacra
   * *Year:* April/May 2022 | *Marks:* 10
   * *Year:* August/September 2024 | *Marks:* 10
   * *Year:* January/February 2025 | *Marks:* 10
+
 #### Introduction
 
 The grounds available to a Hindu wife for dissolution of marriage represent one of the most significant areas of gender-specific law within the Hindu legal system. Historically, Hindu law granted substantially different grounds for divorce to husbands and wives, reflecting the patriarchal structure of pre-modern Hindu society wherein women occupied subordinate positions. The original Hindu Marriage Act, 1955, while introducing unprecedented rights for women, nonetheless contained important asymmetries favoring husbands. The systematic evolution of law through judicial interpretation and statutory amendment has progressively expanded the grounds available to wives, culminating in substantial parity between spouses. However, important distinctions remain, reflecting both historical development and certain practical considerations regarding gender-specific harms to women. Understanding the grounds available to wives requires examination of both the statutory framework and the judicial interpretation that has shaped its application.
