@@ -84,33 +84,109 @@ Define Acceptance. Explain the essentials of a valid acceptance / Communications
 * *Year:* June/July 2025 | *Marks:* 10 (Define acceptance; Essentials with illustration)
 * *Year:* December 2019 | *Marks:* 10 (Define acceptance; Effect of acceptance)
 
-## Definition of Acceptance
+# Acceptance under the Indian Contract Act, 1872
 
-Acceptance under Section 2(b) of the Indian Contract Act, 1872, occurs when the person to whom the proposal is made signifies assent thereto, converting the proposal into a promise.[1][2][3]
+Acceptance is the **assent of the person to whom a proposal is made**, so that the proposal becomes a **promise**, and a **contract** can arise under the Indian Contract Act, 1872.  
+For validity, acceptance must meet certain essentials and must be properly communicated as per **Sections 2(b), 3, 4, 7, and 8** of the Act, clarified by important case law.
 
-## Essentials of Valid Acceptance
+---
 
-Valid acceptance requires:
-- **Absolute and unqualified assent**: Must mirror the proposal exactly; any variation is a counter-offer (Section 7).[3][4][5]
-- **Prescribed or usual mode**: Follow proposer's specified method or reasonable usual manner.[6][3]
-- **Communication to proposer**: Mental assent insufficient; must reach proposer's knowledge (except Section 8 performance).[5][6]
-- **By offeree or agent**: Only the addressed party or authorized agent can accept.[7][8]
-- **Within reasonable time**: Before revocation or lapse.[4][5]
-- **Knowledge of offer**: Offeree must know of proposal.[9][10]
+## Statutory Definition of Acceptance
 
-## Communication Rules (Sections 3-4)
+**Section 2(b), Indian Contract Act, 1872**:  
+*“When the person to whom the proposal is made signifies his assent thereto, the proposal is said to be accepted; a proposal, when accepted, becomes a promise.”*
 
-- Proposal communicates on reaching offeree's knowledge.[10][6]
-- Acceptance complete against proposer on dispatch (postal rule); against offeree on receipt.[6][9]
+Thus, acceptance is the **final and unqualified expression of assent** to the terms of the proposal, converting it into a legally binding promise.
 
-## Key Case Laws
+### Key Case Law
+- **Carlill v. Carbolic Smoke Ball Co. (Eng.)** – A general offer can be accepted by performance; such acceptance creates a binding promise.  
+- **Lalman Shukla v. Gauri Dutt (Allahabad)** – No knowledge of offer = no assent = no acceptance.
 
-| Case | Principle | Relevance |
-|------|-----------|-----------|
-| Lalman Shukla v Gauri Dutt (1913) | No knowledge of offer = no acceptance | Communication essential [9][10] |
-| Carlill v Carbolic Smoke Ball Co. | Performance accepts general offer (Section 8) | Acceptance by conduct [3][4] |
-| Felthouse v Bindley | Silence not acceptance | Communication required [4][5] |
-| Powell v Lee | Unauthorized communication invalid | By offeree/agent only [7][8] |
+---
+
+## Essentials of a Valid Acceptance  
+(Under Sections **7** and **8** and relevant judicial decisions)
+
+### 1. **Absolute and Unqualified (No Counter-Offer)**
+- Acceptance must **exactly correspond** with the terms of the offer.  
+- Any variation = **counter-offer**, not acceptance (Section 7).  
+- A contract arises only when there is **clear, unconditional assent**.
+
+---
+
+### 2. **Made in the Prescribed or Usual Mode**
+- If the proposer specifies a mode (e.g., *“reply by email only”*), acceptance should follow that mode.  
+- If a different mode is used, the proposer must object **within reasonable time** or is deemed to have accepted it.  
+- If no mode is prescribed, acceptance may be given **in any usual and reasonable manner**, express or implied.
+
+---
+
+### 3. **Acceptance Must Be Communicated (No Mere Mental Assent)**
+- Internal willingness ≠ acceptance.  
+- Acceptance must be communicated so as to come to the **knowledge of the proposer** (subject to Section 8).  
+- Silence does not constitute acceptance (**Felthouse v. Bindley**, followed in India).
+
+---
+
+### 4. **Acceptance by the Offeree or Authorised Agent Only**
+- Acceptance must come from the **person to whom the offer is addressed** or their **authorised agent**.  
+- **Powell v. Lee (Eng.)** – Communication by an unauthorised person is invalid.
+
+---
+
+### 5. **Given Within Time and While Offer is Subsisting**
+- Acceptance must be made **within the time specified**, or if none, within a **reasonable time**.  
+- Once an offer is revoked under Section 6, any later acceptance is **invalid**.
+
+---
+
+### 6. **Offeree Must Have Knowledge of the Offer**
+- In **Lalman Shukla v. Gauri Dutt**, the servant could not claim the reward because he did not know about the offer.  
+- Knowledge of the proposal is a **precondition to acceptance**.
+
+---
+
+### 7. **Acceptance by Performance (Section 8)**
+Section 8: *Performance of the conditions of a proposal, or acceptance of consideration, is acceptance of the proposal.*  
+Example: **Carlill v. Carbolic Smoke Ball Co.** – performance of conditions in a general offer = acceptance without separate communication.
+
+---
+
+## Communication of Proposal and Acceptance  
+(Sections **3** and **4**)
+
+### Communication of Proposal (Offer)
+A proposal is communicated when it **comes to the knowledge** of the person to whom it is made (Section 3).  
+Without communication, there can be **no acceptance** (e.g., *Lalman Shukla v. Gauri Dutt*).
+
+---
+
+## Communication of Acceptance – When Complete (Section 4)
+
+### Acceptance is complete:
+
+#### **Against the proposer**  
+- When it is **put in the course of transmission**, out of the power of the acceptor  
+  (e.g., when a properly addressed letter of acceptance is **posted**).
+
+#### **Against the acceptor**  
+- When it **comes to the knowledge** of the proposer  
+  (e.g., when the letter **reaches** the proposer).
+
+---
+
+## Important Cases and Illustrations
+
+### **Postal Rule (Non-instantaneous communication)**
+- Once acceptance is **duly posted**, the proposer becomes **bound**, even if the letter is delayed or lost.
+
+### **Instantaneous Communication (Telephone, etc.)**
+- Acceptance is complete **when heard and understood** by the proposer, similar to face-to-face dealings.
+
+---
+
+# End of Notes
+
 
 
 
