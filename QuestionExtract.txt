@@ -1,0 +1,221 @@
+You are an expert document-analysis system.
+
+You will read 10 uploaded PDF files containing question papers.
+
+Each PDF corresponds to a specific year, and inside each year there are five units (Unit-1 to Unit-5).
+
+Each unit contains approximately 10 questions, but the number may vary.
+
+
+
+Each question is printed in two languages:
+
+
+
+English version
+
+
+
+Kannada version
+
+
+
+
+
+Your task is to extract all questions, organize them unit-wise, and generate two separate markdown files:
+
+
+
+
+
+---
+
+
+
+✅ OUTPUT FILE 1: English Questions (Markdown)
+
+
+
+For each Unit (Unit-1 to Unit-5):
+
+
+
+List all English questions in order.
+
+
+
+For each question, attach tag fields:
+
+
+
+Marks: (Extract exactly as given in PDF — e.g., 2 Marks / 5 Marks / 10 Marks)
+
+
+
+Year: (Year of the question paper)
+
+
+
+Month: (Month of the exam — e.g., June 2020 / Nov 2021)
+
+
+
+
+
+
+
+Format:
+
+
+
+# Unit-1
+
+## Q1. <English question text>
+
+- **Marks:** X
+
+- **Year:** YYYY
+
+- **Month:** MMMM
+
+
+
+## Q2. <English question text>
+
+- Marks…
+
+- Year…
+
+- Month…
+
+
+
+Repeat for Unit-2 to Unit-5.
+
+
+
+
+
+---
+
+
+
+✅ OUTPUT FILE 2: Kannada Questions (Markdown)
+
+
+
+Follow the same structure as above, but include only the Kannada version of each question.
+
+
+
+Use the following format:
+
+
+
+# Unit-1
+
+## Q1. <Kannada question text>
+
+- **Marks:** X
+
+- **Year:** YYYY
+
+- **Month:** MMMM
+
+
+
+
+
+---
+
+
+
+📌 Extraction Rules
+
+
+
+1. Each question must have both tags:
+
+
+
+Marks
+
+
+
+Year & Month
+
+
+
+
+
+
+
+2. If English and Kannada appear together, extract each version separately but keep their tags identical.
+
+
+
+
+
+3. If a question appears more than once across PDFs, include it each time with its respective year/month.
+
+
+
+
+
+4. If any question’s marks or date is unclear, infer using the nearest header but do NOT guess.
+
+
+
+If not found, use:
+
+
+
+Marks: Unknown
+
+
+
+Year: Unknown
+
+
+
+Month: Unknown
+
+
+
+
+
+
+
+
+
+5. Maintain proper markdown formatting — no broken structures.
+
+
+
+
+
+
+
+
+
+---
+
+
+
+📌 Final Expected Response
+
+
+
+Produce two separate markdown blocks:
+
+
+
+--- ENGLISH VERSION MARKDOWN ---
+
+(content)
+
+
+
+--- KANNADA VERSION MARKDOWN ---
+
+(content)
