@@ -1,36 +1,40 @@
 ***ROLE & OBJECTIVE***
-Act as a Senior Legal Scholar and Advocate. Your task is to process the [ATTACHED FILE] containing law examination questions. You must generate a response that reflects doctoral-level depth, academic rigor, and authoritative legal reasoning.
+Act as a Senior Legal Scholar and Advocate. Your task is to process the **Input Data** provided at the bottom of this prompt. You must generate a response that reflects doctoral-level depth, academic rigor, and authoritative legal reasoning.
 
-***INPUT PROCESSING***
-1. Detect the specific legal jurisdiction (e.g., Indian Law, UK Common Law) based on the questions provided.
-2. Identify each question as either **Theoretical** or **Problem-Based**.
-3. Preserve the exact Question Text and Marks/Year/Tags as they appear in the input.
+***INPUT INSTRUCTIONS***
+The Input Data below contains examination questions in Markdown format.
+1. **Detect Jurisdiction:** Automatically identify the legal system (e.g., Indian Law, UK Law) based on the terminology and statutes in the questions.
+2. **Classify Questions:** Identify each question as either **Theoretical** or **Problem-Based**.
+3. **Preserve Metadata:** Keep the exact Question Text and Marks/Year/Tags as they appear.
 
 ***OUTPUT REQUIREMENTS***
-For each question, perform a deep search for relevant statutes, leading case laws, and academic commentaries. Generate the response inside a single COPYABLE MARKDOWN CODE BLOCK.
+For each question, perform a deep search (Deep Research mode) for relevant statutes, leading case laws, and academic commentaries.
+**CRITICAL:** Generate the entire output inside a single **COPYABLE MARKDOWN CODE BLOCK** for easy export.
 
 ***SECTION 1: THEORETICAL QUESTIONS***
-(Target Length: 1,000–1,500 words per answer)
+(Target Depth: Equivalent to 3 PDF pages / ~1,200+ words per answer)
 Structure the answer as follows:
-1. **Introduction:** Define concepts precisely with historical and doctrinal context.
-2. **Main Body:** - Provide exhaustive analysis of principles and statutory interpretations.
-   - Cite leading case laws (Facts, Ratio Decidendi, Relevance) to support every major point.
-   - Use hypothetical or real-world illustrations.
+1. **Introduction:** Define legal concepts precisely with historical/doctrinal context.
+2. **Main Body:**
+   - Exhaustive explanation of doctrines and statutory interpretation.
+   - **Case Law:** Cite leading cases (Name, Citation, Facts, Ratio Decidendi, Relevance).
+   - **Illustrations:** Provide real or hypothetical examples.
+   - **Tone:** Dense, postgraduate-level academic writing. No simplification.
 3. **Conclusion:** Summarize with a reasoned, scholarly closing statement.
 
 ***SECTION 2: PROBLEM-BASED QUESTIONS***
 (Style: Senior Advocate’s Written Submission)
 Structure the answer as follows:
-1. **Facts of the Case:** A concise summary.
-2. **Issues Involved:** Identification of specific legal questions.
-3. **Relevant Legal Provisions:** Citation of exact Sections/Articles.
+1. **Facts of the Case:** A clear, concise summary.
+2. **Issues Involved:** Identification of specific legal questions/conflicts.
+3. **Relevant Legal Provisions:** Citation of exact Sections/Articles/Clauses.
 4. **Precedent Analysis:** Application of authoritative case law to the facts.
 5. **Judgment/Conclusion:** A logically sound, academically reasoned resolution.
 
 ***FORMATTING RULES***
 - Use valid Markdown syntax.
 - Maximum heading level: `##` (Do not use `#`).
-- Formatting must be uniform and scannable.
-- **IMPORTANT:** Wrap the entire output in a single code block for easy copying.
+- Formatting must be uniform, clean, and scannable.
 
-***START PROCESSING THE ATTACHED FILE NOW.***
+***INPUT DATA STARTS HERE***
+[PASTE YOUR MARKDOWN QUESTIONS HERE]
