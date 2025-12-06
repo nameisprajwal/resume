@@ -1252,8 +1252,7 @@ Section 13B(1) Hindu Marriage Act: Parties must live separately for "one year or
 
 Alternative remedies unavailable: Contested divorce grounds (Section 13) require cruelty/adultery (impossible in three months); void/voidable marriage grounds (Sections 11-12) inapplicable absent constitutional defects. Judicial separation (Section 10) available but requires fault grounds.
 
-**Judgment:** Petition premature; must wait until July 2019 for Section 13B eligibility [web:42][web:48].
-
+**Judgment:** Petition premature; must wait until July 2019 for Section 13B eligibility .
 ---
 
 ### 11\. Write a note on Dowry (Customary practices/Legislative provisions).
@@ -3439,7 +3438,7 @@ Section 30-A Hindu Succession Act (inserted 2005); Mitakshara principles.
 
 Post-2005 Amendment (Section 30-A), liability limited to **value of inherited property** from deceased father, excluding son's subsequent acquisitions. Debt for "personal benefit" (if legal) binds inherited share only; immoral debts excluded entirely.
 
-**Judgment:** Creditor recovers from son's inherited share (if any); self-acquired property protected [web:43][web:46][web:49].
+**Judgment:** Creditor recovers from son's inherited share (if any); self-acquired property protected.
 
 ---
 
@@ -5766,7 +5765,7 @@ Section 8: Class I heirs; Section 12: Adopted son equals natural son.
 2. **Class II** (only if no Class I): Father
 3. Brother (last, shares with father if no Class I)
 
-**Shares:** Adopted son + daughter divide estate 50:50. Father/brother excluded [web:110][web:113].
+**Shares:** Adopted son + daughter divide estate 50:50. Father/brother excluded.
 
 ### 16\. Problem: Vijayalaxmi dies intestate leaving illegitimate daughter, son, father and mother.
 
