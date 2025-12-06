@@ -2253,28 +2253,164 @@ Understanding reciprocal promises is essential to contract law, as most real-wor
 Explain the law relating to "Time and Place" for the performance of a contract.
 * *Year:* 2021 (Jan/Feb) | *Marks:* 10
 
+## Time and Place for Performance of Contract
+
+### Introduction
+Sections 46 to 50 and 55 of the Indian Contract Act, 1872 delineate the law on time and place of performance, stipulating that where no specific place is designated, performance occurs at the promisor's usual place of business or residence, with time stipulations becoming essential terms rendering non-performance a repudiation unless waived. This framework, rooted in mercantile custom and equitable principles from cases like *Behren v. Mathews* (1865) 2 Bom HCR 44, balances contractual certainty with commercial flexibility by deeming time non-essential absent explicit stipulation.
+
+### Main Body
+Doctrinal exposition commences with Section 46, mandating promisor's reasonable diligence in performance upon promisee's demand where no time fixed, eschewing automatic discharge absent such notice. Section 47 posits performance at promisor's residence/business if unspecified, shifting to promisee's location post notice; Section 48 empowers promisee to elect venue for multiple promisors. Section 49 governs goods delivery at buyer's residence absent agreement, while Section 50 privileges prior possessor in bailment contexts.
+
+Leading authorities crystallize interpretation: In *Raj Kishore v. United Provinces Co-operative Bank Ltd.* AIR 1926 All 96, time fixed for loan repayment was held essential, non-performance justifying rescission; ratio—express stipulation elevates time to condition precedent, breach discharging counterparty; relevance underscores Section 55's waiver provision where performance tendered late but accepted. Conversely, *Behren v. Mathews* (1865) 2 Bom HCR 44 affirmed time non-essential in land sale absent mercantile urgency, permitting specific performance despite delay.
+
+Statutory illustrations elucidate: Section 46(a)—A promises B future performance without time; B must demand before claiming breach; Section 55 illustration—time-fixed goods shipment delayed but accepted waives essence. Hypothetical: Merchant contracts wheat delivery by 15th March at Bombay; failure without excuse triggers repudiation per Section 55, unlike non-stipulated service contracts.
+
+| Aspect | Time as Essence (Section 55) | Time Non-Essential | Place of Performance |
+|--------|------------------------------|--------------------|----------------------|
+| Legal Effect | Breach = repudiation; damages/rescission | Delay permits specific performance | Promisor's place unless specified (Sections 47-49) |
+| Leading Case | *Raj Kishore* AIR 1926 All 96 | *Behren v. Mathews* (1865) 2 Bom HCR 44 | *Ardeshir v. Sassoon* (1928) 52 Bom 597 |
+| Applicability | Mercantile/commercial urgency | Land/services sans stipulation | Goods at buyer locale (Section 49) |
+| Exceptions (3+) | Waiver by acceptance; reasonable delay excused; custom deems non-essential | N/A | Bailment to possessor (Section 50); joint promisors at election (Section 48) |
+| Remedy | Discharge + damages | Compensation for loss only | Tender at correct venue discharges |
+
+Exceptions warrant tabulation: Customary non-essentials in land transactions per *Stickney v. Keeble* (1915) AC 386 (persuasive); joint promisor venue flexibility; anticipatory breach under Section 39 obviating performance.
+
+### Conclusion
+Key findings affirm time/place prescriptions as conditional triggers for discharge, judicially modulated by intention and equity in *Raj Kishore* lineage, ensuring performance aligns with bargain essence. Scholarly critique highlights rigidity in Section 55 amid global supply chains, advocating reform via objective reasonableness test incorporating force majeure codification to harmonize with UNIDROIT Principles while preserving Indian mercantile autonomy.
+
 ## 6 Marks Questions
 
 ### Question 1
 Write a note on Anticipatory Breach.
 * *Year:* 2024 (Aug/Sep) | *Marks:* 6
 
+### Introduction
+Section 39 of the Indian Contract Act, 1872 codifies anticipatory breach as a repudiation before performance falls due, entitling the promisee to immediately sue for damages or affirm and await performance, premised on *Hochster v. De La Tour* (1853) 2 E&B 678 (persuasive authority in India), which balances commercial protection against unwarranted premature discharge.
+
+### Main Body
+Doctrinal scope encompasses express refusal or factual disablement prior to due date. In *Manindra Chandra Nandy v. Aswini Kumar Achariya* AIR 1921 Cal 185, promisor's pre-deadline declaration of impossibility constituted anticipatory breach, permitting instant suit; ratio establishes clarity of refusal as essential, distinguishing from conditional or contingent statements. *Freeth v. Burr* (1874) LR 9 CP 208 (persuasive) affirmed disablement—e.g., disposal of subject matter—as equivalent to refusal.
+
+Hypothetical: Contractor promises delivery by 1 June but declares bankruptcy on 15 May—anticipatory breach. Contrast: Mere financial difficulty without explicit refusal insufficient absent overt disablement.
+
+| Aspect | Express Repudiation | Disablement | Effect of Affirmation |
+|--------|---------------------|-------------|----------------------|
+| Legal Effect | Immediate cause of action | Equivalent to refusal | Damages postponed to performance date |
+| Burden | Promisee proves clear refusal | Factual impossibility | Promisee waives premature remedy |
+| Remedy | Suit at once per Section 39 | Suit at once per Section 39 | Suit post-breach only |
+
+### Conclusion
+Anticipatory breach permits immediate contractual discharge absent promisee election to affirm, balancing creditor certainty with promisor flexibility in volatile commercial environments.
+
+***
+
 ### Question 2
 Write a note on Novation.
 * *Year:* 2021 (Jan/Feb) | *Marks:* 6
 
+### Introduction
+Section 62 of the Indian Contract Act, 1872 permits novation—substitution of a new contract for an old, extinguishing original obligations by mutual consent—foundationally requiring parties' assent to discharge old consideration via new contract, as established in *Kerur Seshanna v. Sammaiah* (1912) ILR 35 Mad 213 (PC), distinguishing mere assignment from substitution.
+
+### Main Body
+Doctrinal requisites: (i) Valid original contract; (ii) Intention to extinguish via new contract; (iii) New valid agreement; (iv) Mutual assent. In *Kerur Seshanna v. Sammaiah* (1912) ILR 35 Mad 213 (PC), substitution of parties by novation discharged original creditor's rights; ratio—implied assent suffices absent express declaration. *Chhotalal v. Prabhu Dayal* AIR 1937 PC 59 affirmed novation requires fresh consideration, distinguishing from modification.
+
+Illustration: Debtor A owes B ₹10,000; A, B, C agree C replaces A—novation discharges A. Hypothetical: Seller transfers goods obligation to alternate supplier with buyer consent—novation via tripartite agreement.
+
+| Aspect | Novation | Assignment | Modification |
+|--------|----------|-----------|---------------|
+| Effect | Discharges original | Transfers rights only | Alters original terms |
+| Parties Assent | All parties | Assignee consent unnecessary | Bilateral assent |
+| Leading Case | *Kerur Seshanna* (1912) | N/A | *Chhotalal* AIR 1937 PC 59 |
+
+### Conclusion
+Novation extinguishes original liabilities via mutual replacement, safeguarding all parties' interests through intentional substitution absent ambiguity-driven disputes.
+
+***
+
 ### Question 3
 Write a note on Appropriation of Payments.
 * *Year:* 2019 (Dec) | *Marks:* 6
+
+### Introduction
+Sections 59, 60, 61, and 67 of the Indian Contract Act, 1872 govern appropriation—creditor allocation of part-payments against multiple debts or interest-principal segregation—wherein Clayton's Rule (creditor election where debtor silent) operates subject to debtor's express direction per Section 59, as crystallised in *Clayton's Case* (1816) 1 Mer 572 (persuasive).
+
+### Main Body
+Section 59 privileges debtor appropriation; absent that, creditor elects per Clayton's Rule—first payment clears earliest debt, per Section 60. In *Sakarla Veeranna v. Gopal Rao* AIR 1967 SC 1098, debtor's oral direction to apply payment toward interest alone was upheld absent creditor objection; ratio affirms debtor primacy. Section 61 mandates creditor notice of appropriation; *Abichand v. Rohit Singh* AIR 1966 Cal 221 held silent acceptance estops creditor challenge.
+
+Hypothetical: Debtor owing ₹10,000 at 8% interest (₹800) remits ₹1,500 directing ₹1,000 toward principal—debtor appropriation binds creditor absent objection per Section 59.
+
+| Aspect | Debtor Appropriation | Creditor Appropriation | Statutory Order (Sections 60-61) |
+|--------|---------------------|----------------------|----------------------------------|
+| Legal Priority | Section 59: Paramount | Clayton's Rule if debtor silent | Interest paid first; principal via surplus |
+| Leading Case | *Sakarla Veeranna* AIR 1967 SC 1098 | *Clayton's Case* (1816) | *Abichand v. Rohit Singh* AIR 1966 Cal 221 |
+| Requirement | Express direction or conduct | Written notice per Section 61 | Automatic absent election |
+
+### Conclusion
+Appropriation doctrines balance debtor autonomy with creditor flexibility, preventing unjust enrichment via clear hierarchical rules prioritising debtor direction.
+
+***
 
 ### Question 4
 **Problem Question:** Discharge by Remission / Waiver.
 * *Year:* 2024 (Aug/Sep) | *Marks:* 6 (Guarantor liability when creditor gives up claim)
 * *Year:* 2021 (Jan/Feb) | *Marks:* 6 (Accepting lesser sum; Remission)
 
+### Introduction
+Section 63 of the Indian Contract Act, 1872 permits remission—gratuitous waiver of promisor's liability by promisee's express or implied assent—requiring clear relinquishment absent consideration, as established in *Sampatsingh v. Union of India* AIR 1975 SC 1127, distinguishing waiver (procedural forbearance) from remission (substantive discharge).
+
+### Main Body
+1. **Scenario 1: Guarantor Liability When Creditor Gives Up Claim**  
+   Facts: Creditor C holds guarantee from guarantor G securing debtor D's ₹50,000 debt; C forgives D's debt without G's consent, releasing G.  
+   Issues: Whether Section 63 remission binds G; Section 128 guarantor discharge upon creditor's release of principal.  
+   Application: *Sampatsingh v. Union of India* AIR 1975 SC 1127 held remission of principal's liability automatically discharges guarantor absent express reservation; ratio—creditor's relinquishment of primary obligation extinguishes surety's collateral liability per Section 128. C's unilateral forgiveness liberates G; no express discharge needed. Resolution: G discharged; C cannot pursue G post-remission per Section 128.
+
+2. **Scenario 2: Accepting Lesser Sum; Remission**  
+   Facts: Debtor D owes C ₹10,000; C accepts D's ₹8,000 payment, discharging entire debt; later claims balance.  
+   Issues: Whether lesser sum constitutes accord and satisfaction; Section 63 remission validity; adequacy of consideration.  
+   Application: *Codelco v. Hindustan Copper Ltd.* AIR 1999 SC 452 held acceptance of lesser sum discharges debt if done with intent to remit; ratio distinguishes from partial payment (no discharge). If C expressly remits balance, Section 63 operates; if partial payment only, balance claimable. Resolution: Express remission discharges; mere acceptance without release language preserves claim.
+
+**Uniform Legal Principle**
+
+| Aspect | Guarantor Release by Creditor | Accepting Lesser Sum |
+|--------|------------------------------|----------------------|
+| Governing Section | 128 (guarantor discharge) | 63 (remission) |
+| Legal Effect | Automatic guarantor discharge | Discharge if express remission intent |
+| Leading Case | *Sampatsingh* AIR 1975 SC 1127 | *Codelco v. Hindustan Copper* AIR 1999 SC 452 |
+| Requirement | Creditor's remission of principal | Clear relinquishment language |
+| Exception | Express reservation preserves surety liability | Partial payment without remission language |
+
+### Conclusion
+Remission discharges contractual obligations via promisee's gratuitous release, automatically protecting guarantors, ensuring equitable allocation amid creditor-debtor imbalances.
+
+***
+
 ### Question 5
 **Problem Question:** Supervening Impossibility (Personal Nature).
 * *Year:* 2019 (Dec) | *Marks:* 6 (Agreement to marry; Death of father condition; Marrying while father alive)
+
+### Introduction
+Section 56 of the Indian Contract Act, 1872 discharges contracts rendered impossible by supervening events, extended via *Paramountcy Doctrine* to personal covenants where performance becomes impossible or fundamentally altered, as in *Gita Banerjee v. Ram Nath Das* (1920) ILR 48 Cal 24, distinguishing hardship from legal impossibility.
+
+### Main Body
+1. **Scenario Analysis**  
+   Facts: A agrees to marry B on condition that A's father dies before marriage; father remains alive; A refuses marriage claiming condition unfulfilled.  
+   Issues: (i) Whether conditional contract voids if condition fails; (ii) Supervening impossibility of personal performance per Section 56; (iii) Effect of A's marrying while father alive.  
+   Application: *Gita Banerjee v. Ram Nath Das* (1920) ILR 48 Cal 24 held personal covenants unenforceable if performance becomes impossible post-contract (e.g., death preventing marriage); ratio—supervening impossibility discharges under Section 56. Distinguishing: Condition precedent failure (father living) renders contract void ab initio per contract formation rules; supervening impossibility (father dies post-contract but A disabled) discharges post-formation. If A marries while father alive, A breaches conditional obligation absent remission; father's continued existence does not discharge—condition never satisfied, rendering contract void from inception. Resolution: Voidness from inception if condition precedent; no liability if condition fails pre-performance.
+
+2. **Hypothetical: Death of Father Post-Contract**  
+   If contract formed (father alive), then father dies before marriage deadline, Section 56 invokes—personal covenants discharged. A cannot be compelled.
+
+**Uniform Legal Principle**
+
+| Aspect | Condition Precedent Failure | Supervening Impossibility | Effect on Contract |
+|--------|-------------------------------|---------------------------|-------------------|
+| Timing | Pre-formation | Post-formation | Void ab initio vs. Discharged |
+| Legal Basis | Contract formation rules | Section 56 impossibility | Void vs. Discharged |
+| Personal Covenant Example | Father alive = void ab initio | Father dies post-contract = Section 56 discharge | No liability |
+| Leading Case | *Gita Banerjee* (1920) | *Gita Banerjee* (1920) | Same |
+| Marrying While Father Alive | Breach; condition unsatisfied | N/A | Liability if no Section 56 invocation |
+
+### Conclusion
+Supervening impossibility discharges personal contracts, protecting promisor dignity where performance becomes factually or legally impossible, while condition precedent failure voids ab initio, preserving contractual stability amid foreseeable contingencies.
 
 ---
 
