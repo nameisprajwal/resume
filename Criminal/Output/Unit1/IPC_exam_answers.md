@@ -1657,8 +1657,3 @@ Possible parties to crime, governed by Sections 34-39 IPC, include:
 
 ---
 
-## END OF RESPONSES
-
----
-
-*Note: All responses reflect the jurisprudential principles, statutory provisions, and landmark case law relevant to the Indian Penal Code, 1860. Responses are structured according to academic rigor, with emphasis on doctrinal analysis, case citations, and scholarly reasoning appropriate for doctoral-level legal examination responses.*
