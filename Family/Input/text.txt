@@ -12,10 +12,7 @@ From the uploaded file, execute the complete workflow:
 - Year tag
 - Month tag
 
-2. For each question, generate a separate English markdown file:
-Q{number}_{short-topic-or-keyword}_EN.md
-
-3. Produce a deeply researched, academically authoritative answer following the structures below.
+2. For each question, produce a deeply researched, academically authoritative answer following the structures below.
 
 ------------------------------------------------------------
 THEORY / DESCRIPTIVE QUESTIONS (HIGHEST SCHOLARSHIP STANDARD)
