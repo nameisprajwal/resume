@@ -53,61 +53,14 @@ The writing must resemble a senior advocate’s written submission or judicial r
 ------------------------------------------------------------
 INDIVIDUAL MARKDOWN FILE REQUIREMENTS
 ------------------------------------------------------------
-Each Q-specific markdown file must:
-
+Each Qquestion must:
+KEEP MAXIMIMUN HEADING LEVEL AS ##
 - Contain the exact question as in the input
 - Preserve marks/year/month tags
 - Use structured, clean markdown with headings
 - Maintain uniform formatting
 - Provide top-tier legal scholarship, authoritative citations, and academic coherence
 
-------------------------------------------------------------
-KANNADA VERSION GENERATION
-------------------------------------------------------------
-After generating all English markdown files:
-
-4. Create a Kannada version for each question:
-Q{number}_{short-topic-or-keyword}_KA.md
-
-Requirements:
-- Faithful, high-quality translation
-- Preserve structure and legal accuracy
-- Maintain scholarly tone
-- Keep case law names in English but explain their principles in Kannada
-- Preserve marks/year/month tags
-
-------------------------------------------------------------
-MERGED FILE GENERATION
-------------------------------------------------------------
-After all individual files are completed:
-
-5. Create a merged English markdown file:
-Unit_Complete_EN.md
-- Include a table of contents
-- Append all English question-answer markdowns in order
-- Insert horizontal rules (---) between answers
-- Maintain clean academic formatting
-
-6. Create a merged Kannada markdown file:
-Unit_Complete_KA.md
-- Same structure and formatting as the English merged file
-
-------------------------------------------------------------
-FINAL UNIFIED MARKDOWN (ALL FILES COMBINED)
-------------------------------------------------------------
-7. Create one final unified markdown file:
-Unit_Complete_ALL.md
-
-This file must contain:
-- Table of contents
-- All English individual markdowns (in order)
-- All Kannada individual markdowns (in order)
-- The merged English markdown
-- The merged Kannada markdown
-- Clearly labeled section dividers
-- Horizontal rules (---) separating major sections
-
-The purpose of this file is to provide a single master document containing every piece of generated content.
 
 ------------------------------------------------------------
 QUALITY REQUIREMENTS
@@ -120,13 +73,5 @@ You must produce:
 - No brevity, no simplification
 - Writing quality comparable to a top law review article or leading legal commentary
 
-------------------------------------------------------------
-BEGIN EXECUTION
-------------------------------------------------------------
-Once the unit markdown file is uploaded, begin by extracting:
-- Question numbers
-- Question text
-- Marks
-- Year/month tags
+I want  donloadable markdown
 
-Then proceed through the full workflow described above, step by step.
